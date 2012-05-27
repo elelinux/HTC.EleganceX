@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <!-- color  -->
+    <item name="color/app_sectiontitle_yellow">@color/elegance_green</item>
+    <item name="color/date_yellow_bs">@color/elegance_green</item>
+    <item name="color/subtab_color_select_light">@color/elegance_green_dark</item>
+    <item name="color/app_background_yellow_highlight">@color/grey_light</item>
+    <item name="color/thread_menu_yellow">@color/grey_light</item>
+
+    <item name="drawable/back_click">@drawable/com_quoord_tapatalkpro_activity_back_click</item>
+    <item name="drawable/button_click">@drawable/com_quoord_tapatalkpro_activity_button_click</item>
+    <item name="drawable/fast_back_click">@drawable/com_quoord_tapatalkpro_activity_fast_back_click</item>
+    <item name="drawable/fast_forward_click">@drawable/com_quoord_tapatalkpro_activity_fast_forward_click</item>
+    <item name="drawable/forward_click">@drawable/com_quoord_tapatalkpro_activity_forward_click</item>
+    <item name="drawable/media_play">@drawable/com_quoord_tapatalkpro_activity_media_play</item>
+    <item name="drawable/transparent_button_highlight">@drawable/com_quoord_tapatalkpro_activity_transparent_button_highlight</item>
+
+    <item name="drawable/quickcontact_slider_btn_pressed">@drawable/com_quoord_tapatalkpro_activity_quickcontact_slider_btn_pressed</item>
+    <item name="drawable/quickcontact_slider_btn_selected">@drawable/com_quoord_tapatalkpro_activity_quickcontact_slider_btn_selected</item>
+</resource-redirections>

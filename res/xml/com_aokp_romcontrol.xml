@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="mipmap/ic_launcher">@drawable/com_aokp_romcontrol_ic_launcher</item>
+    <item name="drawable/ic_rom_control_battery">@drawable/com_aokp_romcontrol_ic_rom_control_battery</item>
+    <item name="drawable/ic_rom_control_clock">@drawable/com_aokp_romcontrol_ic_rom_control_clock</item>
+    <item name="drawable/ic_rom_control_general">@drawable/com_aokp_romcontrol_ic_rom_control_general</item>
+    <item name="drawable/ic_rom_control_general_ui">@drawable/com_aokp_romcontrol_ic_rom_control_general_ui</item>
+    <item name="drawable/ic_rom_control_init_d">@drawable/com_aokp_romcontrol_ic_rom_control_init_d</item>
+    <item name="drawable/ic_rom_control_led">@drawable/com_aokp_romcontrol_ic_rom_control_led</item>
+    <item name="drawable/ic_rom_control_lockscreens">@drawable/com_aokp_romcontrol_ic_rom_control_lockscreens</item>
+    <item name="drawable/ic_rom_control_navigation_bar">@drawable/com_aokp_romcontrol_ic_rom_control_navigation_bar</item>
+    <item name="drawable/ic_rom_control_performance">@drawable/com_aokp_romcontrol_ic_rom_control_performance</item>
+    <item name="drawable/ic_rom_control_power_menu">@drawable/com_aokp_romcontrol_ic_rom_control_power_menu</item>
+    <item name="drawable/ic_rom_control_powersaver">@drawable/com_aokp_romcontrol_ic_rom_control_powersaver</item>
+    <item name="drawable/ic_rom_control_signal">@drawable/com_aokp_romcontrol_ic_rom_control_signal</item>
+    <item name="drawable/ic_rom_control_toggles">@drawable/com_aokp_romcontrol_ic_rom_control_toggles</item>
+    <item name="drawable/ic_rom_control_weather">@drawable/com_aokp_romcontrol_ic_rom_control_weather</item>
+    <item name="drawable/ic_rom_control_battery">@drawable/com_aokp_romcontrol_ic_rom_control_battery</item>
+    <item name="drawable/ic_sysbar_back">@drawable/com_aokp_romcontrol_ic_sysbar_back</item>
+    <item name="drawable/ic_sysbar_home">@drawable/com_aokp_romcontrol_ic_sysbar_home</item>
+    <item name="drawable/ic_sysbar_kill">@drawable/com_aokp_romcontrol_ic_sysbar_kill</item>
+    <item name="drawable/ic_sysbar_killtask">@drawable/com_aokp_romcontrol_ic_sysbar_killtask</item>
+    <item name="drawable/ic_sysbar_null">@drawable/com_aokp_romcontrol_ic_sysbar_null</item>
+    <item name="drawable/ic_sysbar_power">@drawable/com_aokp_romcontrol_ic_sysbar_power</item>
+    <item name="drawable/ic_sysbar_recent">@drawable/com_aokp_romcontrol_ic_sysbar_recent</item>
+    <item name="drawable/ic_sysbar_search">@drawable/com_aokp_romcontrol_ic_sysbar_search</item>
+</resource-redirections>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <!-- Theme Apollo color's  -->
+    <item name="color/holo_blue_dark">@color/elegance_green_dark</item>
+    <item name="color/transparent_black">@color/elegance_green_bright</item>
+    <!-- Theme Apollo -->
+    <item name="drawable/apollo_holo_light_favorite_normal">@drawable/com_andrew_apollo_apollo_holo_light_favorite_normal</item>
+    <item name="drawable/apollo_holo_light_next">@drawable/com_andrew_apollo_apollo_holo_light_next</item>
+    <item name="drawable/apollo_holo_light_overflow">@drawable/com_andrew_apollo_apollo_holo_light_overflow</item>
+    <item name="drawable/apollo_holo_light_pause">@drawable/com_andrew_apollo_apollo_holo_light_pause</item>
+    <item name="drawable/apollo_holo_light_play">@drawable/com_andrew_apollo_apollo_holo_light_play</item>
+    <item name="drawable/apollo_holo_light_previous">@drawable/com_andrew_apollo_apollo_holo_light_previous</item>
+    <item name="drawable/apollo_holo_light_repeat_all">@drawable/com_andrew_apollo_apollo_holo_light_repeat_all</item>
+    <item name="drawable/apollo_holo_light_repeat_normal">@drawable/com_andrew_apollo_apollo_holo_light_repeat_normal</item>
+    <item name="drawable/apollo_holo_light_repeat_one">@drawable/com_andrew_apollo_apollo_holo_light_repeat_one</item>
+    <item name="drawable/apollo_holo_light_shuffle_on">@drawable/apollo_apollo_holo_light_shuffle_on</item>
+    <item name="drawable/appwidget_bg">@drawable/com_andrew_apollo_appwidget_bg</item>
+    <item name="drawable/indicator_playing_peak_meter_1">@drawable/com_andrew_apollo_indicator_playing_peak_meter_1</item>
+    <item name="drawable/indicator_playing_peak_meter_2">@drawable/com_andrew_apollo_indicator_playing_peak_meter_2</item>
+    <item name="drawable/indicator_playing_peak_meter_3">@drawable/com_andrew_apollo_indicator_playing_peak_meter_3</item>
+    <item name="drawable/indicator_playing_peak_meter_4">@drawable/com_andrew_apollo_indicator_playing_peak_meter_4</item>
+    <item name="drawable/indicator_playing_peak_meter_5">@drawable/com_andrew_apollo_indicator_playing_peak_meter_5</item>
+    <item name="drawable/list_section_divider_holo_custom">@drawable/com_andrew_apollo_list_section_divider_holo_custom</item>
+    <item name="drawable/notify_panel_notification_icon_bg">@drawable/com_andrew_apollo_notify_panel_notification_icon_bg</item>
+    <item name="drawable/recents_thumbnail_bg_press">@drawable/com_andrew_apollo_recents_thumbnail_bg_press</item>
+    <item name="drawable/tab_selected_holo">@drawable/com_andrew_apollo_tab_selected_holo</item>
+    <item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_andrew_apollo_tab_selected_pressed_focused_holo</item>
+    <item name="drawable/tab_selected_pressed_holo">@drawable/tab_selected_pressed_holo</item>
+    <item name="drawable/tab_unselected_focused_holo">@drawable/com_andrew_apollo_tab_unselected_focused_holo</item>
+    <item name="drawable/tab_unselected_holo">@drawable/com_andrew_apollo_tab_unselected_holo</item>
+    <item name="drawable/tab_unselected_pressed_holo">@drawable/com_andrew_apollo_tab_unselected_pressed_holo</item>  
+</resource-redirections>

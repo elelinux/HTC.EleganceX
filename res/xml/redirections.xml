@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<theme-redirections
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.andrew.apollo" android:resource="@xml/com_andrew_apollo" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.browser" android:resource="@xml/com_android_browser" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.calculator2" android:resource="@xml/com_android_calculator2" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.calendar" android:resource="@xml/com_android_calendar" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.camera" android:resource="@xml/com_android_camera" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.deskclock" android:resource="@xml/com_android_deskclock" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.email" android:resource="@xml/com_android_email" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.gallery" android:resource="@xml/com_android_gallery" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.inputmethod.latin" android:resource="@xml/com_android_inputmethod_latin" android:minSdkVersion="7" />
+    <package-redirections android:name="com.quoord.tapatalkpro.activity" android:resource="@xml/com_quoord_tapatalkpro_activity" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.mms" android:resource="@xml/com_android_mms" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.phone" android:resource="@xml/com_android_phone" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.providers.calendar" android:resource="@xml/com_android_providers_calendar" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.providers.downloads.ui" android:resource="@xml/com_android_providers_downloads_ui" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.providers.settings" android:resource="@xml/com_android_providers_settings" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.settings" android:resource="@xml/com_android_settings" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.systemui" android:resource="@xml/com_android_systemui" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.wallpaper" android:resource="@xml/com_android_wallpaper" android:minSdkVersion="7" />
+    <package-redirections android:name="com.aokp.romcontrol" android:resource="@xml/com_aokp_romcontrol" android:minSdkVersion="7" />
+    <package-redirections android:name="com.cyanogenmod.trebuchet" android:resource="@xml/com_cyanogenmod_trebuchet" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.apps.genie.geniewidget" android:resource="@xml/com_google_android_apps_genie_geniewidget" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.gm" android:resource="@xml/com_google_android_gm" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.googlequicksearchbox" android:resource="@xml/com_google_android_googlequicksearchbox" android:minSdkVersion="7" />
+    <package-redirections android:name="net.cactii_flash2" android:resource="@xml/net_cactii_flash2" android:minSdkVersion="7" />
+</theme-redirections>

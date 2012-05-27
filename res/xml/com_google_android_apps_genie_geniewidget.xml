@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright 2006, The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/appwidget_bg_focused_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_focused_holo</item>
+    <item name="drawable/appwidget_bg_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_holo</item>
+    <item name="drawable/appwidget_bg_pressed_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_pressed_holo</item>
+    <item name="drawable/appwidget_inner_focused_c_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_c_holo</item>
+    <item name="drawable/appwidget_inner_focused_l_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_l_holo</item>
+    <item name="drawable/appwidget_inner_focused_r_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_r_holo</item>
+    <item name="drawable/appwidget_inner_pressed_c_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_c_holo</item>
+    <item name="drawable/appwidget_inner_pressed_l_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_l_holo</item>
+    <item name="drawable/appwidget_inner_pressed_r_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_r_holo</item>
+    <item name="drawable/menuitem_background_focus">@drawable/com_google_android_apps_genie_geniewidget_menuitem_background_focus</item>
+    <item name="drawable/menuitem_background_pressed">@drawable/com_google_android_apps_genie_geniewidget_menuitem_background_pressed</item>
+    <item name="drawable/tab_weather_focus">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_focus</item>
+    <item name="drawable/tab_weather_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_press</item>
+    <item name="drawable/weather_info_btn_clicked">@drawable/com_google_android_apps_genie_geniewidget_weather_info_btn_clicked</item>
+
+<!-- Genie Widget Extra Icons Updated 2012-05-17  -->
+    <item name="drawable/ic_weather_chance_of_rain_l">@drawable/ic_weather_chance_of_rain_l</item>
+    <item name="drawable/ic_weather_chance_of_rain_m">@drawable/ic_weather_chance_of_rain_m</item>
+    <item name="drawable/ic_weather_chance_of_rain_s">@drawable/ic_weather_chance_of_rain_s</item>
+    <item name="drawable/ic_weather_chance_of_rain_xl">@drawable/ic_weather_chance_of_rain_xl</item>
+
+    <item name="drawable/ic_weather_chance_of_rain_night_l">@drawable/ic_weather_chance_of_rain_night_l</item>
+    <item name="drawable/ic_weather_chance_of_rain_night_m">@drawable/ic_weather_chance_of_rain_night_m</item>
+    <item name="drawable/ic_weather_chance_of_rain_night_s">@drawable/ic_weather_chance_of_rain_night_s</item>
+    <item name="drawable/ic_weather_chance_of_rain_night_xl">@drawable/ic_weather_chance_of_rain_night_xl</item>
+
+    <item name="drawable/ic_weather_chance_of_snow_l">@drawable/ic_weather_chance_of_snow_l</item>
+    <item name="drawable/ic_weather_chance_of_snow_m">@drawable/ic_weather_chance_of_snow_m</item>
+    <item name="drawable/ic_weather_chance_of_snow_s">@drawable/ic_weather_chance_of_snow_s</item>
+    <item name="drawable/ic_weather_chance_of_snow_xl">@drawable/ic_weather_chance_of_snow_xl</item>
+
+    <item name="drawable/ic_weather_chance_of_storm_l">@drawable/ic_weather_chance_of_storm_l</item>
+    <item name="drawable/ic_weather_chance_of_storm_m">@drawable/ic_weather_chance_of_storm_m</item>
+    <item name="drawable/ic_weather_chance_of_storm_s">@drawable/ic_weather_chance_of_storm_s</item>
+    <item name="drawable/ic_weather_chance_of_storm_xl">@drawable/ic_weather_chance_of_storm_xl</item>
+
+    <item name="drawable/ic_weather_clear_day_l">@drawable/ic_weather_clear_day_l</item>
+    <item name="drawable/ic_weather_clear_day_m">@drawable/ic_weather_clear_day_m</item>
+    <item name="drawable/ic_weather_clear_day_s">@drawable/ic_weather_clear_day_s</item>
+    <item name="drawable/ic_weather_clear_day_xl">@drawable/ic_weather_clear_day_xl</item>
+
+    <item name="drawable/ic_weather_clear_l">@drawable/ic_weather_clear_l</item>
+    <item name="drawable/ic_weather_clear_m">@drawable/ic_weather_clear_m</item>
+    <item name="drawable/ic_weather_clear_s">@drawable/ic_weather_clear_s</item>
+    <item name="drawable/ic_weather_clear_xl">@drawable/ic_weather_clear_xl</item>
+
+    <item name="drawable/ic_weather_clear_night_l">@drawable/ic_weather_clear_night_l</item>
+    <item name="drawable/ic_weather_clear_night_m">@drawable/ic_weather_clear_night_m</item>
+    <item name="drawable/ic_weather_clear_night_s">@drawable/ic_weather_clear_night_s</item>
+    <item name="drawable/ic_weather_clear_night_xl">@drawable/ic_weather_clear_night_xl</item>
+
+    <item name="drawable/ic_weather_cloudy_l">@drawable/ic_weather_cloudy_l</item>
+    <item name="drawable/ic_weather_cloudy_m">@drawable/ic_weather_cloudy_m</item>
+    <item name="drawable/ic_weather_cloudy_s">@drawable/ic_weather_cloudy_s</item>
+    <item name="drawable/ic_weather_cloudy_xl">@drawable/ic_weather_cloudy_xl</item>
+
+    <item name="drawable/ic_weather_flurries_l">@drawable/ic_weather_flurries_l</item>
+    <item name="drawable/ic_weather_flurries_m">@drawable/ic_weather_flurries_m</item>
+    <item name="drawable/ic_weather_flurries_s">@drawable/ic_weather_flurries_s</item>
+    <item name="drawable/ic_weather_flurries_xl">@drawable/ic_weather_flurries_xl</item>
+
+    <item name="drawable/ic_weather_fog_l">@drawable/ic_weather_fog_l</item>
+    <item name="drawable/ic_weather_fog_m">@drawable/ic_weather_fog_m</item>
+    <item name="drawable/ic_weather_fog_s">@drawable/ic_weather_fog_s</item>
+    <item name="drawable/ic_weather_fog_xl">@drawable/ic_weather_fog_xl</item>
+
+    <item name="drawable/ic_weather_heavy_rain_l">@drawable/ic_weather_heavy_rain_l</item>
+    <item name="drawable/ic_weather_heavy_rain_m">@drawable/ic_weather_heavy_rain_m</item>
+    <item name="drawable/ic_weather_heavy_rain_s">@drawable/ic_weather_heavy_rain_s</item>
+    <item name="drawable/ic_weather_heavy_rain_xl">@drawable/ic_weather_heavy_rain_xl</item>
+
+    <item name="drawable/ic_weather_icy_sleet_l">@drawable/ic_weather_icy_sleet_l</item>
+    <item name="drawable/ic_weather_icy_sleet_m">@drawable/ic_weather_icy_sleet_m</item>
+    <item name="drawable/ic_weather_icy_sleet_s">@drawable/ic_weather_icy_sleet_s</item>
+    <item name="drawable/ic_weather_icy_sleet_xl">@drawable/ic_weather_icy_sleet_xl</item>
+
+    <item name="drawable/ic_weather_info">@drawable/ic_weather_info</item>
+
+    <item name="drawable/ic_weather_mist_l">@drawable/ic_weather_mist_l</item>
+    <item name="drawable/ic_weather_mist_m">@drawable/ic_weather_mist_m</item>
+    <item name="drawable/ic_weather_mist_s">@drawable/ic_weather_mist_s</item>
+    <item name="drawable/ic_weather_mist_xl">@drawable/ic_weather_mist_xl</item>
+
+    <item name="drawable/ic_weather_partly_cloudy_l">@drawable/ic_weather_partly_cloudy_l</item>
+    <item name="drawable/ic_weather_partly_cloudy_m">@drawable/ic_weather_partly_cloudy_m</item>
+    <item name="drawable/ic_weather_partly_cloudy_s">@drawable/ic_weather_partly_cloudy_s</item>
+    <item name="drawable/ic_weather_partly_cloudy_xl">@drawable/ic_weather_partly_cloudy_xl</item>
+
+    <item name="drawable/ic_weather_rain_day_l">@drawable/ic_weather_rain_day_l</item>
+    <item name="drawable/ic_weather_rain_day_m">@drawable/ic_weather_rain_day_m</item>
+    <item name="drawable/ic_weather_rain_day_s">@drawable/ic_weather_rain_day_s</item>
+    <item name="drawable/ic_weather_rain_day_xl">@drawable/ic_weather_rain_day_xl</item>
+
+    <item name="drawable/ic_weather_rain_l">@drawable/ic_weather_rain_l</item>
+    <item name="drawable/ic_weather_rain_m">@drawable/ic_weather_rain_m</item>
+    <item name="drawable/ic_weather_rain_s">@drawable/ic_weather_rain_s</item>
+    <item name="drawable/ic_weather_rain_xl">@drawable/ic_weather_rain_xl</item>
+
+    <item name="drawable/ic_weather_rain_night_l">@drawable/ic_weather_rain_night_l</item>
+    <item name="drawable/ic_weather_rain_night_m">@drawable/ic_weather_rain_night_m</item>
+    <item name="drawable/ic_weather_rain_night_s">@drawable/ic_weather_rain_night_s</item>
+    <item name="drawable/ic_weather_rain_night_xl">@drawable/ic_weather_rain_night_xl</item>
+  
+    <item name="drawable/ic_weather_snow_l">@drawable/ic_weather_snow_l</item>
+    <item name="drawable/ic_weather_snow_m">@drawable/ic_weather_snow_m</item>
+    <item name="drawable/ic_weather_snow_s">@drawable/ic_weather_snow_s</item>
+    <item name="drawable/ic_weather_snow_xl">@drawable/ic_weather_snow_xl</item>
+
+    <item name="drawable/ic_weather_snow_rain_l">@drawable/ic_weather_snow_rain_l</item>
+    <item name="drawable/ic_weather_snow_rain_m">@drawable/ic_weather_snow_rain_m</item>
+    <item name="drawable/ic_weather_snow_rain_s">@drawable/ic_weather_snow_rain_s</item>
+    <item name="drawable/ic_weather_snow_rain_xl">@drawable/ic_weather_snow_rain_xl</item>
+
+    <item name="drawable/ic_weather_sunny_l">@drawable/ic_weather_sunny_l</item>
+    <item name="drawable/ic_weather_sunny_m">@drawable/ic_weather_sunny_m</item>
+    <item name="drawable/ic_weather_sunny_s">@drawable/ic_weather_sunny_s</item>
+    <item name="drawable/ic_weather_sunny_xl">@drawable/ic_weather_sunny_xl</item>
+
+    <item name="drawable/ic_weather_thunderstorm_l">@drawable/ic_weather_thunderstorm_l</item>
+    <item name="drawable/ic_weather_thunderstorm_m">@drawable/ic_weather_thunderstorm_m</item>
+    <item name="drawable/ic_weather_thunderstorm_s">@drawable/ic_weather_thunderstorm_s</item>
+    <item name="drawable/ic_weather_thunderstorm_xl">@drawable/ic_weather_thunderstorm_xl</item>
+
+    <item name="drawable/ic_weather_windy_l">@drawable/ic_weather_windy_l</item>    
+    <item name="drawable/ic_weather_windy_m">@drawable/ic_weather_windy_m</item>
+    <item name="drawable/ic_weather_windy_s">@drawable/ic_weather_windy_s</item>
+    <item name="drawable/ic_weather_windy_xl">@drawable/ic_weather_windy_xl</item>
+</resource-redirections>

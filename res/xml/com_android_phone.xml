@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_phone_btn_dial_textfield_pressed</item>
+    <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_phone_btn_dial_textfield_selected</item>
+    <item name="drawable/btn_call_pressed">@drawable/com_android_phone_btn_call_pressed</item>
+    <item name="drawable/dial_num_0_no_plus_wht">@drawable/com_android_phone_dial_num_0_no_plus_wht</item>
+    <item name="drawable/dial_num_1_no_plus_wht">@drawable/com_android_phone_dial_num_1_no_plus_wht</item>
+    <item name="drawable/dial_num_2_no_plus_wht">@drawable/com_android_phone_dial_num_2_no_plus_wht</item>
+    <item name="drawable/dial_num_3_no_plus_wht">@drawable/com_android_phone_dial_num_3_no_plus_wht</item>
+    <item name="drawable/dial_num_4_no_plus_wht">@drawable/com_android_phone_dial_num_4_no_plus_wht</item>
+    <item name="drawable/dial_num_5_no_plus_wht">@drawable/com_android_phone_dial_num_5_no_plus_wht</item>
+    <item name="drawable/dial_num_6_no_plus_wht">@drawable/com_android_phone_dial_num_6_no_plus_wht</item>
+    <item name="drawable/dial_num_7_no_plus_wht">@drawable/com_android_phone_dial_num_7_no_plus_wht</item>
+    <item name="drawable/dial_num_8_no_plus_wht">@drawable/com_android_phone_dial_num_8_no_plus_wht</item>
+    <item name="drawable/dial_num_9_no_plus_wht">@drawable/com_android_phone_dial_num_9_no_plus_wht</item>
+    <item name="drawable/ic_active_state_dialer_holo_dark">@drawable/com_android_phone_ic_active_state_dialer_holo_dark</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
+    <item name="drawable/ic_launcher_sip_call">@drawable/com_android_phone_ic_launcher_sip_call</item>
+    <item name="drawable/ic_list_focused_holo">@drawable/com_android_phone_ic_list_focused_holo</item>
+    <item name="drawable/ic_list_pressed_holo_dark">@drawable/com_android_phone_ic_list_pressed_holo_dark</item>
+    <item name="drawable/picture_congerence">@drawable/com_android_phone_picture_conference</item>
+    <item name="drawable/picture_dialing">@drawable/com_android_phone_picture_dialing</item>
+    <item name="drawable/picture_unknown">@drawable/com_android_phone_picture_unknown</item>
+</resource-redirections>
