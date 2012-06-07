@@ -33,7 +33,7 @@
     <item name="drawable/stat_sys_battery_charge">@drawable/stat_sys_battery_charge</item>
     <item name="drawable/zzz_stat_sys_battery_1">@drawable/zzz_stat_sys_battery_1</item>
 
-    <!-- Theme Aluminum a -->
+    <!-- Theme HTC.EleganceX a -->
     <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
     <item name="drawable/ab_bottom_solid_light_holo9">@drawable/frameworks_res_ab_bottom_solid_light_holo9</item>
@@ -57,7 +57,7 @@
     <item name="drawable/arrow_down_float">@drawable/frameworks_res_arrow_down_float</item>
     <item name="drawable/arrow_up_float">@drawable/frameworks_res_arrow_up_float</item>
 
-    <!-- Theme Aluminum b -->
+    <!-- Theme HTC.EleganceX b -->
     <item name="drawable/battery_charge_background">@drawable/frameworks_res_battery_charge_background</item>
     <item name="drawable/bottom_bar">@drawable/frameworks_res_bottom_bar</item>
     <item name="drawable/btn_cab_done_default_holo_dark9">@drawable/frameworks_res_btn_cab_done_default_holo_dark9</item>
@@ -346,7 +346,7 @@
     <item name="drawable/button_onoff_indicator_off">@drawable/frameworks_res_button_onoff_indicator_off</item>
     <item name="drawable/button_onoff_indicator_on">@drawable/frameworks_res_button_onoff_indicator_on</item>
 
-    <!-- Theme Aluminum c -->
+    <!-- Theme HTC.EleganceX c -->
     <item name="drawable/cab_background_bottom_holo_dark">@drawable/frameworks_res_cab_background_bottom_holo_dark</item>
     <item name="drawable/cab_background_bottom_holo_dark">@drawable/frameworks_res_cab_background_bottom_holo_dark</item>
     <item name="drawable/cab_background_bottom_holo_dark">@drawable/frameworks_res_cab_background_bottom_holo_dark</item>
@@ -375,7 +375,7 @@
     <item name="drawable/contact_header_bg">@drawable/frameworks_res_contact_header_bg</item>
     <item name="drawable/create_contact">@drawable/frameworks_res_create_contact</item>
 
-    <!-- Theme Aluminum d -->
+    <!-- Theme HTC.EleganceX d -->
     <item name="drawable/dark_header">@drawable/frameworks_res_dark_header</item>
     <item name="drawable/day_picker_week_view_dayline_holo">@drawable/frameworks_res_day_picker_week_view_dayline_holo</item>
     <item name="drawable/dialog_bottom_holo_dark">@drawable/frameworks_res_dialog_bottom_holo_dark</item>
@@ -432,7 +432,7 @@
     <item name="drawable/dropdown_pressed_holo_dark">@drawable/frameworks_res_dropdown_pressed_holo_dark</item>
     <item name="drawable/dropdown_pressed_holo_light">@drawable/frameworks_res_dropdown_pressed_holo_light</item>
 
-    <!-- Theme Aluminum e -->
+    <!-- Theme HTC.EleganceX e -->
     <item name="drawable/editbox_background_focus_yellow">@drawable/frameworks_res_editbox_background_focus_yellow</item>
     <item name="drawable/editbox_background_normal">@drawable/frameworks_res_editbox_background_normal</item>
     <item name="drawable/editbox_dropdown_background_dark">@drawable/frameworks_res_editbox_dropdown_background_dark</item>
@@ -465,7 +465,7 @@
     <item name="drawable/expander_open_holo_dark">@drawable/frameworks_res_expander_open_holo_dark</item>
     <item name="drawable/expander_open_holo_light">@drawable/frameworks_res_expander_open_holo_light</item>
 
-    <!-- Theme Aluminum f -->
+    <!-- Theme HTC.EleganceX f -->
     <item name="drawable/fastscroll_label_left_holo_dark">@drawable/frameworks_res_fastscroll_label_left_holo_dark</item>
     <item name="drawable/fastscroll_label_left_holo_light">@drawable/frameworks_res_fastscroll_label_left_holo_light</item>
     <item name="drawable/fastscroll_label_right_holo_dark">@drawable/frameworks_res_fastscroll_label_right_holo_dark</item>
@@ -489,12 +489,12 @@
     <item name="drawable/grid_selector_background_focus">@drawable/frameworks_res_grid_selector_background_focus</item>
     <item name="drawable/grid_selector_background_pressed">@drawable/frameworks_res_grid_selector_background_pressed</item>
 
-    <!-- Theme Aluminum h -->
+    <!-- Theme HTC.EleganceX h -->
     <item name="drawable/highlight_disabled">@drawable/frameworks_res_highlight_disabled</item>
     <item name="drawable/highlight_pressed">@drawable/frameworks_res_highlight_pressed</item>
     <item name="drawable/highlight_selected">@drawable/frameworks_res_highlight_selected</item>
 
-    <!-- Theme Aluminum i -->
+    <!-- Theme HTC.EleganceX i -->
     <item name="drawable/ic_ab_back_holo_dark">@drawable/frameworks_res_ic_ab_back_holo_dark</item>
     <item name="drawable/ic_ab_back_holo_light">@drawable/frameworks_res_ic_ab_back_holo_light</item>
     <item name="drawable/ic_aggregated">@drawable/frameworks_res_ic_aggregated</item>
@@ -762,7 +762,7 @@
     <item name="drawable/indicator_code_lock_point_area_red_holo">@drawable/frameworks_res_indicator_code_lock_point_area_red_holo</item>
     <item name="drawable/indicator_input_error">@drawable/frameworks_res_indicator_input_error</item>
 
-    <!-- Theme Aluminum j -->
+    <!-- Theme HTC.EleganceX j -->
     <item name="drawable/jog_dial_arrow_long_left_green">@drawable/frameworks_res_jog_dial_arrow_long_left_green</item>
     <item name="drawable/jog_dial_arrow_long_left_yellow">@drawable/frameworks_res_jog_dial_arrow_long_left_yellow</item>
     <item name="drawable/jog_dial_arrow_long_middle_yellow">@drawable/frameworks_res_jog_dial_arrow_long_middle_yellow</item>
@@ -803,7 +803,7 @@
     <item name="drawable/jog_tab_target_red">@drawable/frameworks_res_jog_tab_target_red</item>
     <item name="drawable/jog_tab_target_yellow">@drawable/frameworks_res_jog_tab_target_yellow</item>
 
-    <!-- Theme Aluminum k -->
+    <!-- Theme HTC.EleganceX k -->
     <item name="drawable/keyboard_accessory_bg_landscape">@drawable/frameworks_res_keyboard_accessory_bg_landscape</item>
     <item name="drawable/keyboard_background">@drawable/frameworks_res_keyboard_background</item>
     <item name="drawable/keyboard_key_feedback_background">@drawable/frameworks_res_keyboard_key_feedback_background</item>
@@ -811,7 +811,7 @@
     <item name="drawable/keyboard_popup_panel_background">@drawable/frameworks_res_keyboard_popup_panel_background</item>
     <item name="drawable/keyboard_popup_panel_trans_background">@drawable/frameworks_res_keyboard_popup_panel_trans_background</item>
 
-    <!-- Theme Aluminum l -->
+    <!-- Theme HTC.EleganceX l -->
     <item name="drawable/light_header">@drawable/frameworks_res_light_header</item>
     <item name="drawable/list_activated_holo">@drawable/frameworks_res_list_activated_holo</item>
     <item name="drawable/list_divider_holo_dark">@drawable/frameworks_res_list_divider_holo_dark</item>
@@ -854,7 +854,7 @@
     <item name="drawable/list_selector_pressed_holo_dark">@drawable/frameworks_res_list_selector_pressed_holo_dark</item>
     <item name="drawable/list_selector_pressed_holo_light">@drawable/frameworks_res_list_selector_pressed_holo_light</item>
 
-    <!-- Theme Aluminum m -->
+    <!-- Theme HTC.EleganceX m -->
     <item name="drawable/maps_google_logo">@drawable/frameworks_res_maps_google_logo</item>
     <item name="drawable/menu_background">@drawable/frameworks_res_menu_background</item>
     <item name="drawable/menu_background_fill_parent_width">@drawable/frameworks_res_menu_background_fill_parent_width</item>
@@ -875,7 +875,7 @@
     <item name="drawable/minitab_lt_unselected">@drawable/frameworks_res_minitab_lt_unselected</item>
     <item name="drawable/minitab_lt_unselected_press">@drawable/frameworks_res_minitab_lt_unselected_press</item>
 
-    <!-- Theme Aluminum n -->
+    <!-- Theme HTC.EleganceX n -->
     <item name="drawable/notify_panel_notification_icon_bg">@drawable/frameworks_res_notify_panel_notification_icon_bg</item>
     <item name="drawable/numberpicker_down_disabled">@drawable/frameworks_res_numberpicker_down_disabled</item>
     <item name="drawable/numberpicker_down_disabled_focused">@drawable/frameworks_res_numberpicker_down_disabled_focused</item>
@@ -917,11 +917,11 @@
     <item name="drawable/numberpicker_up_pressed_holo_light">@drawable/frameworks_res_numberpicker_up_pressed_holo_light</item>
     <item name="drawable/numberpicker_up_selected">@drawable/frameworks_res_numberpicker_up_selected</item>
 
-    <!-- Theme Aluminum o -->
+    <!-- Theme HTC.EleganceX o -->
     <item name="drawable/overscroll_edge">@drawable/frameworks_res_overscroll_edge</item>
     <item name="drawable/overscroll_glow">@drawable/frameworks_res_overscroll_glow</item>
 
-    <!-- Theme Aluminum p -->
+    <!-- Theme HTC.EleganceX p -->
     <item name="drawable/panel_background">@drawable/frameworks_res_panel_background</item>
     <item name="drawable/panel_bg_holo_dark">@drawable/frameworks_res_panel_bg_holo_dark</item>
     <item name="drawable/panel_bg_holo_light">@drawable/frameworks_res_panel_bg_holo_light</item>
@@ -985,7 +985,7 @@
     <item name="drawable/progress_secondary_holo_dark">@drawable/frameworks_res_progress_secondary_holo_dark</item>
     <item name="drawable/progress_secondary_holo_light">@drawable/frameworks_res_progress_secondary_holo_light</item>
 
-    <!-- Theme Aluminum q -->
+    <!-- Theme HTC.EleganceX q -->
     <item name="drawable/quickactions_arrowdown_left_holo_dark">@drawable/frameworks_res_quickactions_arrowdown_left_holo_dark</item>
     <item name="drawable/quickactions_arrowdown_left_holo_light">@drawable/frameworks_res_quickactions_arrowdown_left_holo_light</item>
     <item name="drawable/quickactions_arrowdown_right_holo_dark">@drawable/frameworks_res_quickactions_arrowdown_right_holo_dark</item>
@@ -1005,7 +1005,7 @@
     <item name="drawable/quickcontact_badge_small_unpressed">@drawable/frameworks_res_quickcontact_badge_small_unpressed</item>
     <item name="drawable/quickcontact_badge_unpressed">@drawable/frameworks_res_quickcontact_badge_unpressed</item>
 
-    <!-- Theme Aluminum r -->
+    <!-- Theme HTC.EleganceX r -->
     <item name="drawable/radiobutton_off_background">@drawable/frameworks_res_radiobutton_off_background</item>
     <item name="drawable/radiobutton_on_background">@drawable/frameworks_res_radiobutton_on_background</item>
     <item name="drawable/rate_star_big_half">@drawable/frameworks_res_rate_star_big_half</item>
@@ -1038,7 +1038,7 @@
     <item name="drawable/recent_dialog_background">@drawable/frameworks_res_recent_dialog_background</item>
     <item name="drawable/reticle">@drawable/frameworks_res_reticle</item>
 
-    <!-- Theme Aluminum s -->
+    <!-- Theme HTC.EleganceX s -->
     <item name="drawable/scrollbar_handle_accelerated_anim2">@drawable/frameworks_res_scrollbar_handle_accelerated_anim2</item>
     <item name="drawable/scrollbar_handle_holo_dark">@drawable/frameworks_res_scrollbar_handle_holo_dark</item>
     <item name="drawable/scrollbar_handle_holo_light">@drawable/frameworks_res_scrollbar_handle_holo_light</item>
@@ -1259,7 +1259,7 @@
     <item name="drawable/sym_keyboard_shift_locked">@drawable/frameworks_res_sym_keyboard_shift_locked</item>
     <item name="drawable/sym_keyboard_space">@drawable/frameworks_res_sym_keyboard_space</item>
 
-    <!-- Theme Aluminum t -->
+    <!-- Theme HTC.EleganceX t -->
     <item name="drawable/tab_bottom_holo">@drawable/frameworks_res_tab_bottom_holo</item>
     <item name="drawable/tab_focus_bar_left">@drawable/frameworks_res_tab_focus_bar_left</item>
     <item name="drawable/tab_focus_bar_right">@drawable/frameworks_res_tab_focus_bar_right</item>
@@ -1353,15 +1353,15 @@
     <item name="drawable/toast_frame_holo">@drawable/frameworks_res_toast_frame_holo</item>
     <item name="drawable/transportcontrol_bg">@drawable/frameworks_res_transportcontrol_bg</item>
 
-    <!-- Theme Aluminum u -->
+    <!-- Theme HTC.EleganceX u -->
     <item name="drawable/unknown_image">@drawable/frameworks_res_unknown_image</item>
     <item name="drawable/usb_android_connected">@drawable/frameworks_res_usb_android_connected</item>
     <item name="drawable/usb_android">@drawable/frameworks_res_usb_android</item>
 
-    <!-- Theme Aluminum v -->
+    <!-- Theme HTC.EleganceX v -->
     <item name="drawable/vpn_connected">@drawable/frameworks_res_vpn_connected</item>
     <item name="drawable/vpn_disconnected">@drawable/frameworks_res_vpn_disconnected</item>
 
-    <!-- Theme Aluminum z -->
+    <!-- Theme HTC.EleganceX z -->
     <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
 </resource-redirections>
