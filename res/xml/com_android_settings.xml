@@ -34,6 +34,7 @@
     <item name="drawable/ic_network_signal_3">@drawable/com_android_settings_ic_network_signal_3</item>
     <item name="drawable/ic_network_signal_4">@drawable/com_android_settings_ic_network_signal_4</item>
     <item name="drawable/ic_settings_about">@drawable/com_android_settings_ic_settings_about</item>
+    <item name="drawable/ic_settings_lockscreen">@drawable/com_android_settings_ic_settings_lockscreen</item>
     <item name="drawable/ic_settings_accessibility">@drawable/com_android_settings_ic_settings_accessibility</item>
     <item name="drawable/ic_settings_applications">@drawable/com_android_settings_ic_settings_applications</item>
     <item name="drawable/ic_settings_battery">@drawable/com_android_settings_ic_settings_battery</item>
@@ -70,5 +71,14 @@
     <item name="drawable/ic_owain_t">@drawable/com_android_settings_ic_owain_t</item>
     <item name="drawable/ic_settings_genwallpapers">@drawable/com_android_settings_ic_settings_genwallpapers</item>
     <item name="drawable/ic_settings_theme">@drawable/com_android_settings_ic_settings_theme</item>
+
+    <item name="drawable/data_usage_left_activated">@drawable/com_android_settings_data_usage_left_activated</item>
+    <item name="drawable/data_usage_left_default">@drawable/com_android_settings_data_usage_left_default</item>
+    <item name="drawable/data_usage_limit_activated">@drawable/com_android_settings_data_usage_limit_activated</item>
+    <item name="drawable/data_usage_limit_default">@drawable/com_android_settings_data_usage_limit_default</item>
+    <item name="drawable/data_usage_right_activated">@drawable/com_android_settings_data_usage_right_activated</item>
+    <item name="drawable/data_usage_right_default">@drawable/com_android_settings_data_usage_right_default</item>
+    <item name="drawable/data_usage_warning_activated">@drawable/com_android_settings_data_usage_warning_activated</item>
+    <item name="drawable/data_usage_warning_default">@drawable/com_android_settings_data_usage_warning_default</item>
 
 </resource-redirections>

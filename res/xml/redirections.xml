@@ -29,7 +29,6 @@
     <package-redirections android:name="com.android.email" android:resource="@xml/com_android_email" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.gallery" android:resource="@xml/com_android_gallery" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.inputmethod.latin" android:resource="@xml/com_android_inputmethod_latin" android:minSdkVersion="7" />
-    <package-redirections android:name="com.quoord.tapatalkpro.activity" android:resource="@xml/com_quoord_tapatalkpro_activity" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.mms" android:resource="@xml/com_android_mms" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.phone" android:resource="@xml/com_android_phone" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.providers.calendar" android:resource="@xml/com_android_providers_calendar" android:minSdkVersion="7" />
@@ -43,5 +42,7 @@
     <package-redirections android:name="com.google.android.apps.genie.geniewidget" android:resource="@xml/com_google_android_apps_genie_geniewidget" android:minSdkVersion="7" />
     <package-redirections android:name="com.google.android.gm" android:resource="@xml/com_google_android_gm" android:minSdkVersion="7" />
     <package-redirections android:name="com.google.android.googlequicksearchbox" android:resource="@xml/com_google_android_googlequicksearchbox" android:minSdkVersion="7" />
+    <package-redirections android:name="com.quoord.tapatalkpro.activity" android:resource="@xml/com_quoord_tapatalkpro_activity" android:minSdkVersion="7" />
+    <package-redirections android:name="com.teslacoilsw.launcher" android:resource="@xml/com_teslacoilsw_launcher" android:minSdkVersion="7" />
     <package-redirections android:name="net.cactii_flash2" android:resource="@xml/net_cactii_flash2" android:minSdkVersion="7" />
 </theme-redirections>

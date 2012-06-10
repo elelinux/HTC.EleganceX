@@ -17,6 +17,22 @@
  -->
 
 <resource-redirections>
+    <!-- style etc.. -->
+    <item name="style/TextAppearance.StatusBar.IntruderAlert">@style/TextAppearance.StatusBar.IntruderAlert</item>
+    <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
+    <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
+    <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
+    <item name="color/notification_list_shadow_top">@color/systemui_notification_list_shadow_top</item>
+    <item name="color/bar_recents_app_label_color">@color/systemui_bar_recents_app_label_color</item>
+    <item name="drawable/notification_number_text_color">@drawable/notification_number_text_color</item>
+    <item name="drawable/notification_item_background_color">@drawable/notification_item_background_color</item>
+    <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
+    <item name="drawable/ticker_background_color">@drawable/ticker_background_color</item>
+    <item name="drawable/status_bar_background">@drawable/status_bar_background</item>
+    <item name="drawable/status_bar_recents_background_solid">@drawable/status_bar_recents_background_solid</item>
+    <item name="drawable/status_bar_recents_app_thumbnail_background">@drawable/status_bar_recents_app_thumbnail_background</item>
+    <item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
+    <item name="drawable/notification_tracking_bg">@drawable/notification_tracking_bg</item>
 
     <!-- notification pressed color -->
     <item name="drawable/notification_item_background_color_pressed">@color/elegance_green_dark</item>
@@ -280,7 +296,6 @@
     <item name="drawable/stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
     <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
-    <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
     <item name="drawable/status_bar_hr">@drawable/com_android_systemui_status_bar_hr</item>
     <!-- Added 2012-05-23 -->
     <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
@@ -300,4 +315,6 @@
     <item name="drawable/stat_sys_battery_min_57">@drawable/stat_sys_battery_min_57</item>
     <item name="drawable/stat_sys_battery_min_71">@drawable/stat_sys_battery_min_71</item>
     <item name="drawable/stat_sys_battery_min_85">@drawable/stat_sys_battery_min_85</item>
+    <!-- Added 2012-05-29 -->
+    <item name="drawable/status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
 </resource-redirections>

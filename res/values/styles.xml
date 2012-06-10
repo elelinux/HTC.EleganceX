@@ -17,5 +17,22 @@
  -->
 
 <resources>
+    <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.SystemPanel" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.TextButton" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.PhoneTicker" parent="@android:style/Theme.Holo.Wallpaper">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
     <style name="HTC.EleganceX" parent="@android:style/Theme" />
 </resources>

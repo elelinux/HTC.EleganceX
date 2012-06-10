@@ -17,6 +17,10 @@
  -->
 
 <resource-redirections>
+    <!-- Theme incall state label color -->
+    <item name="color/incall_call_state_label_background">@color/elegance_green_transparens</item>
+
+    <!-- Theme HTC.Elegance-->
     <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_phone_btn_dial_textfield_pressed</item>
     <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_phone_btn_dial_textfield_selected</item>
     <item name="drawable/btn_call_pressed">@drawable/com_android_phone_btn_call_pressed</item>

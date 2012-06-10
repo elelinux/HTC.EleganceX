@@ -20,9 +20,21 @@
     <color name="elegance_green_bright">#ffaadd00</color>
     <color name="elegance_green_dark">#ff669900</color>
     <color name="elegance_green">#ff99cc00</color>
+    <color name="elegance_green_transparens">#8099cc00</color>
     <color name="notification_item_background_color_pressed">#ff99cc00</color>
     <color name="status_bar_background">#80000000</color>
     <color name="transparent">#80000000</color>
     <color name="grey_light">#ffdbd7d2</color>
     <color name="white">#ffffffff</color>
+
+    <color name="action_bar_button_text_color">#ff000000</color>
+    <color name="contact_count_text_color">#ff000000</color>
+    <color name="detail_update_tab_text_color">#ff000000</color>
+    <color name="dialtacts_secondary_text_color">#ff000000</color>
+    <color name="main_background">#ff888888</color>
+    <color name="section_header_text_color">#ff000000</color>
+    <color name="separator_line">#ffdbd3d3</color>
+    <color name="title_background">#80000000</color>
+    <color name="notification_panel_nofication_icon_bg">#80000000</color>
+    <color name="tos_text_color">#ff000000</color>
 </resources>
