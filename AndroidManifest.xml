@@ -27,10 +27,6 @@
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
-    <activity 
-        android:label="@string/theme_name"
-        android:name="com.tmobile.theme.Foo" />
-
     <theme
         pluto:themeId="HTC.EleganceX"
         pluto:styleId="@style/HTC.EleganceX"
