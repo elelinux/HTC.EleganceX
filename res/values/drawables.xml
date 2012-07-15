@@ -30,5 +30,26 @@
     <item type="drawable" name="notification_tracking_bg">#80000000</item>
     <item type="drawable" name="recents_callout_line">#99bfbfbf</item>
     <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
+   <!-- HTC Stock 2012-06-15-->
+    <drawable name="alert_dark_frame">@drawable/frameworks_res_popup_full_dark</drawable>
+    <drawable name="alert_light_frame">@drawable/frameworks_res_popup_full_bright</drawable>
+    <drawable name="dialog_frame">@drawable/frameworks_res_panel_background</drawable>
+    <drawable name="editbox_dropdown_dark_frame">@drawable/frameworks_res_editbox_dropdown_background_dark</drawable>
+    <drawable name="editbox_dropdown_light_frame">@drawable/frameworks_res_editbox_dropdown_background</drawable>
+    <drawable name="menu_frame">@drawable/frameworks_res_menu_background</drawable>
+    <drawable name="menu_full_frame">@drawable/frameworks_res_menu_background_fill_parent_width</drawable>
+    <drawable name="stat_notify_sync_noanim">@drawable/frameworks_res_stat_notify_sync_anim0</drawable>
+    <drawable name="stat_sys_upload_done">@drawable/frameworks_res_stat_sys_upload_anim0</drawable>
+    <item type="drawable" name="screen_background_dark">#ff000000</item>
+    <item type="drawable" name="screen_background_light">#ffffffff</item>
+    <item type="drawable" name="screen_background_dark_transparent">#80000000</item>
+    <item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
+    <drawable name="dialog_holo_dark_frame">@drawable/frameworks_res_dialog_full_holo_dark</drawable>
+    <drawable name="dialog_holo_light_frame">@drawable/frameworks_res_dialog_full_holo_light</drawable>
+    <item type="drawable" name="status_bar_closed_default_background">#ff000000</item>
+    <item type="drawable" name="status_bar_opened_default_background">#ff000000</item>
+    <item type="drawable" name="search_bar_default_color">#ff000000</item>
+    <item type="drawable" name="safe_mode_background">#60000000</item>
+
 </resources>
 

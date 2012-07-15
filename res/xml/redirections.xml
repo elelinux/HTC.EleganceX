@@ -36,6 +36,7 @@
     <package-redirections android:name="com.android.providers.settings" android:resource="@xml/com_android_providers_settings" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.settings" android:resource="@xml/com_android_settings" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.systemui" android:resource="@xml/com_android_systemui" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.vending" android:resource="@xml/com_android_vending" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.wallpaper" android:resource="@xml/com_android_wallpaper" android:minSdkVersion="7" />
     <package-redirections android:name="com.aokp.romcontrol" android:resource="@xml/com_aokp_romcontrol" android:minSdkVersion="7" />
     <package-redirections android:name="com.cyanogenmod.trebuchet" android:resource="@xml/com_cyanogenmod_trebuchet" android:minSdkVersion="7" />

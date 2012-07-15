@@ -17,54 +17,94 @@
  -->
 
 <resource-redirections>
-    <!-- Theme HTC.EleganceX  -->
+    <!-- Theme HTC.EleganceX colors -->
     <item name="color/holo_blue_bright">@color/elegance_green_bright</item>
     <item name="color/holo_blue_dark">@color/elegance_green_dark</item>
     <item name="color/holo_blue_light">@color/elegance_green</item>
     <item name="color/highlighted_text_holo_dark">@color/elegance_green</item>
     <item name="color/highlighted_text_holo_light">@color/elegance_green</item>
+
+    <!-- Theme HTC.EleganceX drawable/ xml files -->
     <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/progress_horizontal_holo_dark">@drawable/progress_horizontal_holo_dark</item>
     <item name="drawable/progress_horizontal_holo_light">@drawable/progress_horizontal_holo_light</item>
     <item name="drawable/notification_panel_nofication_icon_bg">@drawable/frameworks_res_notification_panel_nofication_icon_bg</item>
 
+    <!-- Theme Aluminum animation style -->
+    <item name="style/Animation.Activity">@style/Animation.Activity</item>
+    <item name="style/Animation.Dialog">@style/Animation.Dialog</item>
+    <item name="style/Animation.Translucent">@style/Animation.Translucent</item>
+    <item name="style/Animation.Toast">@style/Animation.Toast</item>
+    <item name="style/Animation.LockScreen">@style/Animation.LockScreen</item>
+    <item name="style/Animation.OptionsPanel">@style/Animation.OptionsPanel</item>
+    <item name="style/Animation.SubMenuPanel">@style/Animation.SubMenuPanel</item>
+    <item name="style/Animation.TypingFilter">@style/Animation.TypingFilter</item>
+    <item name="style/Animation.TypingFilterRestore">@style/Animation.TypingFilterRestore</item>
+    <item name="style/Animation.DropDownDown">@style/Animation.DropDownDown</item>
+    <item name="style/Animation.DropDownUp">@style/Animation.DropDownUp</item>
+    <item name="style/Animation.InputMethodFancy">@style/Animation.InputMethodFancy</item>
+    <item name="style/Animation.SearchBar">@style/Animation.SearchBar</item>
+    <item name="style/Animation.ZoomButtons">@style/Animation.ZoomButtons</item>
+    <item name="style/Animation.Wallpaper">@style/Animation.Wallpaper</item>
+    <item name="style/Animation.RecentApplications">@style/Animation.RecentApplications</item>
+    <item name="style/Animation.VolumePanel">@style/Animation.VolumePanel</item>
+
     <!-- Theme HTC.EleganceX battery dep. -->
     <item name="drawable/stat_sys_battery">@drawable/stat_sys_battery</item>
     <item name="drawable/stat_sys_battery_charge">@drawable/stat_sys_battery_charge</item>
     <item name="drawable/zzz_stat_sys_battery_1">@drawable/zzz_stat_sys_battery_1</item>
 
-    <!-- Theme HTC.EleganceX a -->
+    <!-- Theme HTC.EleganceX -->
     <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
     <item name="drawable/ab_bottom_solid_light_holo9">@drawable/frameworks_res_ab_bottom_solid_light_holo9</item>
+    <item name="drawable/ab_bottom_solid_light_holo">@drawable/frameworks_res_ab_bottom_solid_light_holo</item>
     <item name="drawable/ab_bottom_transparent_dark_holo">@drawable/frameworks_res_ab_bottom_transparent_dark_holo</item>
     <item name="drawable/ab_bottom_transparent_light_holo9">@drawable/frameworks_res_ab_bottom_transparent_light_holo9</item>
+    <item name="drawable/ab_bottom_transparent_light_holo">@drawable/frameworks_res_ab_bottom_transparent_light_holo</item>
     <item name="drawable/ab_share_pack_holo_dark9">@drawable/frameworks_res_ab_share_pack_holo_dark9</item>
+    <item name="drawable/ab_share_pack_holo_dark">@drawable/frameworks_res_ab_share_pack_holo_dark</item>
     <item name="drawable/ab_share_pack_holo_light9">@drawable/frameworks_res_ab_share_pack_holo_light9</item>
+    <item name="drawable/ab_share_pack_holo_light">@drawable/frameworks_res_ab_share_pack_holo_light</item>
     <item name="drawable/ab_solid_dark_holo9">@drawable/frameworks_res_ab_solid_dark_holo9</item>
+    <item name="drawable/ab_solid_dark_holo">@drawable/frameworks_res_ab_solid_dark_holo</item>
     <item name="drawable/ab_solid_light_holo9">@drawable/frameworks_res_ab_solid_light_holo9</item>
+    <item name="drawable/ab_solid_light_holo">@drawable/frameworks_res_ab_solid_light_holo</item>
     <item name="drawable/ab_solid_shadow_holo9">@drawable/frameworks_res_ab_solid_shadow_holo9</item>
+    <item name="drawable/ab_solid_shadow_holo">@drawable/frameworks_res_ab_solid_shadow_holo</item>
     <item name="drawable/ab_stacked_solid_dark_holo9">@drawable/frameworks_res_ab_stacked_solid_dark_holo9</item>
+    <item name="drawable/ab_stacked_solid_dark_holo">@drawable/frameworks_res_ab_stacked_solid_dark_holo</item>
     <item name="drawable/ab_stacked_solid_inverse_holo9">@drawable/frameworks_res_ab_stacked_solid_inverse_holo9</item>
+    <item name="drawable/ab_stacked_solid_inverse_holo">@drawable/frameworks_res_ab_stacked_solid_inverse_holo</item>
     <item name="drawable/ab_stacked_solid_light_holo9">@drawable/frameworks_res_ab_stacked_solid_light_holo9</item>
+    <item name="drawable/ab_stacked_solid_light_holo">@drawable/frameworks_res_ab_stacked_solid_light_holo</item>
     <item name="drawable/ab_stacked_transparent_dark_holo9">@drawable/frameworks_res_ab_stacked_transparent_dark_holo9</item>
+    <item name="drawable/ab_stacked_transparent_dark_holo">@drawable/frameworks_res_ab_stacked_transparent_dark_holo</item>
     <item name="drawable/ab_stacked_transparent_light_holo9">@drawable/frameworks_res_ab_stacked_transparent_light_holo9</item>
+    <item name="drawable/ab_stacked_transparent_light_holo">@drawable/frameworks_res_ab_stacked_transparent_light_holo</item>
     <item name="drawable/ab_transparent_dark_holo9">@drawable/frameworks_res_ab_transparent_dark_holo9</item>
     <item name="drawable/ab_transparent_dark_holo">@drawable/frameworks_res_ab_transparent_dark_holo</item>
     <item name="drawable/ab_transparent_light_holo9">@drawable/frameworks_res_ab_transparent_light_holo9</item>
     <item name="drawable/ab_transparent_light_holo">@drawable/frameworks_res_ab_transparent_light_holo</item>
     <item name="drawable/activity_title_bar9">@drawable/frameworks_res_activity_title_bar9</item>
+    <item name="drawable/activity_title_bar">@drawable/frameworks_res_activity_title_bar</item>
     <item name="drawable/arrow_down_float">@drawable/frameworks_res_arrow_down_float</item>
     <item name="drawable/arrow_up_float">@drawable/frameworks_res_arrow_up_float</item>
 
-    <!-- Theme HTC.EleganceX b -->
+    <item name="drawable/background_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
+    <item name="drawable/background_holo_light">@drawable/frameworks_res_background_holo_light</item>
+    <item name="drawable/cm_background_holo_dark">@drawable/frameworks_res_cm_background_holo_dark</item>
     <item name="drawable/battery_charge_background">@drawable/frameworks_res_battery_charge_background</item>
     <item name="drawable/bottom_bar">@drawable/frameworks_res_bottom_bar</item>
     <item name="drawable/btn_cab_done_default_holo_dark9">@drawable/frameworks_res_btn_cab_done_default_holo_dark9</item>
+    <item name="drawable/btn_cab_done_default_holo_dark">@drawable/frameworks_res_btn_cab_done_default_holo_dark</item>
     <item name="drawable/btn_cab_done_default_holo_light9">@drawable/frameworks_res_btn_cab_done_default_holo_light9</item>
+    <item name="drawable/btn_cab_done_default_holo_light">@drawable/frameworks_res_btn_cab_done_default_holo_light</item>
     <item name="drawable/btn_cab_done_focused_holo_dark9">@drawable/frameworks_res_btn_cab_done_focused_holo_dark9</item>
+    <item name="drawable/btn_cab_done_focused_holo_dark">@drawable/frameworks_res_btn_cab_done_focused_holo_dark</item>
     <item name="drawable/btn_cab_done_focused_holo_light9">@drawable/frameworks_res_btn_cab_done_focused_holo_light9</item>
+    <item name="drawable/btn_cab_done_focused_holo_light">@drawable/frameworks_res_btn_cab_done_focused_holo_light</item>
     <item name="drawable/btn_cab_done_pressed_holo_dark9">@drawable/frameworks_res_btn_cab_done_pressed_holo_dark9</item>
     <item name="drawable/btn_cab_done_pressed_holo_dark">@drawable/frameworks_res_btn_cab_done_pressed_holo_dark</item>
     <item name="drawable/btn_cab_done_pressed_holo_light9">@drawable/frameworks_res_btn_cab_done_pressed_holo_light9</item>
@@ -72,6 +112,7 @@
     <item name="drawable/btn_check_buttonless_off">@drawable/frameworks_res_btn_check_buttonless_off</item>
     <item name="drawable/btn_check_buttonless_on">@drawable/frameworks_res_btn_check_buttonless_on</item>
     <item name="drawable/btn_check_label_background9">@drawable/frameworks_res_btn_check_label_background9</item>
+    <item name="drawable/btn_check_label_background">@drawable/frameworks_res_btn_check_label_background</item>
     <item name="drawable/btn_check_off_disabled_focused_holo_dark">@drawable/frameworks_res_btn_check_off_disabled_focused_holo_dark</item>
     <item name="drawable/btn_check_off_disabled_focused_holo_light">@drawable/frameworks_res_btn_check_off_disabled_focused_holo_light</item>
     <item name="drawable/btn_check_off_disabled_holo_dark">@drawable/frameworks_res_btn_check_off_disabled_holo_dark</item>
@@ -347,18 +388,9 @@
     <item name="drawable/button_onoff_indicator_off">@drawable/frameworks_res_button_onoff_indicator_off</item>
     <item name="drawable/button_onoff_indicator_on">@drawable/frameworks_res_button_onoff_indicator_on</item>
 
-    <!-- Theme HTC.EleganceX c -->
-    <item name="drawable/cab_background_bottom_holo_dark">@drawable/frameworks_res_cab_background_bottom_holo_dark</item>
-    <item name="drawable/cab_background_bottom_holo_dark">@drawable/frameworks_res_cab_background_bottom_holo_dark</item>
     <item name="drawable/cab_background_bottom_holo_dark">@drawable/frameworks_res_cab_background_bottom_holo_dark</item>
     <item name="drawable/cab_background_bottom_holo_light">@drawable/frameworks_res_cab_background_bottom_holo_light</item>
-    <item name="drawable/cab_background_bottom_holo_light">@drawable/frameworks_res_cab_background_bottom_holo_light</item>
-    <item name="drawable/cab_background_bottom_holo_light">@drawable/frameworks_res_cab_background_bottom_holo_light</item>
     <item name="drawable/cab_background_top_holo_dark">@drawable/frameworks_res_cab_background_top_holo_dark</item>
-    <item name="drawable/cab_background_top_holo_dark">@drawable/frameworks_res_cab_background_top_holo_dark</item>
-    <item name="drawable/cab_background_top_holo_dark">@drawable/frameworks_res_cab_background_top_holo_dark</item>
-    <item name="drawable/cab_background_top_holo_light">@drawable/frameworks_res_cab_background_top_holo_light</item>
-    <item name="drawable/cab_background_top_holo_light">@drawable/frameworks_res_cab_background_top_holo_light</item>
     <item name="drawable/cab_background_top_holo_light">@drawable/frameworks_res_cab_background_top_holo_light</item>
     <item name="drawable/call_contact">@drawable/frameworks_res_call_contact</item>
     <item name="drawable/checkbox_off_background">@drawable/frameworks_res_checkbox_off_background</item>
@@ -376,7 +408,6 @@
     <item name="drawable/contact_header_bg">@drawable/frameworks_res_contact_header_bg</item>
     <item name="drawable/create_contact">@drawable/frameworks_res_create_contact</item>
 
-    <!-- Theme HTC.EleganceX d -->
     <item name="drawable/dark_header">@drawable/frameworks_res_dark_header</item>
     <item name="drawable/day_picker_week_view_dayline_holo">@drawable/frameworks_res_day_picker_week_view_dayline_holo</item>
     <item name="drawable/dialog_bottom_holo_dark">@drawable/frameworks_res_dialog_bottom_holo_dark</item>
@@ -433,7 +464,6 @@
     <item name="drawable/dropdown_pressed_holo_dark">@drawable/frameworks_res_dropdown_pressed_holo_dark</item>
     <item name="drawable/dropdown_pressed_holo_light">@drawable/frameworks_res_dropdown_pressed_holo_light</item>
 
-    <!-- Theme HTC.EleganceX e -->
     <item name="drawable/editbox_background_focus_yellow">@drawable/frameworks_res_editbox_background_focus_yellow</item>
     <item name="drawable/editbox_background_normal">@drawable/frameworks_res_editbox_background_normal</item>
     <item name="drawable/editbox_dropdown_background_dark">@drawable/frameworks_res_editbox_dropdown_background_dark</item>
@@ -466,7 +496,6 @@
     <item name="drawable/expander_open_holo_dark">@drawable/frameworks_res_expander_open_holo_dark</item>
     <item name="drawable/expander_open_holo_light">@drawable/frameworks_res_expander_open_holo_light</item>
 
-    <!-- Theme HTC.EleganceX f -->
     <item name="drawable/fastscroll_label_left_holo_dark">@drawable/frameworks_res_fastscroll_label_left_holo_dark</item>
     <item name="drawable/fastscroll_label_left_holo_light">@drawable/frameworks_res_fastscroll_label_left_holo_light</item>
     <item name="drawable/fastscroll_label_right_holo_dark">@drawable/frameworks_res_fastscroll_label_right_holo_dark</item>
@@ -479,9 +508,11 @@
     <item name="drawable/fastscroll_track_pressed_holo_light">@drawable/frameworks_res_fastscroll_track_pressed_holo_light</item>
     <item name="drawable/focused_application_background">@drawable/frameworks_res_focused_application_background</item>
     <item name="drawable/focused_application_background_static">@drawable/frameworks_res_focused_application_background</item>
+    <item name="drawable/focused_application_background_static">@drawable/frameworks_res_focused_application_background_static</item>
     <item name="drawable/frame_gallery_thumb">@drawable/frameworks_res_frame_gallery_thumb</item>
     <item name="drawable/frame_gallery_thumb_pressed">@drawable/frameworks_res_frame_gallery_thumb_pressed</item>
     <item name="drawable/frame_gallery_thumb_selected">@drawable/frameworks_res_frame_gallery_thumb_selected</item>
+
     <item name="drawable/gallery_selected_default">@drawable/frameworks_res_gallery_selected_default</item>
     <item name="drawable/gallery_selected_focused">@drawable/frameworks_res_gallery_selected_focused</item>
     <item name="drawable/gallery_selected_pressed">@drawable/frameworks_res_gallery_selected_pressed</item>
@@ -490,12 +521,10 @@
     <item name="drawable/grid_selector_background_focus">@drawable/frameworks_res_grid_selector_background_focus</item>
     <item name="drawable/grid_selector_background_pressed">@drawable/frameworks_res_grid_selector_background_pressed</item>
 
-    <!-- Theme HTC.EleganceX h -->
     <item name="drawable/highlight_disabled">@drawable/frameworks_res_highlight_disabled</item>
     <item name="drawable/highlight_pressed">@drawable/frameworks_res_highlight_pressed</item>
     <item name="drawable/highlight_selected">@drawable/frameworks_res_highlight_selected</item>
 
-    <!-- Theme HTC.EleganceX i -->
     <item name="drawable/ic_ab_back_holo_dark">@drawable/frameworks_res_ic_ab_back_holo_dark</item>
     <item name="drawable/ic_ab_back_holo_light">@drawable/frameworks_res_ic_ab_back_holo_light</item>
     <item name="drawable/ic_aggregated">@drawable/frameworks_res_ic_aggregated</item>
@@ -529,6 +558,7 @@
     <item name="drawable/ic_clear_normal">@drawable/frameworks_res_ic_clear_normal</item>
     <item name="drawable/ic_clear_search_api_disabled_holo_light">@drawable/frameworks_res_ic_clear_search_api_disabled_holo_light</item>
     <item name="drawable/ic_clear_search_api_holo_light">@drawable/frameworks_res_ic_clear_search_api_holo_light</item>
+    <item name="drawable/ic_commit">@drawable/frameworks_res_ic_commit</item>
     <item name="drawable/ic_commit_search_api_holo_dark">@drawable/frameworks_res_ic_commit_search_api_holo_dark</item>
     <item name="drawable/ic_commit_search_api_holo_light">@drawable/frameworks_res_ic_commit_search_api_holo_light</item>
     <item name="drawable/ic_contact_picture_2">@drawable/frameworks_res_ic_contact_picture_2</item>
@@ -571,49 +601,94 @@
     <item name="drawable/ic_lock_idle_lock">@drawable/frameworks_res_ic_lock_idle_lock</item>
     <item name="drawable/ic_lock_idle_low_battery">@drawable/frameworks_res_ic_lock_idle_low_battery</item>
     <item name="drawable/ic_lock_lock">@drawable/frameworks_res_ic_lock_lock</item>
+    <item name="drawable/ic_lock_navbar_hide">@drawable/frameworks_res_ic_lock_navbar_hide</item>
     <item name="drawable/ic_lock_power_off">@drawable/frameworks_res_ic_lock_power_off</item>
+    <item name="drawable/ic_lock_power_saver">@drawable/frameworks_res_ic_lock_power_saver</item>
     <item name="drawable/ic_lock_profile">@drawable/frameworks_res_ic_lock_profile</item>
     <item name="drawable/ic_lock_reboot">@drawable/frameworks_res_ic_lock_reboot</item>
     <item name="drawable/ic_lock_ringer_off">@drawable/frameworks_res_ic_lock_ringer_off</item>
     <item name="drawable/ic_lock_ringer_on">@drawable/frameworks_res_ic_lock_ringer_on</item>
+    <item name="drawable/ic_lockscreen_alarm_activated">@drawable/frameworks_res_ic_lockscreen_alarm_activated</item>
+    <item name="drawable/ic_lockscreen_alarm_normal">@drawable/frameworks_res_ic_lockscreen_alarm_normal</item>
     <item name="drawable/ic_lockscreen_answer_active">@drawable/frameworks_res_ic_lockscreen_answer_active</item>
     <item name="drawable/ic_lockscreen_answer_focused">@drawable/frameworks_res_ic_lockscreen_answer_focused</item>
     <item name="drawable/ic_lockscreen_answer_normal">@drawable/frameworks_res_ic_lockscreen_answer_normal</item>
+    <item name="drawable/ic_lockscreen_browser_activated">@drawable/frameworks_res_ic_lockscreen_browser_activated</item>
+    <item name="drawable/ic_lockscreen_browser_normal">@drawable/frameworks_res_ic_lockscreen_browser_normal</item>
+    <item name="drawable/ic_lockscreen_calendar_activated">@drawable/frameworks_res_ic_lockscreen_calendar_activated</item>
+    <item name="drawable/ic_lockscreen_calendar_normal">@drawable/frameworks_res_ic_lockscreen_calendar_normal</item>
     <item name="drawable/ic_lockscreen_camera_activated">@drawable/frameworks_res_ic_lockscreen_camera_activated</item>
     <item name="drawable/ic_lockscreen_camera_normal">@drawable/frameworks_res_ic_lockscreen_camera_normal</item>
     <item name="drawable/ic_lockscreen_chevron_down">@drawable/frameworks_res_ic_lockscreen_chevron_down</item>
     <item name="drawable/ic_lockscreen_chevron_left">@drawable/frameworks_res_ic_lockscreen_chevron_left</item>
     <item name="drawable/ic_lockscreen_chevron_right">@drawable/frameworks_res_ic_lockscreen_chevron_right</item>
     <item name="drawable/ic_lockscreen_chevron_up">@drawable/frameworks_res_ic_lockscreen_chevron_up</item>
+    <item name="drawable/ic_lockscreen_custom_2_activated">@drawable/frameworks_res_ic_lockscreen_custom_2_activated</item>
+    <item name="drawable/ic_lockscreen_custom_2_normal">@drawable/frameworks_res_ic_lockscreen_custom_2_normal</item>
+    <item name="drawable/ic_lockscreen_custom_3_activated">@drawable/frameworks_res_ic_lockscreen_custom_3_activated</item>
+    <item name="drawable/ic_lockscreen_custom_3_normal">@drawable/frameworks_res_ic_lockscreen_custom_3_normal</item>
+    <item name="drawable/ic_lockscreen_custom_activated">@drawable/frameworks_res_ic_lockscreen_custom_activated</item>
+    <item name="drawable/ic_lockscreen_custom_normal">@drawable/frameworks_res_ic_lockscreen_custom_normal</item>
     <item name="drawable/ic_lockscreen_decline_activated">@drawable/frameworks_res_ic_lockscreen_decline_activated</item>
     <item name="drawable/ic_lockscreen_decline_focused">@drawable/frameworks_res_ic_lockscreen_decline_focused</item>
     <item name="drawable/ic_lockscreen_decline_normal">@drawable/frameworks_res_ic_lockscreen_decline_normal</item>
+    <item name="drawable/ic_lockscreen_email_activated">@drawable/frameworks_res_ic_lockscreen_email_activated</item>
+    <item name="drawable/ic_lockscreen_email_normal">@drawable/frameworks_res_ic_lockscreen_email_normal</item>
     <item name="drawable/ic_lockscreen_emergencycall_normal">@drawable/frameworks_res_ic_lockscreen_emergencycall_normal</item>
     <item name="drawable/ic_lockscreen_emergencycall_pressed">@drawable/frameworks_res_ic_lockscreen_emergencycall_pressed</item>
+    <item name="drawable/ic_lockscreen_facebook_activated">@drawable/frameworks_res_ic_lockscreen_facebook_activated</item>
+    <item name="drawable/ic_lockscreen_facebook_normal">@drawable/frameworks_res_ic_lockscreen_facebook_normal</item>
     <item name="drawable/ic_lockscreen_forgotpassword_normal">@drawable/frameworks_res_ic_lockscreen_forgotpassword_normal</item>
     <item name="drawable/ic_lockscreen_forgotpassword_pressed">@drawable/frameworks_res_ic_lockscreen_forgotpassword_pressed</item>
+    <item name="drawable/ic_lockscreen_gallery_activated">@drawable/frameworks_res_ic_lockscreen_gallery_activated</item>
+    <item name="drawable/ic_lockscreen_gallery_normal">@drawable/frameworks_res_ic_lockscreen_gallery_normal</item>
+    <item name="drawable/ic_lockscreen_gplus_activated">@drawable/frameworks_res_ic_lockscreen_gplus_activated</item>
+    <item name="drawable/ic_lockscreen_gplus_normal">@drawable/frameworks_res_ic_lockscreen_gplus_normal</item>
+    <item name="drawable/ic_lockscreen_gtalk_activated">@drawable/frameworks_res_ic_lockscreen_gtalk_activated</item>
+    <item name="drawable/ic_lockscreen_gtalk_normal">@drawable/frameworks_res_ic_lockscreen_gtalk_normal</item>
     <item name="drawable/ic_lockscreen_handle_normal">@drawable/frameworks_res_ic_lockscreen_handle_normal</item>
     <item name="drawable/ic_lockscreen_handle_pressed">@drawable/frameworks_res_ic_lockscreen_handle_pressed</item>
     <item name="drawable/ic_lockscreen_ime">@drawable/frameworks_res_ic_lockscreen_ime</item>
     <item name="drawable/ic_lockscreen_lock_normal">@drawable/frameworks_res_ic_lockscreen_lock_normal</item>
     <item name="drawable/ic_lockscreen_lock_pressed">@drawable/frameworks_res_ic_lockscreen_lock_pressed</item>
+    <item name="drawable/ic_lockscreen_maps_activated">@drawable/frameworks_res_ic_lockscreen_maps_activated</item>
+    <item name="drawable/ic_lockscreen_maps_normal">@drawable/frameworks_res_ic_lockscreen_maps_normal</item>
+    <item name="drawable/ic_lockscreen_movie_activated">@drawable/frameworks_res_ic_lockscreen_movie_activated</item>
+    <item name="drawable/ic_lockscreen_movie_normal">@drawable/frameworks_res_ic_lockscreen_movie_normal</item>
+    <item name="drawable/ic_lockscreen_music_activated">@drawable/frameworks_res_ic_lockscreen_music_activated</item>
+    <item name="drawable/ic_lockscreen_music_normal">@drawable/frameworks_res_ic_lockscreen_music_normal</item>
+    <item name="drawable/ic_lockscreen_nav_activated">@drawable/frameworks_res_ic_lockscreen_nav_activated</item>
+    <item name="drawable/ic_lockscreen_nav_normal">@drawable/frameworks_res_ic_lockscreen_nav_normal</item>
     <item name="drawable/ic_lockscreen_outerring">@drawable/frameworks_res_ic_lockscreen_outerring</item>
+    <item name="drawable/ic_lockscreen_phone_activated">@drawable/frameworks_res_ic_lockscreen_phone_activated</item>
+    <item name="drawable/ic_lockscreen_phone_normal">@drawable/frameworks_res_ic_lockscreen_phone_normal</item>
     <item name="drawable/ic_lockscreen_player_background">@drawable/frameworks_res_ic_lockscreen_player_background</item>
+    <item name="drawable/ic_lockscreen_podcast_activated">@drawable/frameworks_res_ic_lockscreen_podcast_activated</item>
+    <item name="drawable/ic_lockscreen_podcast_normal">@drawable/frameworks_res_ic_lockscreen_podcast_normal</item>
+    <item name="drawable/ic_lockscreen_rss_activated">@drawable/frameworks_res_ic_lockscreen_rss_activated</item>
+    <item name="drawable/ic_lockscreen_rss_normal">@drawable/frameworks_res_ic_lockscreen_rss_normal</item>
     <item name="drawable/ic_lock_screenshot">@drawable/frameworks_res_ic_lock_screenshot</item>
     <item name="drawable/ic_lockscreen_silent_activated">@drawable/frameworks_res_ic_lockscreen_silent_activated</item>
     <item name="drawable/ic_lockscreen_silent_focused">@drawable/frameworks_res_ic_lockscreen_silent_focused</item>
     <item name="drawable/ic_lockscreen_silent_normal">@drawable/frameworks_res_ic_lockscreen_silent_normal</item>
+    <item name="drawable/ic_lockscreen_sms_activated">@drawable/frameworks_res_ic_lockscreen_sms_activated</item>
+    <item name="drawable/ic_lockscreen_sms_normal">@drawable/frameworks_res_ic_lockscreen_sms_normal</item>
     <item name="drawable/ic_lockscreen_soundon_activated">@drawable/frameworks_res_ic_lockscreen_soundon_activated</item>
     <item name="drawable/ic_lockscreen_soundon_focused">@drawable/frameworks_res_ic_lockscreen_soundon_focused</item>
     <item name="drawable/ic_lockscreen_soundon_normal">@drawable/frameworks_res_ic_lockscreen_soundon_normal</item>
+    <item name="drawable/ic_lockscreen_target_activated">@drawable/frameworks_res_ic_lockscreen_target_activated</item>
     <item name="drawable/ic_lockscreen_text_activated">@drawable/frameworks_res_ic_lockscreen_text_activated</item>
     <item name="drawable/ic_lockscreen_text_focusde">@drawable/frameworks_res_ic_lockscreen_text_focusde</item>
     <item name="drawable/ic_lockscreen_text_normal">@drawable/frameworks_res_ic_lockscreen_text_normal</item>
+    <item name="drawable/ic_lockscreen_twitter_activated">@drawable/frameworks_res_ic_lockscreen_twitter_activated</item>
+    <item name="drawable/ic_lockscreen_twitter_normal">@drawable/frameworks_res_ic_lockscreen_twitter_normal</item>
     <item name="drawable/ic_lockscreen_unlock_activated">@drawable/frameworks_res_ic_lockscreen_unlock_activated</item>
     <item name="drawable/ic_lockscreen_unlock_normal">@drawable/frameworks_res_ic_lockscreen_unlock_normal</item>
     <item name="drawable/ic_lock_silent_mode">@drawable/frameworks_res_ic_lock_silent_mode</item>
     <item name="drawable/ic_lock_silent_mode_off">@drawable/frameworks_res_ic_lock_silent_mode_off</item>
     <item name="drawable/ic_lock_silent_mode_vibrate">@drawable/frameworks_res_ic_lock_silent_mode_vibrate</item>
+    <item name="drawable/ic_lock_torch">@drawable/frameworks_res_ic_lock_torch</item>
+
     <item name="drawable/ic_maps_indicator_current_position_anim1">@drawable/frameworks_res_ic_maps_indicator_current_position_anim1</item>
     <item name="drawable/ic_maps_indicator_current_position_anim2">@drawable/frameworks_res_ic_maps_indicator_current_position_anim2</item>
     <item name="drawable/ic_maps_indicator_current_position_anim3">@drawable/frameworks_res_ic_maps_indicator_current_position_anim3</item>
@@ -763,7 +838,6 @@
     <item name="drawable/indicator_code_lock_point_area_red_holo">@drawable/frameworks_res_indicator_code_lock_point_area_red_holo</item>
     <item name="drawable/indicator_input_error">@drawable/frameworks_res_indicator_input_error</item>
 
-    <!-- Theme HTC.EleganceX j -->
     <item name="drawable/jog_dial_arrow_long_left_green">@drawable/frameworks_res_jog_dial_arrow_long_left_green</item>
     <item name="drawable/jog_dial_arrow_long_left_yellow">@drawable/frameworks_res_jog_dial_arrow_long_left_yellow</item>
     <item name="drawable/jog_dial_arrow_long_middle_yellow">@drawable/frameworks_res_jog_dial_arrow_long_middle_yellow</item>
@@ -804,7 +878,6 @@
     <item name="drawable/jog_tab_target_red">@drawable/frameworks_res_jog_tab_target_red</item>
     <item name="drawable/jog_tab_target_yellow">@drawable/frameworks_res_jog_tab_target_yellow</item>
 
-    <!-- Theme HTC.EleganceX k -->
     <item name="drawable/keyboard_accessory_bg_landscape">@drawable/frameworks_res_keyboard_accessory_bg_landscape</item>
     <item name="drawable/keyboard_background">@drawable/frameworks_res_keyboard_background</item>
     <item name="drawable/keyboard_key_feedback_background">@drawable/frameworks_res_keyboard_key_feedback_background</item>
@@ -812,7 +885,6 @@
     <item name="drawable/keyboard_popup_panel_background">@drawable/frameworks_res_keyboard_popup_panel_background</item>
     <item name="drawable/keyboard_popup_panel_trans_background">@drawable/frameworks_res_keyboard_popup_panel_trans_background</item>
 
-    <!-- Theme HTC.EleganceX l -->
     <item name="drawable/light_header">@drawable/frameworks_res_light_header</item>
     <item name="drawable/list_activated_holo">@drawable/frameworks_res_list_activated_holo</item>
     <item name="drawable/list_divider_holo_dark">@drawable/frameworks_res_list_divider_holo_dark</item>
@@ -855,7 +927,6 @@
     <item name="drawable/list_selector_pressed_holo_dark">@drawable/frameworks_res_list_selector_pressed_holo_dark</item>
     <item name="drawable/list_selector_pressed_holo_light">@drawable/frameworks_res_list_selector_pressed_holo_light</item>
 
-    <!-- Theme HTC.EleganceX m -->
     <item name="drawable/maps_google_logo">@drawable/frameworks_res_maps_google_logo</item>
     <item name="drawable/menu_background">@drawable/frameworks_res_menu_background</item>
     <item name="drawable/menu_background_fill_parent_width">@drawable/frameworks_res_menu_background_fill_parent_width</item>
@@ -876,7 +947,6 @@
     <item name="drawable/minitab_lt_unselected">@drawable/frameworks_res_minitab_lt_unselected</item>
     <item name="drawable/minitab_lt_unselected_press">@drawable/frameworks_res_minitab_lt_unselected_press</item>
 
-    <!-- Theme HTC.EleganceX n -->
     <item name="drawable/notify_panel_notification_icon_bg">@drawable/frameworks_res_notify_panel_notification_icon_bg</item>
     <item name="drawable/numberpicker_down_disabled">@drawable/frameworks_res_numberpicker_down_disabled</item>
     <item name="drawable/numberpicker_down_disabled_focused">@drawable/frameworks_res_numberpicker_down_disabled_focused</item>
@@ -918,11 +988,9 @@
     <item name="drawable/numberpicker_up_pressed_holo_light">@drawable/frameworks_res_numberpicker_up_pressed_holo_light</item>
     <item name="drawable/numberpicker_up_selected">@drawable/frameworks_res_numberpicker_up_selected</item>
 
-    <!-- Theme HTC.EleganceX o -->
     <item name="drawable/overscroll_edge">@drawable/frameworks_res_overscroll_edge</item>
     <item name="drawable/overscroll_glow">@drawable/frameworks_res_overscroll_glow</item>
 
-    <!-- Theme HTC.EleganceX p -->
     <item name="drawable/panel_background">@drawable/frameworks_res_panel_background</item>
     <item name="drawable/panel_bg_holo_dark">@drawable/frameworks_res_panel_bg_holo_dark</item>
     <item name="drawable/panel_bg_holo_light">@drawable/frameworks_res_panel_bg_holo_light</item>
@@ -965,6 +1033,7 @@
     <item name="drawable/presence_video_busy">@drawable/frameworks_res_presence_video_busy</item>
     <item name="drawable/presence_video_online">@drawable/frameworks_res_presence_video_online</item>
     <item name="drawable/pressed_application_background">@drawable/frameworks_res_pressed_application_background</item>
+    <item name="drawable/pressed_application_background_static">@drawable/frameworks_res_pressed_application_background_static</item>
     <item name="drawable/progressbar_indeterminate1">@drawable/frameworks_res_progressbar_indeterminate1</item>
     <item name="drawable/progressbar_indeterminate2">@drawable/frameworks_res_progressbar_indeterminate2</item>
     <item name="drawable/progressbar_indeterminate3">@drawable/frameworks_res_progressbar_indeterminate3</item>
@@ -986,7 +1055,6 @@
     <item name="drawable/progress_secondary_holo_dark">@drawable/frameworks_res_progress_secondary_holo_dark</item>
     <item name="drawable/progress_secondary_holo_light">@drawable/frameworks_res_progress_secondary_holo_light</item>
 
-    <!-- Theme HTC.EleganceX q -->
     <item name="drawable/quickactions_arrowdown_left_holo_dark">@drawable/frameworks_res_quickactions_arrowdown_left_holo_dark</item>
     <item name="drawable/quickactions_arrowdown_left_holo_light">@drawable/frameworks_res_quickactions_arrowdown_left_holo_light</item>
     <item name="drawable/quickactions_arrowdown_right_holo_dark">@drawable/frameworks_res_quickactions_arrowdown_right_holo_dark</item>
@@ -1006,7 +1074,6 @@
     <item name="drawable/quickcontact_badge_small_unpressed">@drawable/frameworks_res_quickcontact_badge_small_unpressed</item>
     <item name="drawable/quickcontact_badge_unpressed">@drawable/frameworks_res_quickcontact_badge_unpressed</item>
 
-    <!-- Theme HTC.EleganceX r -->
     <item name="drawable/radiobutton_off_background">@drawable/frameworks_res_radiobutton_off_background</item>
     <item name="drawable/radiobutton_on_background">@drawable/frameworks_res_radiobutton_on_background</item>
     <item name="drawable/rate_star_big_half">@drawable/frameworks_res_rate_star_big_half</item>
@@ -1039,7 +1106,6 @@
     <item name="drawable/recent_dialog_background">@drawable/frameworks_res_recent_dialog_background</item>
     <item name="drawable/reticle">@drawable/frameworks_res_reticle</item>
 
-    <!-- Theme HTC.EleganceX s -->
     <item name="drawable/scrollbar_handle_accelerated_anim2">@drawable/frameworks_res_scrollbar_handle_accelerated_anim2</item>
     <item name="drawable/scrollbar_handle_holo_dark">@drawable/frameworks_res_scrollbar_handle_holo_dark</item>
     <item name="drawable/scrollbar_handle_holo_light">@drawable/frameworks_res_scrollbar_handle_holo_light</item>
@@ -1098,8 +1164,6 @@
     <item name="drawable/spinner_white_16">@drawable/frameworks_res_spinner_white_16</item>
     <item name="drawable/spinner_white_48">@drawable/frameworks_res_spinner_white_48</item>
     <item name="drawable/spinner_white_76">@drawable/frameworks_res_spinner_white_76</item>
-    <item name="drawable/rate_star_big_off">@drawable/frameworks_res_rate_star_big_off</item>
-    <item name="drawable/rate_star_big_off">@drawable/frameworks_res_rate_star_big_off</item>
     <item name="drawable/star_big_off">@drawable/frameworks_res_star_big_off</item>
     <item name="drawable/star_big_on">@drawable/frameworks_res_star_big_on</item>
     <item name="drawable/star_off">@drawable/frameworks_res_star_off</item>
@@ -1128,34 +1192,10 @@
     <item name="drawable/stat_notify_wifi_in_range">@drawable/frameworks_res_stat_notify_wifi_in_range</item>
     <item name="drawable/stat_sys_adb">@drawable/frameworks_res_stat_sys_adb</item>
     <item name="drawable/stat_sys_battery_0">@drawable/frameworks_res_stat_sys_battery_0</item>
-    <item name="drawable/stat_sys_battery_100">@drawable/frameworks_res_stat_sys_battery_100</item>
-    <item name="drawable/stat_sys_battery_10">@drawable/frameworks_res_stat_sys_battery_10</item>
-    <item name="drawable/stat_sys_battery_15">@drawable/frameworks_res_stat_sys_battery_15</item>
-    <item name="drawable/stat_sys_battery_20">@drawable/frameworks_res_stat_sys_battery_20</item>
-    <item name="drawable/stat_sys_battery_28">@drawable/frameworks_res_stat_sys_battery_28</item>
-    <item name="drawable/stat_sys_battery_40">@drawable/frameworks_res_stat_sys_battery_40</item>
-    <item name="drawable/stat_sys_battery_43">@drawable/frameworks_res_stat_sys_battery_43</item>
-    <item name="drawable/stat_sys_battery_57">@drawable/frameworks_res_stat_sys_battery_57</item>
-    <item name="drawable/stat_sys_battery_60">@drawable/frameworks_res_stat_sys_battery_60</item>
-    <item name="drawable/stat_sys_battery_71">@drawable/frameworks_res_stat_sys_battery_71</item>
-    <item name="drawable/stat_sys_battery_80">@drawable/frameworks_res_stat_sys_battery_80</item>
-    <item name="drawable/stat_sys_battery_85">@drawable/frameworks_res_stat_sys_battery_85</item>
-    <item name="drawable/stat_sys_battery_charge_anim0">@drawable/frameworks_res_stat_sys_battery_charge_anim0</item>
-    <item name="drawable/stat_sys_battery_charge_anim100">@drawable/frameworks_res_stat_sys_battery_charge_anim100</item>
-    <item name="drawable/stat_sys_battery_charge_anim15">@drawable/frameworks_res_stat_sys_battery_charge_anim15</item>
-    <item name="drawable/stat_sys_battery_charge_anim1">@drawable/frameworks_res_stat_sys_battery_charge_anim1</item>
-    <item name="drawable/stat_sys_battery_charge_anim28">@drawable/frameworks_res_stat_sys_battery_charge_anim28</item>
-    <item name="drawable/stat_sys_battery_charge_anim2">@drawable/frameworks_res_stat_sys_battery_charge_anim2</item>
-    <item name="drawable/stat_sys_battery_charge_anim3">@drawable/frameworks_res_stat_sys_battery_charge_anim3</item>
-    <item name="drawable/stat_sys_battery_charge_anim43">@drawable/frameworks_res_stat_sys_battery_charge_anim43</item>
-    <item name="drawable/stat_sys_battery_charge_anim4">@drawable/frameworks_res_stat_sys_battery_charge_anim4</item>
-    <item name="drawable/stat_sys_battery_charge_anim57">@drawable/frameworks_res_stat_sys_battery_charge_anim57</item>
-    <item name="drawable/stat_sys_battery_charge_anim5">@drawable/frameworks_res_stat_sys_battery_charge_anim5</item>
-    <item name="drawable/stat_sys_battery_charge_anim71">@drawable/frameworks_res_stat_sys_battery_charge_anim71</item>
-    <item name="drawable/stat_sys_battery_charge_anim85">@drawable/frameworks_res_stat_sys_battery_charge_anim85</item>
-    <item name="drawable/stat_sys_battery_unknown">@drawable/frameworks_res_stat_sys_battery_unknown</item>
     <item name="drawable/stat_sys_data_bluetooth">@drawable/frameworks_res_stat_sys_data_bluetooth</item>
     <item name="drawable/stat_sys_data_usb">@drawable/frameworks_res_stat_sys_data_usb</item>
+    <item name="drawable/stat_sys_data_wimax_signal_3_fully">@drawable/frameworks_res_stat_sys_data_wimax_signal_3_fully</item>
+    <item name="drawable/stat_sys_data_wimax_signal_disconnected">@drawable/frameworks_res_stat_sys_data_wimax_signal_disconnected</item>
     <item name="drawable/stat_sys_download_anim0">@drawable/frameworks_res_stat_sys_download_anim0</item>
     <item name="drawable/stat_sys_download_anim1">@drawable/frameworks_res_stat_sys_download_anim1</item>
     <item name="drawable/stat_sys_download_anim2">@drawable/frameworks_res_stat_sys_download_anim2</item>
@@ -1260,7 +1300,6 @@
     <item name="drawable/sym_keyboard_shift_locked">@drawable/frameworks_res_sym_keyboard_shift_locked</item>
     <item name="drawable/sym_keyboard_space">@drawable/frameworks_res_sym_keyboard_space</item>
 
-    <!-- Theme HTC.EleganceX t -->
     <item name="drawable/tab_bottom_holo">@drawable/frameworks_res_tab_bottom_holo</item>
     <item name="drawable/tab_focus_bar_left">@drawable/frameworks_res_tab_focus_bar_left</item>
     <item name="drawable/tab_focus_bar_right">@drawable/frameworks_res_tab_focus_bar_right</item>
@@ -1349,29 +1388,18 @@
     <item name="drawable/title_bar_portrait">@drawable/frameworks_res_title_bar_portrait</item>
     <item name="drawable/title_bar_shadow">@drawable/frameworks_res_title_bar_shadow</item>
     <item name="drawable/title_bar_tall">@drawable/frameworks_res_title_bar_tall</item>
-    <item name="drawable/title_bar_tall">@drawable/frameworks_res_title_bar_tall</item>
     <item name="drawable/toast_frame">@drawable/frameworks_res_toast_frame</item>
     <item name="drawable/toast_frame_holo">@drawable/frameworks_res_toast_frame_holo</item>
     <item name="drawable/transportcontrol_bg">@drawable/frameworks_res_transportcontrol_bg</item>
 
-    <!-- Theme HTC.EleganceX u -->
     <item name="drawable/unknown_image">@drawable/frameworks_res_unknown_image</item>
     <item name="drawable/usb_android_connected">@drawable/frameworks_res_usb_android_connected</item>
     <item name="drawable/usb_android">@drawable/frameworks_res_usb_android</item>
 
-    <!-- Theme HTC.EleganceX v -->
     <item name="drawable/vpn_connected">@drawable/frameworks_res_vpn_connected</item>
     <item name="drawable/vpn_disconnected">@drawable/frameworks_res_vpn_disconnected</item>
+
     <item name="drawable/weather_0">@drawable/frameworks_res_weather_0</item>
-    <item name="drawable/weather_1">@drawable/frameworks_res_weather_1</item>
-    <item name="drawable/weather_2">@drawable/frameworks_res_weather_2</item>
-    <item name="drawable/weather_3">@drawable/frameworks_res_weather_3</item>
-    <item name="drawable/weather_4">@drawable/frameworks_res_weather_4</item>
-    <item name="drawable/weather_5">@drawable/frameworks_res_weather_5</item>
-    <item name="drawable/weather_6">@drawable/frameworks_res_weather_6</item>
-    <item name="drawable/weather_7">@drawable/frameworks_res_weather_7</item>
-    <item name="drawable/weather_8">@drawable/frameworks_res_weather_8</item>
-    <item name="drawable/weather_9">@drawable/frameworks_res_weather_9</item>
     <item name="drawable/weather_10">@drawable/frameworks_res_weather_10</item>
     <item name="drawable/weather_11">@drawable/frameworks_res_weather_11</item>
     <item name="drawable/weather_12">@drawable/frameworks_res_weather_12</item>
@@ -1382,6 +1410,7 @@
     <item name="drawable/weather_17">@drawable/frameworks_res_weather_17</item>
     <item name="drawable/weather_18">@drawable/frameworks_res_weather_18</item>
     <item name="drawable/weather_19">@drawable/frameworks_res_weather_19</item>
+    <item name="drawable/weather_1">@drawable/frameworks_res_weather_1</item>
     <item name="drawable/weather_20">@drawable/frameworks_res_weather_20</item>
     <item name="drawable/weather_21">@drawable/frameworks_res_weather_21</item>
     <item name="drawable/weather_22">@drawable/frameworks_res_weather_22</item>
@@ -1392,6 +1421,7 @@
     <item name="drawable/weather_27">@drawable/frameworks_res_weather_27</item>
     <item name="drawable/weather_28">@drawable/frameworks_res_weather_28</item>
     <item name="drawable/weather_29">@drawable/frameworks_res_weather_29</item>
+    <item name="drawable/weather_2">@drawable/frameworks_res_weather_2</item>
     <item name="drawable/weather_30">@drawable/frameworks_res_weather_30</item>
     <item name="drawable/weather_31">@drawable/frameworks_res_weather_31</item>
     <item name="drawable/weather_32">@drawable/frameworks_res_weather_32</item>
@@ -1402,6 +1432,7 @@
     <item name="drawable/weather_37">@drawable/frameworks_res_weather_37</item>
     <item name="drawable/weather_38">@drawable/frameworks_res_weather_38</item>
     <item name="drawable/weather_39">@drawable/frameworks_res_weather_39</item>
+    <item name="drawable/weather_3">@drawable/frameworks_res_weather_3</item>
     <item name="drawable/weather_40">@drawable/frameworks_res_weather_40</item>
     <item name="drawable/weather_41">@drawable/frameworks_res_weather_41</item>
     <item name="drawable/weather_42">@drawable/frameworks_res_weather_42</item>
@@ -1410,9 +1441,14 @@
     <item name="drawable/weather_45">@drawable/frameworks_res_weather_45</item>
     <item name="drawable/weather_46">@drawable/frameworks_res_weather_46</item>
     <item name="drawable/weather_47">@drawable/frameworks_res_weather_47</item>
-    <item name="drawable/weather_na">@drawable/frameworks_res_weather_na</item>
+    <item name="drawable/weather_4">@drawable/frameworks_res_weather_4</item>
+    <item name="drawable/weather_5">@drawable/frameworks_res_weather_5</item>
+    <item name="drawable/weather_6">@drawable/frameworks_res_weather_6</item>
+    <item name="drawable/weather_7">@drawable/frameworks_res_weather_7</item>
+    <item name="drawable/weather_8">@drawable/frameworks_res_weather_8</item>
+    <item name="drawable/weather_9">@drawable/frameworks_res_weather_9</item>
     <item name="drawable/weather_na_cid">@drawable/frameworks_res_weather_na_cid</item>
+    <item name="drawable/weather_na">@drawable/frameworks_res_weather_na</item>
 
-    <!-- Theme HTC.EleganceX z -->
     <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
 </resource-redirections>

@@ -61,6 +61,7 @@
     <item name="drawable/ic_settings_storage">@drawable/com_android_settings_ic_settings_storage</item>
     <item name="drawable/ic_settings_sync">@drawable/com_android_settings_ic_settings_sync</item>
     <item name="drawable/ic_settings_system">@drawable/com_android_settings_ic_settings_system</item>
+    <item name="drawable/ic_settings_toolbox">@drawable/com_android_settings_ic_settings_toolbox</item>
     <item name="drawable/ic_settings_themes">@drawable/com_android_settings_ic_settings_themes</item>
     <item name="drawable/ic_settings_voice_calls">@drawable/com_android_settings_ic_settings_voice_calls</item>
     <item name="drawable/ic_settings_wifi">@drawable/com_android_settings_ic_settings_wifi</item>

@@ -17,6 +17,28 @@
  -->
 
 <resources>
+    <style name="Widget.ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxHeight">10.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+        <item name="android:minHeight">10.0dip</item>
+    </style>
+    <style name="Widget.SeekBar" parent="@android:style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">10.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_horizontal</item>
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+        <item name="android:minHeight">10.0dip</item>
+        <item name="android:thumb">@drawable/seek_thumb</item>
+        <item name="android:thumbOffset">8.0dip</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
     <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/Theme.Holo.Light.Panel">
         <item name="android:textColor">#ffffffff</item>
     </style>
