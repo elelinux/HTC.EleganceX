@@ -17,6 +17,10 @@
  -->
 
 <resources>
+   <!-- HTC EleganceX 2012-11-07-->
+    <item type="drawable" name="notification_header_bg">@drawable/com_android_systemui_notification_header_bg</item>
+    <item type="drawable" name="notification_item_background">@drawable/com_android_systemui_notification_item_background</item>
+    <item type="drawable" name="notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item>
     <item type="drawable" name="notification_number_text_color">#ffffffff</item>
     <item type="drawable" name="notification_item_background_color">#80000000</item>
     <item type="drawable" name="notification_item_background_color_pressed">#80000000</item>
@@ -25,7 +29,6 @@
     <item type="drawable" name="status_bar_recents_background_solid">#80000000</item>
     <item type="drawable" name="status_bar_recents_app_thumbnail_background">#80000000</item>
     <item type="drawable" name="status_bar_notification_row_background_color">#80000000</item>
-    <item type="drawable" name="notification_header_bg">#80000000</item>
     <item type="drawable" name="notification_panel_nofication_icon_bg">#80000000</item>
     <item type="drawable" name="notification_tracking_bg">#80000000</item>
     <item type="drawable" name="recents_callout_line">#99bfbfbf</item>

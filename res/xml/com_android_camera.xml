@@ -116,8 +116,8 @@
     <item name="drawable/list_divider">@drawable/com_android_camera_list_divider</item>
     <item name="drawable/list_pressed_holo_light">@drawable/com_android_camera_list_pressed_holo_light</item>
     <item name="drawable/toast_frame_holo">@drawable/com_android_camera_toast_frame_holo</item>
-    <item name="mipmap/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
-    <item name="mipmap/ic_launcher_video_camera">@drawable/com_android_camera_ic_launcher_video_camera</item>
-    <item name="mipmap/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
-    <item name="mipmap/ic_launcher_video_camera">@drawable/com_android_camera_ic_launcher_video_camera</item>
+    <item name="drawable/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
+    <item name="drawable/ic_launcher_video_camera">@drawable/com_android_camera_ic_launcher_video_camera</item>
+    <item name="mipmap/ic_launcher_camera">@mipmap/com_android_camera_ic_launcher_camera</item>
+    <item name="mipmap/ic_launcher_video_camera">@mipmap/com_android_camera_ic_launcher_video_camera</item>
 </resource-redirections>

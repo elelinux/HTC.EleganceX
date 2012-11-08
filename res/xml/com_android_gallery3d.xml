@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="mipmap/ic_launcher_gallery">@mipmap/com_android_gallery3d_ic_launcher_gallery</item>
+    <item name="mipmap/ic_launcher_camera">@mipmap/com_android_camera_ic_launcher_camera</item>
+    <item name="drawable/btn_camera_shutter_pressed_holo">@drawable/com_android_camera_btn_camera_shutter_pressed_holo</item>
+    <item name="drawable/btn_camera_shutter_holo">@drawable/com_android_camera_btn_camera_shutter_holo</item>
+    <item name="drawable/btn_video_shutter_recording_pressed_holo">@drawable/com_android_camera_btn_video_shutter_recording_pressed_holo</item>
+    <item name="drawable/btn_video_shutter_holo">@drawable/com_android_camera_btn_video_shutter_holo</item>
+    <item name="drawable/btn_video_shutter_pressed_holo">@drawable/com_android_camera_btn_video_shutter_pressed_holo</item>
+    <item name="drawable/btn_video_shutter_recording_holo">@drawable/com_android_camera_btn_video_shutter_recording_holo</item>
+    <item name="drawable/btn_pan_shutter_pressed_holo">@drawable/com_android_camera_btn_pan_shutter_pressed_holo</item>
+    <item name="drawable/btn_pan_shutter_holo">@drawable/com_android_camera_btn_pan_shutter_holo</item>
+    <item name="drawable/btn_pan_shutter_recording_pressed_holo">@drawable/com_android_camera_btn_pan_shutter_recording_pressed_holo</item>
+    <item name="drawable/btn_pan_shutter_recording_holo">@drawable/com_android_camera_btn_pan_shutter_recording_holo</item>
+    <item name="drawable/ic_settings_holo_light">@drawable/com_android_camera_ic_settings_holo_light</item>
+    <item name="drawable/ic_menu_overflow">@drawable/com_android_contacts_ic_menu_overflow</item>
+</resource-redirections>

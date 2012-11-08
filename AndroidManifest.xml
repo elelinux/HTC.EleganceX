@@ -19,13 +19,20 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.HTC.EleganceX"
-    android:versionCode="5"
-    android:versionName="1.0.7"
+    android:versionCode="1"
+    android:versionName="1.0.7.2"
     android:installLocation="internalOnly"
     android:hasCode="false">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
+
+    <application android:label="@string/theme_name"
+        android:icon="@drawable/icon"/>
+
+    <activity 
+        android:label="@string/theme_name"
+        android:name="com.tmobile.theme.Foo" />
 
     <theme
         pluto:themeId="HTC.EleganceX"
@@ -45,8 +52,8 @@
 
         <!-- Currently this is not being read, but instead the redirections are
              inferred from the convention res/xml/<package_name>.xml. -->
-        <meta-data android:name="com.tmobile.theme.redirections"
-            android:resource="@xml/redirections" />
+        <!--<meta-data android:name="com.tmobile.theme.redirections"
+            android:resource="@xml/redirections" />-->
 
     </theme>
 

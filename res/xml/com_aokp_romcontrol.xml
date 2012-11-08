@@ -17,7 +17,6 @@
  -->
 
 <resource-redirections>
-    <item name="mipmap/ic_launcher">@drawable/com_aokp_romcontrol_ic_launcher</item>
     <item name="drawable/ic_rom_control_battery">@drawable/com_aokp_romcontrol_ic_rom_control_battery</item>
     <item name="drawable/ic_rom_control_clock">@drawable/com_aokp_romcontrol_ic_rom_control_clock</item>
     <item name="drawable/ic_rom_control_general">@drawable/com_aokp_romcontrol_ic_rom_control_general</item>
@@ -32,7 +31,6 @@
     <item name="drawable/ic_rom_control_signal">@drawable/com_aokp_romcontrol_ic_rom_control_signal</item>
     <item name="drawable/ic_rom_control_toggles">@drawable/com_aokp_romcontrol_ic_rom_control_toggles</item>
     <item name="drawable/ic_rom_control_weather">@drawable/com_aokp_romcontrol_ic_rom_control_weather</item>
-    <item name="drawable/ic_rom_control_battery">@drawable/com_aokp_romcontrol_ic_rom_control_battery</item>
     <item name="drawable/ic_sysbar_back">@drawable/com_aokp_romcontrol_ic_sysbar_back</item>
     <item name="drawable/ic_sysbar_home">@drawable/com_aokp_romcontrol_ic_sysbar_home</item>
     <item name="drawable/ic_sysbar_kill">@drawable/com_aokp_romcontrol_ic_sysbar_kill</item>
@@ -41,4 +39,6 @@
     <item name="drawable/ic_sysbar_power">@drawable/com_aokp_romcontrol_ic_sysbar_power</item>
     <item name="drawable/ic_sysbar_recent">@drawable/com_aokp_romcontrol_ic_sysbar_recent</item>
     <item name="drawable/ic_sysbar_search">@drawable/com_aokp_romcontrol_ic_sysbar_search</item>
+    <item name="drawable/status_bar_hr">@drawable/com_aokp_romcontrol_status_bar_hr</item>
+    <item name="mipmap/ic_launcher">@drawable/com_aokp_romcontrol_ic_launcher</item>
 </resource-redirections>

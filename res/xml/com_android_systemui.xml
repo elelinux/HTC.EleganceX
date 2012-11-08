@@ -20,6 +20,7 @@
     <!-- style etc.. -->
     <item name="color/bar_recents_app_label_color">@color/systemui_bar_recents_app_label_color</item>
     <item name="color/notification_list_shadow_top">@color/systemui_notification_list_shadow_top</item>
+    <item name="drawable/notification_row_bg">@drawable/notification_row_bg</item>
     <item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
     <item name="drawable/notification_item_background_color">@drawable/notification_item_background_color</item>
     <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
@@ -35,6 +36,17 @@
     <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
     <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
 
+    <!-- update CM10/AOKP-JB -->
+    <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>
+    <item name="drawable/navigationbar_background">@drawable/com_android_systemui_navigationbar_background</item>
+    <item name="drawable/navigationbar_background_land">@drawable/com_android_systemui_navigationbar_background_land</item>
+    <item name="drawable/notification_header_background">@drawable/com_android_systemui_notification_header_background</item>
+    <item name="drawable/notification_header_bg">@drawable/com_android_systemui_notification_header_bg</item>
+    <item name="drawable/notification_item_background">@drawable/com_android_systemui_notification_item_background</item>
+    <item name="drawable/notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
+    <item name="drawable/notification_tracking_bg">@drawable/com_android_systemui_notification_tracking_bg</item>
+
     <!-- notification pressed color -->
     <item name="drawable/notification_item_background_color_pressed">@color/elegance_green_dark</item>
 
@@ -44,9 +56,14 @@
     <item name="drawable/zzz_stat_sys_battery_1">@drawable/zzz_stat_sys_battery_1</item>
 
     <item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
+    <item name="drawable/bottom_divider_glow">@drawable/com_android_systemui_bottom_divider_glow</item>
+    <item name="drawable/btn_off">@drawable/btn_off</item>
     <item name="drawable/btn_off">@drawable/com_android_systemui_btn_off</item>
+    <item name="drawable/btn_on">@drawable/btn_on</item>
     <item name="drawable/btn_on">@drawable/com_android_systemui_btn_on</item>
     <item name="drawable/compat_mode_help_bg">@drawable/com_android_systemui_compat_mode_help_bg</item>
+    <item name="drawable/compat_mode_help_divider_bottom">@drawable/com_android_systemui_compat_mode_help_divider_bottom</item>
+    <item name="drawable/compat_mode_help_divider_top">@drawable/com_android_systemui_compat_mode_help_divider_top</item>
     <item name="drawable/ic_launcher_settings">@drawable/com_android_systemui_ic_launcher_settings</item>
     <item name="drawable/ic_lock_idle_charging">@drawable/ic_lock_idle_charging</item>
     <item name="drawable/ic_lock_idle_low_battery">@drawable/ic_lock_idle_low_battery</item>
@@ -57,6 +74,10 @@
     <item name="drawable/ic_notify_clear_pressed">@drawable/com_android_systemui_ic_notify_clear_pressed</item>
     <item name="drawable/ic_notify_quicksettings_normal">@drawable/com_android_systemui_ic_notify_quicksettings_normal</item>
     <item name="drawable/ic_notify_quicksettings_pressed">@drawable/com_android_systemui_ic_notify_quicksettings_pressed</item>
+    <item name="drawable/ic_notify_rotation_off_normal">@drawable/com_android_systemui_ic_notify_rotation_off_normal</item>
+    <item name="drawable/ic_notify_rotation_off_pressed">@drawable/com_android_systemui_ic_notify_rotation_off_pressed</item>
+    <item name="drawable/ic_notify_rotation_on_normal">@drawable/com_android_systemui_ic_notify_rotation_on_normal</item>
+    <item name="drawable/ic_notify_rotation_on_pressed">@drawable/com_android_systemui_ic_notify_rotation_on_pressed</item>
     <item name="drawable/ic_sysbar_airplane_on">@drawable/com_android_systemui_ic_sysbar_airplane_on</item>
     <item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
     <item name="drawable/ic_sysbar_back_ime_default">@drawable/com_android_systemui_ic_sysbar_back_ime_default</item>
@@ -82,6 +103,9 @@
     <item name="drawable/ic_sysbar_search">@drawable/com_android_systemui_ic_sysbar_search</item>
     <item name="drawable/ic_sysbar_search_land">@drawable/com_android_systemui_ic_sysbar_search_land</item>
     <item name="drawable/ic_sysbar_wifi_on">@drawable/com_android_systemui_ic_sysbar_wifi_on</item>
+    <item name="drawable/intruder_window_bg">@drawable/com_android_systemui_intruder_window_bg</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
+    <item name="drawable/notify_item_glow_bottom">@drawable/notify_item_glow_bottom</item>
     <item name="drawable/notify_panel_clock_bg_normal">@drawable/com_android_systemui_notify_panel_clock_bg_normal</item>
     <item name="drawable/notify_panel_clock_bg_pressed">@drawable/com_android_systemui_notify_panel_clock_bg_pressed</item>
     <item name="drawable/notify_panel_notify">@drawable/com_android_systemui_notify_panel_notify</item>
@@ -364,12 +388,20 @@
     <item name="drawable/stat_sys_data_connected_g">@drawable/com_android_systemui_stat_sys_data_connected_g</item>
     <item name="drawable/stat_sys_data_connected_h">@drawable/com_android_systemui_stat_sys_data_connected_h</item>
     <item name="drawable/stat_sys_data_connected_roam">@drawable/com_android_systemui_stat_sys_data_connected_roam</item>
+    <item name="drawable/stat_sys_data_fully_connected_1x_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_1x_alt</item>
     <item name="drawable/stat_sys_data_fully_connected_1x">@drawable/com_android_systemui_stat_sys_data_fully_connected_1x</item>
+    <item name="drawable/stat_sys_data_fully_connected_3g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_3g_alt</item>
     <item name="drawable/stat_sys_data_fully_connected_3g">@drawable/com_android_systemui_stat_sys_data_fully_connected_3g</item>
+    <item name="drawable/stat_sys_data_fully_connected_4g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_4g_alt</item>
     <item name="drawable/stat_sys_data_fully_connected_4g">@drawable/com_android_systemui_stat_sys_data_fully_connected_4g</item>
+    <item name="drawable/stat_sys_data_fully_connected_e_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_e_alt</item>
     <item name="drawable/stat_sys_data_fully_connected_e">@drawable/com_android_systemui_stat_sys_data_fully_connected_e</item>
+    <item name="drawable/stat_sys_data_fully_connected_g_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_g_alt</item>
     <item name="drawable/stat_sys_data_fully_connected_g">@drawable/com_android_systemui_stat_sys_data_fully_connected_g</item>
+    <item name="drawable/stat_sys_data_fully_connected_h_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_h_alt</item>
     <item name="drawable/stat_sys_data_fully_connected_h">@drawable/com_android_systemui_stat_sys_data_fully_connected_h</item>
+    <item name="drawable/stat_sys_data_fully_connected_hp_alt">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp_alt</item>
+    <item name="drawable/stat_sys_data_fully_connected_hp">@drawable/com_android_systemui_stat_sys_data_fully_connected_hp</item>
     <item name="drawable/stat_sys_data_wimax_signal_0">@drawable/com_android_systemui_stat_sys_data_wimax_signal_0</item>
     <item name="drawable/stat_sys_data_wimax_signal_0_fully">@drawable/com_android_systemui_stat_sys_data_wimax_signal_0_fully</item>
     <item name="drawable/stat_sys_data_wimax_signal_1">@drawable/com_android_systemui_stat_sys_data_wimax_signal_1</item>
@@ -420,6 +452,7 @@
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
     <item name="drawable/status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
     <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
+    <item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
     <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
     <item name="drawable/status_bar_expand_default">@drawable/com_android_systemui_status_bar_expand_default</item>
     <item name="drawable/status_bar_expand_pressed">@drawable/com_android_systemui_status_bar_expand_pressed</item>
@@ -454,4 +487,5 @@
     <item name="drawable/toggle_wifi_ap_off">@drawable/com_android_systemui_toggle_wifi_ap_off</item>
     <item name="drawable/toggle_wifi">@drawable/com_android_systemui_toggle_wifi</item>
     <item name="drawable/toggle_wifi_off">@drawable/com_android_systemui_toggle_wifi_off</item>
+    <item name="drawable/top_divider_glow">@drawable/com_android_systemui_top_divider_glow</item>
 </resource-redirections>

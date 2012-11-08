@@ -25,13 +25,23 @@
     <item name="color/highlighted_text_holo_light">@color/elegance_green</item>
 
     <!-- Theme HTC.EleganceX drawable/ xml files -->
+    <item name="drawable/notification_row_bg">@drawable/com_android_systemui_notification_row_bg</item>
     <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/progress_horizontal_holo_dark">@drawable/progress_horizontal_holo_dark</item>
     <item name="drawable/progress_horizontal_holo_light">@drawable/progress_horizontal_holo_light</item>
     <item name="drawable/notification_panel_nofication_icon_bg">@drawable/frameworks_res_notification_panel_nofication_icon_bg</item>
 
-    <!-- Theme Aluminum animation style -->
+    <!-- Theme HTC.EleganceX new files -->
+    <item name="drawable/notification_bg_low_normal">@drawable/frameworks_res_notification_bg_low_normal</item>
+    <item name="drawable/notification_bg_low_pressed">@drawable/frameworks_res_notification_bg_low_pressed</item>
+    <item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
+    <item name="drawable/notification_bg_normal_pressed">@drawable/frameworks_res_notification_bg_normal_pressed</item>
+    <item name="drawable/notification_template_icon_low_bg">@drawable/frameworks_res_notification_template_icon_low_bg</item>
+    <item name="drawable/notification_template_icon_bg">@drawable/frameworks_res_notification_template_icon_bg</item>
+
+    <!-- Theme HTC.EleganceX animation style -->
+    <item name="style/Theme">@style/Theme</item> 
     <item name="style/Animation.Activity">@style/Animation.Activity</item>
     <item name="style/Animation.Dialog">@style/Animation.Dialog</item>
     <item name="style/Animation.Translucent">@style/Animation.Translucent</item>
@@ -1001,6 +1011,8 @@
     <item name="drawable/password_keyboard_background_holo">@drawable/frameworks_res_password_keyboard_background_holo</item>
     <item name="drawable/picture_emergency">@drawable/frameworks_res_picture_emergency</item>
     <item name="drawable/picture_frame">@drawable/frameworks_res_picture_frame</item>
+    <item name="drawable/platlogo">@drawable/platlogo</item>
+    <item name="drawable/platlogo_alt">@drawable/platlogo_alt</item>
     <item name="drawable/pointer_arrow">@drawable/frameworks_res_pointer_arrow</item>
     <item name="drawable/pointer_spot_anchor">@drawable/frameworks_res_pointer_spot_anchor</item>
     <item name="drawable/pointer_spot_hover">@drawable/frameworks_res_pointer_spot_hover</item>
