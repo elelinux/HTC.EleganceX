@@ -20,7 +20,7 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.HTC.EleganceX"
     android:versionCode="1"
-    android:versionName="1.0.7.2"
+    android:versionName="1.0.7.3"
     android:installLocation="internalOnly"
     android:hasCode="false">
 
@@ -42,18 +42,7 @@
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
         pluto:wallpaperImage="@drawable/homescreen"
-        pluto:styleName="@string/style_appearance_name"
-        pluto:alarmName="Light" 
-        pluto:alarmFileName="media/audio/alarms/Light.mp3" 
-        pluto:ringtoneName="Old_Phone" 
-        pluto:ringtoneFileName="media/audio/ringtones/Old_Phone.mp3" 
-        pluto:notificationRingtoneName="Teleport" 
-        pluto:notificationRingtoneFileName="media/audio/notifications/Teleport.mp3">
-
-        <!-- Currently this is not being read, but instead the redirections are
-             inferred from the convention res/xml/<package_name>.xml. -->
-        <!--<meta-data android:name="com.tmobile.theme.redirections"
-            android:resource="@xml/redirections" />-->
+        pluto:styleName="@string/style_appearance_name">
 
     </theme>
 
