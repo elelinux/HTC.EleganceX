@@ -18,10 +18,6 @@
 
 <resources>
     <style name="HTC.EleganceX" parent="@android:style/Theme" />
-    <style name="Theme" parent="@android:style/Theme">
-        <item name="android:colorBackground">@color/transparent</item>
-        <item name="android:windowBackground">@drawable/background_elegance</item>
-    </style> 
     <style name="Widget.ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar">
         <item name="android:maxHeight">10.0dip</item>
         <item name="android:indeterminateOnly">false</item>

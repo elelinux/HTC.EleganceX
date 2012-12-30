@@ -41,24 +41,6 @@
     <item name="drawable/notification_template_icon_bg">@drawable/frameworks_res_notification_template_icon_bg</item>
 
     <!-- Theme HTC.EleganceX animation style -->
-    <item name="style/Theme">@style/Theme</item> 
-    <item name="style/Animation.Activity">@style/Animation.Activity</item>
-    <item name="style/Animation.Dialog">@style/Animation.Dialog</item>
-    <item name="style/Animation.Translucent">@style/Animation.Translucent</item>
-    <item name="style/Animation.Toast">@style/Animation.Toast</item>
-    <item name="style/Animation.LockScreen">@style/Animation.LockScreen</item>
-    <item name="style/Animation.OptionsPanel">@style/Animation.OptionsPanel</item>
-    <item name="style/Animation.SubMenuPanel">@style/Animation.SubMenuPanel</item>
-    <item name="style/Animation.TypingFilter">@style/Animation.TypingFilter</item>
-    <item name="style/Animation.TypingFilterRestore">@style/Animation.TypingFilterRestore</item>
-    <item name="style/Animation.DropDownDown">@style/Animation.DropDownDown</item>
-    <item name="style/Animation.DropDownUp">@style/Animation.DropDownUp</item>
-    <item name="style/Animation.InputMethodFancy">@style/Animation.InputMethodFancy</item>
-    <item name="style/Animation.SearchBar">@style/Animation.SearchBar</item>
-    <item name="style/Animation.ZoomButtons">@style/Animation.ZoomButtons</item>
-    <item name="style/Animation.Wallpaper">@style/Animation.Wallpaper</item>
-    <item name="style/Animation.RecentApplications">@style/Animation.RecentApplications</item>
-    <item name="style/Animation.VolumePanel">@style/Animation.VolumePanel</item>
 
     <!-- Theme HTC.EleganceX battery dep. -->
     <item name="drawable/stat_sys_battery">@drawable/stat_sys_battery</item>
