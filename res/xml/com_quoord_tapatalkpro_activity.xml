@@ -18,9 +18,9 @@
 
 <resource-redirections>
     <!-- color  -->
-    <item name="color/app_sectiontitle_yellow">@color/elegance_green</item>
-    <item name="color/date_yellow_bs">@color/elegance_green</item>
-    <item name="color/subtab_color_select_light">@color/elegance_green_dark</item>
+    <item name="color/app_sectiontitle_yellow">@color/holo_blue_bright</item>
+    <item name="color/date_yellow_bs">@color/holo_blue_bright</item>
+    <item name="color/subtab_color_select_light">@color/holo_blue_bright</item>
     <item name="color/app_background_yellow_highlight">@color/grey_light</item>
     <item name="color/thread_menu_yellow">@color/grey_light</item>
 

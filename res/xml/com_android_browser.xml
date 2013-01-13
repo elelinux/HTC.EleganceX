@@ -20,9 +20,11 @@
     <item name="mipmap/ic_launcher_browser">@drawable/com_android_browser_ic_launcher_browser</item>
     <item name="drawable/progress">@drawable/com_android_browser_progress</item>
     <item name="drawable/textfield_active_holo_dark">@drawable/com_android_browser_textfield_active_holo_dark</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/com_android_browser_bookmarks_widget_thumb_selector_focused</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_pressed</item>
     <item name="drawable/thumbnail_bookmarks_widget_no_bookmark_holo">@drawable/com_android_browser_thumbnail_bookmarks_widget_no_bookmark_holo</item>
     <item name="drawable/qc_background_normal">@drawable/com_android_browser_qc_background_normal</item>
-    <item name="color/qc_normal">@color/elegance_green</item>
-    <item name="color/qc_selected">@color/elegance_green_dark</item>
-    <item name="color/qc_tab_nr">@color/elegance_green_bright</item>
+    <item name="color/qc_normal">@color/holo_blue_bright</item>
+    <item name="color/qc_selected">@color/holo_blue_dark</item>
+    <item name="color/qc_tab_nr">@color/holo_blue_bright</item>
 </resource-redirections>

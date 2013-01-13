@@ -18,11 +18,93 @@
 
 <resource-redirections>
     <!-- Theme HTC.EleganceX colors -->
-    <item name="color/holo_blue_bright">@color/elegance_green_bright</item>
-    <item name="color/holo_blue_dark">@color/elegance_green_dark</item>
-    <item name="color/holo_blue_light">@color/elegance_green</item>
-    <item name="color/highlighted_text_holo_dark">@color/elegance_green</item>
-    <item name="color/highlighted_text_holo_light">@color/elegance_green</item>
+    <item  name="color/background_dark">@color/background_dark</item>
+    <item  name="color/background_holo_dark">@color/background_holo_dark</item>
+    <item  name="color/background_holo_light">@color/background_holo_light</item>
+    <item  name="color/background_light">@color/background_light</item>
+    <item  name="color/black">@color/black</item>
+    <item  name="color/bright_foreground_dark">@color/bright_foreground_dark</item>
+    <item  name="color/bright_foreground_dark_disabled">@color/bright_foreground_dark_disabled</item>
+    <item  name="color/bright_foreground_dark_inverse">@color/bright_foreground_dark_inverse</item>
+    <item  name="color/bright_foreground_disabled_holo_dark">color/bright_foreground_disabled_holo_dark</item>
+    <item  name="color/bright_foreground_disabled_holo_light">@color/bright_foreground_disabled_holo_light</item>
+    <item  name="color/bright_foreground_holo_dark">@color/bright_foreground_holo_dark</item>
+    <item  name="color/bright_foreground_holo_light">@color/bright_foreground_holo_ligh</item>
+    <item  name="color/bright_foreground_inverse_holo_dark">@color/bright_foreground_inverse_holo_dark</item>
+    <item  name="color/bright_foreground_inverse_holo_light">@color/bright_foreground_inverse_holo_light</item>
+    <item  name="color/bright_foreground_light">@color/bright_foreground_light</item>
+    <item  name="color/bright_foreground_light_disabled">@color/bright_foreground_light_disabled</item>
+    <item  name="color/bright_foreground_light_inverse">@color/bright_foreground_light_inverse</item>
+    <item  name="color/darker_gray">@color/darker_gray</item>
+    <item  name="color/dim_foreground_dark">@color/dim_foreground_dark</item>
+    <item  name="color/dim_foreground_dark_disabled">@color/dim_foreground_dark_disabled</item>
+    <item  name="color/dim_foreground_dark_inverse">@color/dim_foreground_dark_inverse</item>
+    <item  name="color/dim_foreground_dark_inverse_disabled">@color/dim_foreground_dark_inverse_disabled</item>
+    <item  name="color/dim_foreground_disabled_holo_dark">@color/dim_foreground_disabled_holo_dark</item>
+    <item  name="color/dim_foreground_disabled_holo_light">@color/dim_foreground_disabled_holo_light</item>
+    <item  name="color/dim_foreground_holo_dark">@color/dim_foreground_holo_dark</item>
+    <item  name="color/dim_foreground_holo_light">@color/dim_foreground_holo_light</item>
+    <item  name="color/dim_foreground_inverse_disabled_holo_dark">@color/dim_foreground_inverse_disabled_holo_dark</item>
+    <item  name="color/dim_foreground_inverse_disabled_holo_light">@color/dim_foreground_inverse_disabled_holo_light</item>
+    <item  name="color/dim_foreground_inverse_holo_dark">@color/dim_foreground_inverse_holo_dark</item>
+    <item  name="color/dim_foreground_inverse_holo_light">@color/dim_foreground_inverse_holo_light</item>
+    <item  name="color/dim_foreground_light">@color/dim_foreground_light</item>
+    <item  name="color/dim_foreground_light_disabled">@color/dim_foreground_light_disabled</item>
+    <item  name="color/dim_foreground_light_inverse">@color/dim_foreground_light_inverse</item>
+    <item  name="color/dim_foreground_light_inverse_disabled">@color/dim_foreground_light_inverse_disabled</item>
+    <item  name="color/facelock_spotlight_mask">@color/facelock_spotlight_mask</item>
+    <item  name="color/group_button_dialog_focused_holo_dark">@color/group_button_dialog_focused_holo_dark</item>
+    <item  name="color/group_button_dialog_focused_holo_light">@color/group_button_dialog_focused_holo_light</item>
+    <item  name="color/group_button_dialog_pressed_holo_dark">@color/group_button_dialog_pressed_holo_dark</item>
+    <item  name="color/group_button_dialog_pressed_holo_light">@color/group_button_dialog_pressed_holo_light</item>
+    <item  name="color/highlighted_text_dark">@color/highlighted_text_dark</item>
+    <item  name="color/highlighted_text_holo_dark">@color/highlighted_text_holo_dark</item>
+    <item  name="color/highlighted_text_holo_light">@color/highlighted_text_holo_light</item>
+    <item  name="color/highlighted_text_light">@color/highlighted_text_light</item>
+    <item  name="color/hint_foreground_dark">@color/hint_foreground_dark</item>
+    <item  name="color/hint_foreground_holo_dark">@color/hint_foreground_holo_dark</item>
+    <item  name="color/hint_foreground_holo_light">@color/hint_foreground_holo_light</item>
+    <item  name="color/hint_foreground_light">@color/hint_foreground_light</item>
+    <item  name="color/holo_blue_bright">@color/holo_blue_bright</item>
+    <item  name="color/holo_blue_dark">@color/holo_blue_dark</item>
+    <item  name="color/holo_blue_light">color/holo_blue_light</item>
+    <item  name="color/holo_green_dark">@color/holo_green_dark</item>
+    <item  name="color/holo_green_light">@color/holo_green_light</item>
+    <item  name="color/holo_orange_dark">@color/holo_orange_dark</item>
+    <item  name="color/holo_orange_light">@color/holo_orange_light</item>
+    <item  name="color/holo_purple">@color/holo_purple</item>
+    <item  name="color/holo_red_dark">@color/holo_red_dark</item>
+    <item  name="color/holo_red_light">@color/holo_red_light</item>
+    <item  name="color/keyguard_text_color_decline">@color/keyguard_text_color_decline</item>
+    <item  name="color/keyguard_text_color_normal">@color/keyguard_text_color_normal</item>
+    <item  name="color/keyguard_text_color_soundoff">@color/keyguard_text_color_soundoff</item>
+    <item  name="color/keyguard_text_color_soundon">@color/keyguard_text_color_soundon</item>
+    <item  name="color/keyguard_text_color_unlock">@color/keyguard_text_color_unlock</item>
+    <item  name="color/legacy_long_pressed_highlight">@color/legacy_long_pressed_highlight</item>
+    <item  name="color/legacy_pressed_highlight">@color/legacy_pressed_highlight</item>
+    <item  name="color/legacy_selected_highlight">@color/legacy_selected_highlight</item>
+    <item  name="color/lighter_gray">@color/lighter_gray</item>
+    <item  name="color/link_text_dark">@color/link_text_dark</item>
+    <item  name="color/link_text_holo_dark">@color/link_text_holo_dark</item>
+    <item  name="color/link_text_holo_light">@color/link_text_holo_light</item>
+    <item  name="color/link_text_light">@color/link_text_light</item>
+    <item  name="color/lockscreen_clock_am_pm">@color/lockscreen_clock_am_pm</item>
+    <item  name="color/lockscreen_clock_background">@color/lockscreen_clock_background</item>
+    <item  name="color/lockscreen_clock_foreground">@color/lockscreen_clock_foreground</item>
+    <item  name="color/lockscreen_owner_info">@color/lockscreen_owner_info</item>
+    <item  name="color/perms_dangerous_grp_color">@color/perms_dangerous_grp_color</item>
+    <item  name="color/perms_dangerous_perm_color">@color/perms_dangerous_perm_color</item>
+    <item  name="color/safe_mode_text">@color/safe_mode_text</item>
+    <item  name="color/search_url_text_normal">@color/search_url_text_normal</item>
+    <item  name="color/search_url_text_pressed">@color/search_url_text_pressed</item>
+    <item  name="color/search_url_text_selected">@color/search_url_text_selected</item>
+    <item  name="color/search_widget_corpus_item_background">@color/search_widget_corpus_item_background</item>
+    <item  name="color/shadow">@color/shadow</item>
+    <item  name="color/sliding_tab_text_color_active">@color/sliding_tab_text_color_active</item>
+    <item  name="color/sliding_tab_text_color_shadow">@color/sliding_tab_text_color_shadow</item>
+    <item  name="color/suggestion_highlight_text">@color/suggestion_highlight_text</item>
+    <item  name="color/transparent">@color/transparent</item>
+    <item  name="color/white">@color/white</item> 
 
     <!-- Theme HTC.EleganceX drawable/ xml files -->
     <item name="drawable/notification_row_bg">@drawable/com_android_systemui_notification_row_bg</item>
@@ -40,7 +122,19 @@
     <item name="drawable/notification_template_icon_low_bg">@drawable/frameworks_res_notification_template_icon_low_bg</item>
     <item name="drawable/notification_template_icon_bg">@drawable/frameworks_res_notification_template_icon_bg</item>
 
-    <!-- Theme HTC.EleganceX animation style -->
+    <!-- Theme HTC.EleganceX style -->
+    <item name="style/TextAppearance.Holo.Light.Inverse">@style/TextAppearance.Holo.Light.Inverse</item>
+    <item name="style/TextAppearance.Inverse">@style/TextAppearance.Inverse</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Info">@style/TextAppearance.StatusBar.EventContent.Info</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Line2">@style/TextAppearance.StatusBar.EventContent.Line2</item>
+    <item name="style/TextAppearance.StatusBar.EventContent">@style/TextAppearance.StatusBar.EventContent</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Time">@style/TextAppearance.StatusBar.EventContent.Time</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Title">@style/TextAppearance.StatusBar.EventContent.Title</item>
+    <item name="style/TextAppearance.StatusBar">@style/TextAppearance.StatusBar</item>
+    <item name="style/TextAppearance.StatusBar.Ticker">@style/TextAppearance.StatusBar.Ticker</item>
+    <item name="style/TextAppearance.StatusBar.Title">@style/TextAppearance.StatusBar.Title</item>
+    <item name="style/TextAppearance.Widget.DropDownHint">@style/TextAppearance.Widget.DropDownHint</item>
+    <item name="style/TextAppearance.Widget.DropDownItem">@style/Theme.Holo.Light.DarkActionBar</item>
 
     <!-- Theme HTC.EleganceX battery dep. -->
     <item name="drawable/stat_sys_battery">@drawable/stat_sys_battery</item>

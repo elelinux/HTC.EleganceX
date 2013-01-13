@@ -20,7 +20,7 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.HTC.EleganceX"
     android:versionCode="1"
-    android:versionName="1.0.7.4"
+    android:versionName="1.0.7.5"
     android:installLocation="internalOnly"
     android:hasCode="false">
 

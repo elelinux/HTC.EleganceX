@@ -17,18 +17,49 @@
  -->
 
 <resource-redirections>
+    <!-- DeskClock Colors -->
+    <item name="color/action_bar_button_text_color">@color/dc_action_bar_button_text_color</item>
+    <item name="color/ampm_off">@color/dc_ampm_off</item>
+    <item name="color/ampm_on">@color/dc_ampm_on</item>
+    <item name="color/ampm_text_color">@color/dc_ampm_text_color</item>
+    <item name="color/bg_bar">@color/dc_bg_bar</item>
+    <item name="color/cling_text">@color/dc_cling_text</item>
+    <item name="color/fg_bar">@color/dc_fg_bar</item>
+    <item name="color/grey">@color/dc_grey</item>
+    <item name="color/main_timer_clock_alerted">@color/dc_main_timer_clock_alerted</item>
+    <item name="color/main_timer_clock">@color/dc_main_timer_clock</item>
+    <item name="color/negative_timer_clock">@color/dc_negative_timer_clock</item>
+    <item name="color/partial_timer_clock">@color/dc_partial_timer_clock</item>
+    <item name="color/positive_timer_clock">@color/dc_positive_timer_clock</item>
+    <item name="color/red">@color/dc_red</item>
+    <item name="color/screen_saver_color">@color/dc_screen_saver_color</item>
+    <item name="color/screen_saver_dim_color">@color/dc_screen_saver_dim_color</item>
+    <item name="color/time_text_color">@color/dc_time_text_color</item>
+    <item name="color/titlebar_separator">@color/dc_titlebar_separator</item>
+    <item name="color/transparent">@color/dc_transparent</item>
+    <item name="color/white">@color/dc_white</item>
+
+    <item name="drawable/appwidget_analog_clock_preview">@drawable/appwidget_analog_clock_preview</item>
+    <item name="drawable/appwidget_clock_dial">@drawable/com_android_deskclock_appwidget_clock_dial</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
+    <item name="drawable/appwidget_clock_second">@drawable/com_android_deskclock_appwidget_clock_second</item>
+    <item name="drawable/appwidget_digital_clock_preview">@drawable/appwidget_digital_clock_preview</item>
+    <item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_deskclock_btn_in_call_round_disable_focused</item>
+    <item name="drawable/btn_in_call_round_pressed">@drawable/com_android_deskclock_btn_in_call_round_pressed</item>
+    <item name="drawable/btn_in_call_round_selected">@drawable/com_android_deskclock_btn_in_call_round_selected</item>
     <item name="drawable/btn_strip_trans_left_pressed">@drawable/com_android_deskclock_btn_strip_trans_left_pressed</item>
     <item name="drawable/btn_strip_trans_left_selected">@drawable/com_android_deskclock_btn_strip_trans_left_selected</item>
     <item name="drawable/btn_strip_trans_middle_pressed">@drawable/com_android_deskclock_btn_strip_trans_middle_pressed</item>
     <item name="drawable/btn_strip_trans_middle_selected">@drawable/com_android_deskclock_btn_strip_trans_middle_selected</item>
     <item name="drawable/btn_strip_trans_right_pressed">@drawable/com_android_deskclock_btn_strip_trans_right_pressed</item>
     <item name="drawable/btn_strip_trans_right_selected">@drawable/com_android_deskclock_btn_strip_trans_right_selected</item>
-    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
-    <item name="drawable/btn_in_call_round_pressed">@drawable/com_android_deskclock_btn_in_call_round_pressed</item>
-    <item name="drawable/btn_in_call_round_selected">@drawable/com_android_deskclock_btn_in_call_round_selected</item>
-    <item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_deskclock_btn_in_call_round_disable_focused</item>
     <item name="drawable/ic_indicator_on">@drawable/com_android_deskclock_ic_indicator_on</item>
-    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
-    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
     <item name="drawable/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
+    <item name="drawable/list_activated_holo">@drawable/com_android_deskclock_list_activated_holo</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/com_android_deskclock_list_selector_background_pressed</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+    <item name="mipmap/ic_launcher_alarmclock">@mipmap/com_android_deskclock_ic_launcher_alarmclock</item>
+    <item name="mipmap/ic_launcher_timer">@mipmap/com_android_deskclock_ic_launcher_timer</item>
+    <item name="mipmap/ic_widget_analog_clock">@mipmap/com_android_deskclock_ic_widget_analog_clock</item>
 </resource-redirections>

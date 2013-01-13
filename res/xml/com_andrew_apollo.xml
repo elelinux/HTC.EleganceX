@@ -18,8 +18,8 @@
 
 <resource-redirections>
     <!-- Theme Apollo color's  -->
-    <item name="color/holo_blue_dark">@color/elegance_green_dark</item>
-    <item name="color/transparent_black">@color/elegance_green_bright</item>
+    <item name="color/holo_blue_dark">@color/holo_blue_dark</item>
+    <item name="color/transparent_black">@color/holo_blue_bright</item>
     <!-- Theme Apollo -->
     <item name="drawable/apollo_holo_light_favorite_normal">@drawable/com_andrew_apollo_apollo_holo_light_favorite_normal</item>
     <item name="drawable/apollo_holo_light_next">@drawable/com_andrew_apollo_apollo_holo_light_next</item>
