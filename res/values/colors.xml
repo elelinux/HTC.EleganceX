@@ -113,14 +113,27 @@
     <color name="status_bar_background">#80000000</color>
     <color name="transparent">#00000000</color>
     <color name="grey_light">#ffdbd7d2</color>
-    <!-- mms -->
+
+    <!-- Extra -->
+    <color name="lightest_gray">#ffededed</color>
+    <color name="email_section_header_text_color">#ffaadd00</color>
+    <color name="med_gray">#ff555555</color>
+    <color name="blue">#ffaadd00</color>
+    <color name="pink">#ffff00ba</color> 
+    <color name="red">#ffe70000</color>
+
+    <!-- Mms -->
     <color name="mms_background_primary">#ff000000</color>
     <color name="mms_dark_blue">#ffaadd00</color>
     <color name="mms_lightest_gray">#ffededed</color>
     <color name="mms_link_text_holo_light">#ffededed</color>
     <color name="mms_timestamp_color">#ffededed</color>
     <color name="mms_white">#ffededed</color>
-    <color name="lightest_gray">#ffededed</color>
+
+    <color name="delivery_report_header">#000000</color>
+    <color name="delivery_report_recipient">#ffffff</color>
+    <color name="delivery_report_status">#ffffff</color>
+    <color name="delivery_report_date">#ffffff</color>
 
     <!-- Deskclock -->
     <color name="dc_cling_text">#ff99cc00</color>
@@ -140,4 +153,41 @@
     <color name="ps_review_histogram_bar">#ff99cc00</color>
     <color name="ps_setup_wizard_title_color">#ff99cc00</color>
     <color name="ps_song_highlighted_background">#ff99cc00</color>
+
+    <!-- Twitter -->
+    <color name="action_bar_background">#ffffffff</color>
+    <color name="action_bar">#ffffffff</color>
+    <color name="action_bar_pressed">#ffd0d0d0</color>
+    <color name="at_sign">#ff8abfe5</color>
+    <color name="bg_focused">#ff555555</color>
+    <color name="bg_image">#ffcccccc</color>
+    <color name="bg_list">#ff030303</color>
+    <color name="bg_player">#ff222222</color>
+    <color name="bg_pressed">#ffaadd00</color>
+    <color name="button_text_disabled">#ffaaaaaa</color>
+    <color name="card_stroke">#ff030303</color>
+    <color name="clear">#00000000</color>
+    <color name="divider_dark">#ff000000</color>
+    <color name="dot">#ffcfcfcf</color>
+    <color name="event_divider">#ffededed</color>
+    <color name="event_divider_reflection">#fff6f6f6</color>
+    <color name="event_header_background">#ffcccccc</color>    
+    <color name="image_overlay">#22000000</color>
+    <color name="link_color">#ffaadd00</color>
+    <color name="list_divider_color">#ffededed</color>
+    <color name="mentioned">#40000000</color>
+    <color name="negative_color">#ff9b3919</color>
+    <color name="notification">#ff00ff00</color>
+    <color name="positive_color">#ff6cac50</color>
+    <color name="primary_text">#ffededed</color>
+    <color name="secondary_text">#ffbfbfbf</color>
+    <color name="section_shadow_color">#ff888888</color>
+    <color name="signup_error">#ffff0000</color>
+    <color name="soft_black">#ff030303</color>
+    <color name="solid_black">#ff555555</color>
+    <color name="solid_gray">#ff030303</color>
+    <color name="solid_white">#ff555555</color>
+    <color name="timestamp_text">#ffaadd00</color>
+    <color name="title_shadow_color">#55000000</color>
+    <color name="translucent_black">#da000000</color>
 </resources>

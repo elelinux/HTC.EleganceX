@@ -173,9 +173,9 @@
     <item name="drawable/spinner_music_focused_holo_dark">@drawable/vending_spinner_music_focused_holo_dark</item>
     <item name="drawable/spinner_music_pressed_holo_dark">@drawable/vending_spinner_music_pressed_holo_dark</item>
     <item name="drawable/spinner_pressed_holo_dark">@drawable/vending_spinner_pressed_holo_dark</item>
+    <item name="drawable/stat_notify_marketplace_update">@drawable/stat_notify_marketplace_update</item>
     <item name="drawable/stat_notify_marketplace_update">@drawable/vending_stat_notify_marketplace_update</item>
-    <item name="drawable/stat_notify_marketplace_update">@drawable/vending_stat_notify_marketplace_update</item>
-    <item name="drawable/stat_sys_install_complete">@drawable/vending_stat_sys_install_complete</item>
+    <item name="drawable/stat_sys_install_complete">@drawable/stat_sys_install_complete</item>
     <item name="drawable/stat_sys_install_complete">@drawable/vending_stat_sys_install_complete</item>
     <item name="drawable/title_bar_shadow">@drawable/vending_title_bar_shadow</item>
     <item name="drawable/transparent">@drawable/vending_transparent</item>

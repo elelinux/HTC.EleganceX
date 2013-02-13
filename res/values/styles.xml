@@ -90,13 +90,13 @@
    <!-- mms -->
     <style name="MmsHoloTheme" parent="@android:style/Theme.Holo" />
     <style name="NotificationPrimaryText">
-        <item name="android:textColor">#ffededed</item>
+        <item name="android:textColor">#ff000000</item>
     </style>
     <style name="NotificationSecondaryText">
-        <item name="android:textColor">#ffededed</item>
+        <item name="android:textColor">#ff000000</item>
     </style>
     <style name="NotificationSubjectText">
-        <item name="android:textColor">#ffededed</item>
+        <item name="android:textColor">#ff000000</item>
     </style>
     <style name="TextAppearance.SearchResult" parent="@style/TextAppearance">
         <item name="android:textStyle">normal</item>
@@ -112,16 +112,100 @@
         <item name="android:textColor">?android:textColorSecondary</item>
     </style>
     <style name="TextAppearance">
-        <item name="android:textSize">18.0sp</item>
+        <item name="android:textSize">16.0sp</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ffededed</item>
-        <item name="android:textColorHighlight">#ffededed</item>
-        <item name="android:textColorHint">#ffededed</item>
-        <item name="android:textColorLink">#ffededed</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:textColorHighlight">#ff000000</item>
+        <item name="android:textColorHint">#ff000000</item>
+        <item name="android:textColorLink">#ff000000</item>
     </style>
     <style name="WidgetTitle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
         <item name="android:textColor">#ffaadd00</item>
         <item name="android:singleLine">true</item>
     </style>
    <!-- mms end -->
+    <!-- Email -->
+    <style name="ComposeBodyStyle">
+        <item name="android:textColor">@color/med_gray</item>
+        <item name="android:textColorHint">@color/med_gray</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">42.0dip</item>
+        <item name="android:inputType">textLongMessage|textCapSentences|textAutoCorrect|textMultiLine</item>
+        <item name="android:imeOptions">actionDone|flagNoExtractUi|flagNoEnterAction</item>
+    </style>
+    <style name="ComposeFieldLayout" parent="@android:style/Widget.Holo.EditText">
+        <item name="android:textColor">#ffaadd00</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="EmailTheme" parent="@android:style/Theme.Holo" />
+    <style name="PlainEditText" parent="@android:style/Widget.Holo.EditText">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="widget_list_item">
+        <item name="android:textColor">#ffe8713f</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="unreadCount">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/holo_blue_bright</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="unreadCountActionBar" parent="@style/unreadCount">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:textColor">@color/holo_blue_bright</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <!-- Email end -->
+    <!-- Twitter -->
+    <style name="InsetText.CharCount" parent="@style/InsetText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/lightest_gray</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/bg_focused</item>
+    </style>
+    <style name="InsetText">
+        <item name="android:textColor">@color/lightest_gray</item>
+        <item name="android:shadowColor">@color/bg_focused</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="ProfileText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/lightest_gray</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="TitleText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/holo_blue_bright</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/med_gray</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <!-- Twitter end -->
 </resources>

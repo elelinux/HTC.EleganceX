@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/appwidget_clock_dial">@drawable/com_cyanogenmod_lockclock_appwidget_clock_dial</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/com_cyanogenmod_lockclock_appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/com_cyanogenmod_lockclock_appwidget_clock_minute</item>
+    <item name="drawable/calendar_preferences">@drawable/com_cyanogenmod_lockclock_calendar_preferences</item> 
+    <item name="drawable/clock_preferences">@drawable/com_cyanogenmod_lockclock_clock_preferences</item> 
+    <item name="drawable/ic_alarm_small">@drawable/com_cyanogenmod_lockclock_ic_alarm_small</item> 
+    <item name="drawable/ic_launcher">@drawable/com_cyanogenmod_lockclock_ic_launcher</item> 
+    <item name="drawable/ic_lock_idle_calendar">@drawable/com_cyanogenmod_lockclock_ic_lock_idle_calendar</item> 
+    <item name="drawable/weather_0">@drawable/com_cyanogenmod_lockclock_weather_0</item>
+    <item name="drawable/weather_10">@drawable/com_cyanogenmod_lockclock_weather_10</item>
+    <item name="drawable/weather_11">@drawable/com_cyanogenmod_lockclock_weather_11</item>
+    <item name="drawable/weather_12">@drawable/com_cyanogenmod_lockclock_weather_12</item>
+    <item name="drawable/weather_13">@drawable/com_cyanogenmod_lockclock_weather_13</item>
+    <item name="drawable/weather_14">@drawable/com_cyanogenmod_lockclock_weather_14</item>
+    <item name="drawable/weather_15">@drawable/com_cyanogenmod_lockclock_weather_15</item>
+    <item name="drawable/weather_16">@drawable/com_cyanogenmod_lockclock_weather_16</item>
+    <item name="drawable/weather_17">@drawable/com_cyanogenmod_lockclock_weather_17</item>
+    <item name="drawable/weather_18">@drawable/com_cyanogenmod_lockclock_weather_18</item>
+    <item name="drawable/weather_19">@drawable/com_cyanogenmod_lockclock_weather_19</item>
+    <item name="drawable/weather_1">@drawable/com_cyanogenmod_lockclock_weather_1</item>
+    <item name="drawable/weather_20">@drawable/com_cyanogenmod_lockclock_weather_20</item>
+    <item name="drawable/weather2_11">@drawable/com_cyanogenmod_lockclock_weather2_11</item>
+    <item name="drawable/weather2_12">@drawable/com_cyanogenmod_lockclock_weather2_12</item>
+    <item name="drawable/weather2_13">@drawable/com_cyanogenmod_lockclock_weather2_13</item>
+    <item name="drawable/weather2_14">@drawable/com_cyanogenmod_lockclock_weather2_14</item>
+    <item name="drawable/weather2_15">@drawable/com_cyanogenmod_lockclock_weather2_15</item>
+    <item name="drawable/weather2_16">@drawable/com_cyanogenmod_lockclock_weather2_16</item>
+    <item name="drawable/weather2_17">@drawable/com_cyanogenmod_lockclock_weather2_17</item>
+    <item name="drawable/weather2_18">@drawable/com_cyanogenmod_lockclock_weather2_18</item>
+    <item name="drawable/weather2_19">@drawable/com_cyanogenmod_lockclock_weather2_19</item>
+    <item name="drawable/weather_21">@drawable/com_cyanogenmod_lockclock_weather_21</item>
+    <item name="drawable/weather2_1">@drawable/com_cyanogenmod_lockclock_weather2_1</item>
+    <item name="drawable/weather2_21">@drawable/com_cyanogenmod_lockclock_weather2_21</item>
+    <item name="drawable/weather2_22">@drawable/com_cyanogenmod_lockclock_weather2_22</item>
+    <item name="drawable/weather2_23">@drawable/com_cyanogenmod_lockclock_weather2_23</item>
+    <item name="drawable/weather2_24">@drawable/com_cyanogenmod_lockclock_weather2_24</item>
+    <item name="drawable/weather2_25">@drawable/com_cyanogenmod_lockclock_weather2_25</item>
+    <item name="drawable/weather2_26">@drawable/com_cyanogenmod_lockclock_weather2_26</item>
+    <item name="drawable/weather2_27">@drawable/com_cyanogenmod_lockclock_weather2_27</item>
+    <item name="drawable/weather2_28">@drawable/com_cyanogenmod_lockclock_weather2_28</item>
+    <item name="drawable/weather2_29">@drawable/com_cyanogenmod_lockclock_weather2_29</item>
+    <item name="drawable/weather_22">@drawable/com_cyanogenmod_lockclock_weather_22</item>
+    <item name="drawable/weather2_30">@drawable/com_cyanogenmod_lockclock_weather2_30</item>
+    <item name="drawable/weather2_31">@drawable/com_cyanogenmod_lockclock_weather2_31</item>
+    <item name="drawable/weather2_32">@drawable/com_cyanogenmod_lockclock_weather2_32</item>
+    <item name="drawable/weather2_33">@drawable/com_cyanogenmod_lockclock_weather2_33</item>
+    <item name="drawable/weather2_34">@drawable/com_cyanogenmod_lockclock_weather2_34</item>
+    <item name="drawable/weather2_35">@drawable/com_cyanogenmod_lockclock_weather2_35</item>
+    <item name="drawable/weather2_36">@drawable/com_cyanogenmod_lockclock_weather2_36</item>
+    <item name="drawable/weather2_37">@drawable/com_cyanogenmod_lockclock_weather2_37</item>
+    <item name="drawable/weather2_38">@drawable/com_cyanogenmod_lockclock_weather2_38</item>
+    <item name="drawable/weather2_39">@drawable/com_cyanogenmod_lockclock_weather2_39</item>
+    <item name="drawable/weather_23">@drawable/com_cyanogenmod_lockclock_weather_23</item>
+    <item name="drawable/weather2_3">@drawable/com_cyanogenmod_lockclock_weather2_3</item>
+    <item name="drawable/weather2_40">@drawable/com_cyanogenmod_lockclock_weather2_40</item>
+    <item name="drawable/weather2_41">@drawable/com_cyanogenmod_lockclock_weather2_41</item>
+    <item name="drawable/weather2_42">@drawable/com_cyanogenmod_lockclock_weather2_42</item>
+    <item name="drawable/weather2_43">@drawable/com_cyanogenmod_lockclock_weather2_43</item>
+    <item name="drawable/weather2_44">@drawable/com_cyanogenmod_lockclock_weather2_44</item>
+    <item name="drawable/weather2_45">@drawable/com_cyanogenmod_lockclock_weather2_45</item>
+    <item name="drawable/weather2_46">@drawable/com_cyanogenmod_lockclock_weather2_46</item>
+    <item name="drawable/weather2_47">@drawable/com_cyanogenmod_lockclock_weather2_47</item>
+    <item name="drawable/weather_24">@drawable/com_cyanogenmod_lockclock_weather_24</item>
+    <item name="drawable/weather2_4">@drawable/com_cyanogenmod_lockclock_weather2_4</item>
+    <item name="drawable/weather_25">@drawable/com_cyanogenmod_lockclock_weather_25</item>
+    <item name="drawable/weather2_5">@drawable/com_cyanogenmod_lockclock_weather2_5</item>
+    <item name="drawable/weather_26">@drawable/com_cyanogenmod_lockclock_weather_26</item>
+    <item name="drawable/weather2_6">@drawable/com_cyanogenmod_lockclock_weather2_6</item>
+    <item name="drawable/weather_27">@drawable/com_cyanogenmod_lockclock_weather_27</item>
+    <item name="drawable/weather2_7">@drawable/com_cyanogenmod_lockclock_weather2_7</item>
+    <item name="drawable/weather_28">@drawable/com_cyanogenmod_lockclock_weather_28</item>
+    <item name="drawable/weather2_8">@drawable/com_cyanogenmod_lockclock_weather2_8</item>
+    <item name="drawable/weather_29">@drawable/com_cyanogenmod_lockclock_weather_29</item>
+    <item name="drawable/weather2_9">@drawable/com_cyanogenmod_lockclock_weather2_9</item>
+    <item name="drawable/weather2_na">@drawable/com_cyanogenmod_lockclock_weather2_na</item>
+    <item name="drawable/weather_2">@drawable/com_cyanogenmod_lockclock_weather_2</item>
+    <item name="drawable/weather_30">@drawable/com_cyanogenmod_lockclock_weather_30</item>
+    <item name="drawable/weather_31">@drawable/com_cyanogenmod_lockclock_weather_31</item>
+    <item name="drawable/weather_32">@drawable/com_cyanogenmod_lockclock_weather_32</item>
+    <item name="drawable/weather_33">@drawable/com_cyanogenmod_lockclock_weather_33</item>
+    <item name="drawable/weather_34">@drawable/com_cyanogenmod_lockclock_weather_34</item>
+    <item name="drawable/weather_35">@drawable/com_cyanogenmod_lockclock_weather_35</item>
+    <item name="drawable/weather_36">@drawable/com_cyanogenmod_lockclock_weather_36</item>
+    <item name="drawable/weather_37">@drawable/com_cyanogenmod_lockclock_weather_37</item>
+    <item name="drawable/weather_38">@drawable/com_cyanogenmod_lockclock_weather_38</item>
+    <item name="drawable/weather_39">@drawable/com_cyanogenmod_lockclock_weather_39</item>
+    <item name="drawable/weather_3">@drawable/com_cyanogenmod_lockclock_weather_3</item>
+    <item name="drawable/weather_40">@drawable/com_cyanogenmod_lockclock_weather_40</item>
+    <item name="drawable/weather_41">@drawable/com_cyanogenmod_lockclock_weather_41</item>
+    <item name="drawable/weather_42">@drawable/com_cyanogenmod_lockclock_weather_42</item>
+    <item name="drawable/weather_43">@drawable/com_cyanogenmod_lockclock_weather_43</item>
+    <item name="drawable/weather_44">@drawable/com_cyanogenmod_lockclock_weather_44</item> 
+    <item name="drawable/weather_45">@drawable/com_cyanogenmod_lockclock_weather_45</item>
+    <item name="drawable/weather_46">@drawable/com_cyanogenmod_lockclock_weather_46</item>
+    <item name="drawable/weather_47">@drawable/com_cyanogenmod_lockclock_weather_47</item>
+    <item name="drawable/weather_4">@drawable/com_cyanogenmod_lockclock_weather_4</item> 
+    <item name="drawable/weather_5">@drawable/com_cyanogenmod_lockclock_weather_5</item>
+    <item name="drawable/weather_6">@drawable/com_cyanogenmod_lockclock_weather_6</item>
+    <item name="drawable/weather_7">@drawable/com_cyanogenmod_lockclock_weather_7</item>
+    <item name="drawable/weather_8">@drawable/com_cyanogenmod_lockclock_weather_8</item> 
+    <item name="drawable/weather_9">@drawable/com_cyanogenmod_lockclock_weather_9</item>
+    <item name="drawable/weather_na">@drawable/com_cyanogenmod_lockclock_weather_na</item>
+    <item name="drawable/weather_weather_preferences">@drawable/com_cyanogenmod_lockclock_weather_weather_preferences</item> 
+</resource-redirections>

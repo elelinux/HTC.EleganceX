@@ -50,13 +50,13 @@
     <item name="style/TextAppearance.Widget.DropDownItem">@style/Theme.Holo.Light.DarkActionBar</item>
 
     <!-- update CM10/AOKP-JB -->
-    <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>
+<!--    <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>
     <item name="drawable/navigationbar_background">@drawable/com_android_systemui_navigationbar_background</item>
     <item name="drawable/navigationbar_background_land">@drawable/com_android_systemui_navigationbar_background_land</item>
     <item name="drawable/notification_header_background">@drawable/com_android_systemui_notification_header_background</item>
     <item name="drawable/notification_header_bg">@drawable/com_android_systemui_notification_header_bg</item>
     <item name="drawable/notification_item_background">@drawable/com_android_systemui_notification_item_background</item>
-    <item name="drawable/notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item>
+    <item name="drawable/notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item> -->
     <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
     <item name="drawable/notification_tracking_bg">@drawable/com_android_systemui_notification_tracking_bg</item>
 
@@ -64,9 +64,18 @@
     <item name="drawable/arrow_dashed">@drawable/com_android_systemui_arrow_dashed</item>
     <item name="drawable/btn_cling_normal">@drawable/com_android_systemui_btn_cling_normal</item>
     <item name="drawable/btn_cling_pressed">@drawable/com_android_systemui_btn_cling_pressed</item>
+    <item name="drawable/ic_notify_clear_normal">@drawable/com_android_systemui_ic_notify_clear_normal</item>
+    <item name="drawable/ic_notify_clear_pressed">@drawable/com_android_systemui_ic_notify_clear_pressed</item>
+    <item name="drawable/ic_notify_open_normal">@drawable/com_android_systemui_ic_notify_open_normal</item>
     <item name="drawable/ic_notify_open_pressed">@drawable/com_android_systemui_ic_notify_open_pressed</item>
+    <item name="drawable/ic_notify_quicksettings_normal">@drawable/com_android_systemui_ic_notify_quicksettings_normal</item>
     <item name="drawable/ic_notify_quicksettings_pressed">@drawable/com_android_systemui_ic_notify_quicksettings_pressed</item>
+    <item name="drawable/ic_notify_rotation_off_normal">@drawable/com_android_systemui_ic_notify_rotation_off_normal</item>
+    <item name="drawable/ic_notify_rotation_off_pressed">@drawable/com_android_systemui_ic_notify_rotation_off_pressed</item>
+    <item name="drawable/ic_notify_rotation_on_normal">@drawable/com_android_systemui_ic_notify_rotation_on_normal</item>
+    <item name="drawable/ic_notify_rotation_on_pressed">@drawable/com_android_systemui_ic_notify_rotation_on_pressed</item>
     <item name="drawable/ic_qs_2g3g_on">@drawable/com_android_systemui_ic_qs_2g3g_on</item>
+    <item name="drawable/ic_qs_2g_off">@drawable/com_android_systemui_ic_qs_2g_off</item>
     <item name="drawable/ic_qs_2g_on">@drawable/com_android_systemui_ic_qs_2g_on</item>
     <item name="drawable/ic_qs_3g_on">@drawable/com_android_systemui_ic_qs_3g_on</item>
     <item name="drawable/ic_qs_airplane_off">@drawable/com_android_systemui_ic_qs_airplane_off</item>
@@ -101,10 +110,15 @@
     <item name="drawable/ic_qs_bluetooth_on">@drawable/com_android_systemui_ic_qs_bluetooth_on</item>
     <item name="drawable/ic_qs_brightness_auto_off">@drawable/com_android_systemui_ic_qs_brightness_auto_off</item>
     <item name="drawable/ic_qs_brightness_auto_on">@drawable/com_android_systemui_ic_qs_brightness_auto_on</item>
+    <item name="drawable/ic_qs_bt_tether_off">@drawable/com_android_systemui_ic_qs_bt_tether_off</item>
+    <item name="drawable/ic_qs_bt_tether_on">@drawable/com_android_systemui_ic_qs_bt_tether_on</item>
     <item name="drawable/ic_qs_clock_circle">@drawable/com_android_systemui_ic_qs_clock_circle</item>
     <item name="drawable/ic_qs_clock_hour">@drawable/com_android_systemui_ic_qs_clock_hour</item>
     <item name="drawable/ic_qs_clock_minute">@drawable/com_android_systemui_ic_qs_clock_minute</item>
     <item name="drawable/ic_qs_default_user">@drawable/com_android_systemui_ic_qs_default_user</item>
+    <item name="drawable/ic_qs_fcharge_off">@drawable/com_android_systemui_ic_qs_fcharge_off</item>
+    <item name="drawable/ic_qs_fcharge_on">@drawable/com_android_systemui_ic_qs_fcharge_on</item>
+    <item name="drawable/ic_qs_gps_location">@drawable/com_android_systemui_ic_qs_gps_location</item>
     <item name="drawable/ic_qs_gps_neutral">@drawable/com_android_systemui_ic_qs_gps_neutral</item>
     <item name="drawable/ic_qs_gps_off">@drawable/com_android_systemui_ic_qs_gps_off</item>
     <item name="drawable/ic_qs_gps_on">@drawable/com_android_systemui_ic_qs_gps_on</item>
@@ -112,9 +126,13 @@
     <item name="drawable/ic_qs_location">@drawable/com_android_systemui_ic_qs_location</item>
     <item name="drawable/ic_qs_lock_screen_off">@drawable/com_android_systemui_ic_qs_lock_screen_off</item>
     <item name="drawable/ic_qs_lock_screen_on">@drawable/com_android_systemui_ic_qs_lock_screen_on</item>
+    <item name="drawable/ic_qs_lte_off">@drawable/com_android_systemui_ic_qs_lte_off</item>
+    <item name="drawable/ic_qs_lte_on">@drawable/com_android_systemui_ic_qs_lte_on</item>
     <item name="drawable/ic_qs_nfc_off">@drawable/com_android_systemui_ic_qs_nfc_off</item>
     <item name="drawable/ic_qs_nfc_on">@drawable/com_android_systemui_ic_qs_nfc_on</item>
     <item name="drawable/ic_qs_profiles">@drawable/com_android_systemui_ic_qs_profiles</item>
+    <item name="drawable/ic_qs_quiet_hours_off">@drawable/com_android_systemui_ic_qs_quiet_hours_off</item>
+    <item name="drawable/ic_qs_quiet_hours_on">@drawable/com_android_systemui_ic_qs_quiet_hours_on</item>
     <item name="drawable/ic_qs_remote_display_connected">@drawable/com_android_systemui_ic_qs_remote_display_connected</item>
     <item name="drawable/ic_qs_remote_display">@drawable/com_android_systemui_ic_qs_remote_display</item>
     <item name="drawable/ic_qs_ring_off">@drawable/com_android_systemui_ic_qs_ring_off</item>
@@ -156,10 +174,18 @@
     <item name="drawable/ic_qs_sleep">@drawable/com_android_systemui_ic_qs_sleep</item>
     <item name="drawable/ic_qs_sync_off">@drawable/com_android_systemui_ic_qs_sync_off</item>
     <item name="drawable/ic_qs_sync_on">@drawable/com_android_systemui_ic_qs_sync_on</item>
+    <item name="drawable/ic_qs_silence_off">@drawable/com_android_systemui_ic_qs_silence_off</item>
+    <item name="drawable/ic_qs_silence_on">@drawable/com_android_systemui_ic_qs_silence_on</item>
+    <item name="drawable/ic_qs_sound_off">@drawable/com_android_systemui_ic_qs_sound_off</item>
+    <item name="drawable/ic_qs_sound_on">@drawable/com_android_systemui_ic_qs_sound_on</item>
     <item name="drawable/ic_qs_torch_off">@drawable/com_android_systemui_ic_qs_torch_off</item>
     <item name="drawable/ic_qs_torch_on">@drawable/com_android_systemui_ic_qs_torch_on</item>
     <item name="drawable/ic_qs_unexpected_network">@drawable/com_android_systemui_ic_qs_unexpected_network</item>
     <item name="drawable/ic_qs_usb_device">@drawable/com_android_systemui_ic_qs_usb_device</item>
+    <item name="drawable/ic_qs_usb_device_on">@drawable/com_android_systemui_ic_qs_usb_device_on</item>
+    <item name="drawable/ic_qs_usb_tether_connected">@drawable/com_android_systemui_ic_qs_usb_tether_connected</item>
+    <item name="drawable/ic_qs_usb_tether_off">@drawable/com_android_systemui_ic_qs_usb_tether_off</item>
+    <item name="drawable/ic_qs_usb_tether_on">@drawable/com_android_systemui_ic_qs_usb_tether_on</item>
     <item name="drawable/ic_qs_vibrate_off">@drawable/com_android_systemui_ic_qs_vibrate_off</item>
     <item name="drawable/ic_qs_vibrate_on">@drawable/com_android_systemui_ic_qs_vibrate_on</item>
     <item name="drawable/ic_qs_wifi_0">@drawable/com_android_systemui_ic_qs_wifi_0</item>
@@ -179,6 +205,8 @@
     <item name="drawable/ic_qs_wifi_no_network">@drawable/com_android_systemui_ic_qs_wifi_no_network</item>
     <item name="drawable/ic_qs_wifi_not_connected">@drawable/com_android_systemui_ic_qs_wifi_not_connected</item>
     <item name="drawable/ic_qs_wifi_out">@drawable/com_android_systemui_ic_qs_wifi_out</item>
+    <item name="drawable/ic_qs_wifi_tether_off">@drawable/com_android_systemui_ic_qs_wifi_tether_off</item>
+    <item name="drawable/ic_qs_wifi_tether_on">@drawable/com_android_systemui_ic_qs_wifi_tether_on</item>
 
     <!-- notification pressed color -->
     <item name="drawable/notification_item_background_color_pressed">@color/elegance_green_dark</item>
@@ -213,6 +241,8 @@
     <item name="drawable/ic_notify_rotation_on_pressed">@drawable/com_android_systemui_ic_notify_rotation_on_pressed</item>
     <item name="drawable/ic_sysbar_airplane_on">@drawable/com_android_systemui_ic_sysbar_airplane_on</item>
     <item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
+    <item name="drawable/ic_recent_clear_normal">@drawable/com_android_systemui_ic_recent_clear_normal</item>
+    <item name="drawable/ic_recent_clear_pressed">@drawable/com_android_systemui_ic_recent_clear_pressed</item>
     <item name="drawable/ic_sysbar_back_ime_default">@drawable/com_android_systemui_ic_sysbar_back_ime_default</item>
     <item name="drawable/ic_sysbar_back_ime_pressed">@drawable/com_android_systemui_ic_sysbar_back_ime_pressed</item>
     <item name="drawable/ic_sysbar_back_land">@drawable/com_android_systemui_ic_sysbar_back_land</item>
@@ -583,6 +613,16 @@
     <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_3_fully</item>
     <item name="drawable/stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
+
+    <item name="drawable/stat_vibrate_off">@drawable/com_android_systemui_stat_vibrate_off</item>
+    <item name="drawable/stat_vibrate_on">@drawable/com_android_systemui_stat_vibrate_on</item>
+    <item name="drawable/stat_wifi_ap_off">@drawable/com_android_systemui_stat_wifi_ap_off</item>
+    <item name="drawable/stat_wifi_ap_on">@drawable/com_android_systemui_stat_wifi_ap_on</item>
+    <item name="drawable/stat_wifi_off">@drawable/com_android_systemui_stat_wifi_off</item>
+    <item name="drawable/stat_wifi_on">@drawable/com_android_systemui_stat_wifi_on</item>
+    <item name="drawable/stat_wimax_off">@drawable/com_android_systemui_stat_wimax_off</item>
+    <item name="drawable/stat_wimax_on">@drawable/com_android_systemui_stat_wimax_on</item>
+
     <item name="drawable/status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
     <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
     <item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>

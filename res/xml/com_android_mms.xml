@@ -40,22 +40,25 @@
     <item name="color/action_bar_button_text_color">@color/mms_lightest_gray</item>
     <item name="color/actionbar_text">@color/mms_white</item>
     <item name="color/background">@color/mms_background_primary</item>
-    <item name="color/button_text">@color/ubuntu_light</item>
+
     <item name="color/compose_message_edit_text">@color/mms_lightest_gray</item>
     <item name="color/darkgray_backgrounds">@color/mms_link_text_holo_light</item>
     <item name="color/delete_thread_dialog">@color/mms_lightest_gray</item>
-    <item name="color/delivery_report_date">@color/ubuntu_light</item>
-    <item name="color/delivery_report_header">@color/ubuntu_light</item>
-    <item name="color/delivery_report_recipient">@color/ubuntu_light</item>
-    <item name="color/delivery_report_status">@color/ubuntu_light</item>
-    <item name="color/dividers">@color/ubuntu_light</item>
+    <!-- delivery report -->
+    <item name="color/delivery_report_header">@color/delivery_report_header</item>
+    <item name="color/delivery_report_recipient">@color/delivery_report_recipient</item>
+    <item name="color/delivery_report_status">@color/delivery_report_status</item>
+    <item name="color/delivery_report_date">@color/delivery_report_date</item>
+
+
     <item name="color/message_count_color">@color/mms_lightest_gray</item>
     <item name="color/message_received">@color/mms_white</item>
     <item name="color/message_received">@color/mms_white</item>
-    <item name="color/message_recieved">@color/ubuntu_light</item>
     <item name="color/message_recieved">@color/mms_white</item>
     <item name="color/message_sent">@color/mms_dark_blue</item>
+
     <item name="color/message_sent">@color/ubuntu_light</item>
+
     <item name="color/read_bgcolor">@drawable/com_android_messaging_list_read_holo</item>
     <item name="color/text_hairline">@color/mms_lightest_gray</item>
     <item name="color/timestamp_color">@color/mms_lightest_gray</item>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <!-- Theme attr -->
+    <item name="attr/state_mentioned">@attr/state_mentioned</item>
+
+    <!-- Theme Color -->
+    <item name="color/action_bar_background">@color/action_bar_background</item>
+    <item name="color/action_bar">@color/action_bar</item>
+    <item name="color/action_bar_pressed">@color/action_bar_pressed</item>
+    <item name="color/at_sign">@color/at_sign</item>
+    <item name="color/bg_focused">@color/bg_focused</item>
+    <item name="color/bg_image">@color/bg_image</item>
+    <item name="color/bg_list">@color/bg_list</item>
+    <item name="color/bg_player">@color/bg_player</item>
+    <item name="color/bg_pressed">@color/bg_pressed</item>
+    <item name="color/button_text_disabled">@color/button_text_disabled</item>
+    <item name="color/card_stroke">@color/card_stroke</item>
+    <item name="color/clear">@color/clear</item>
+    <item name="color/divider_dark">@color/divider_dark</item>
+    <item name="color/dot">@color/dot</item>
+    <item name="color/event_divider">@color/event_divider</item>
+    <item name="color/event_divider_reflection">@color/event_divider_reflection</item>
+    <item name="color/event_header_background">@color/event_header_background</item>
+    <item name="color/image_overlay">@color/image_overlay</item>
+    <item name="color/link_color">@color/link_color</item>
+    <item name="color/list_divider_color">@color/list_divider_color</item>
+    <item name="color/mentioned">@color/pink</item>
+    <item name="color/negative_color">@color/negative_color</item>
+    <item name="color/notification">@color/notification</item>
+    <item name="color/positive_color">@color/positive_color</item>
+    <item name="color/primary_text">@color/primary_text</item>
+    <item name="color/secondary_text">@color/secondary_text</item>
+    <item name="color/section_shadow_color">@color/section_shadow_color</item>
+    <item name="color/signup_error">@color/signup_error</item>
+    <item name="color/soft_black">@color/soft_black</item>
+    <item name="color/solid_black">@color/solid_black</item>
+    <item name="color/solid_gray">@color/solid_gray</item>
+    <item name="color/solid_white">@color/solid_white</item>
+    <item name="color/timestamp_text">@color/timestamp_text</item>
+    <item name="color/title_shadow_color">@color/title_shadow_color</item>
+    <item name="color/translucent_black">@color/translucent_black</item> 
+    <!-- Color's in /Color -->
+    <item name="color/btn_titlebar_text">@color/com_twitter_android_btn_titlebar_text</item>
+    <item name="color/button_text">@color/com_twitter_android_button_text</item>
+    <item name="color/button_text">@color/com_twitter_android_button_text</item>
+    <item name="color/follow_btn_text">@color/com_twitter_android_follow_btn_text</item>
+    <item name="color/list_item_secondary_text">@color/com_twitter_android_list_item_secondary_text</item>
+    <item name="color/tab_item_title">@color/com_twitter_android_tab_item_title</item>
+
+    <!-- Theme style -->
+    <item name="style/InsetText.CharCount">@style/InsetText.CharCount</item>
+    <item name="style/ProfileText">@style/ProfileText</item>
+    <item name="style/TitleText">@style/TitleText</item>
+
+    <!-- Theme drawable -->
+    <item name="drawable/appwidget_bg">@drawable/com_twitter_android_appwidget_bg</item>
+    <item name="drawable/appwidget_bg_focused">@drawable/com_twitter_android_appwidget_bg_focused</item>
+    <item name="drawable/appwidget_bg_pressed">@drawable/com_twitter_android_appwidget_bg_pressed</item>
+    <item name="drawable/appwidget_small_bg_default">@drawable/com_twitter_android_appwidget_small_bg_default</item>
+    <item name="drawable/appwidget_small_bg_focused">@drawable/com_twitter_android_appwidget_small_bg_focused</item>
+    <item name="drawable/appwidget_small_bg_pressed">@drawable/com_twitter_android_appwidget_small_bg_pressed</item>
+    <item name="drawable/bg_card_notch_default">@color/transparent</item>
+    <item name="drawable/bg_dialog">@drawable/com_twitter_android_bg_dialog</item>
+    <item name="drawable/bg_dialog_textarea">@drawable/com_twitter_android_dialog_bg</item>
+    <item name="drawable/bg_gap">@drawable/com_twitter_android_bg_gap</item>
+    <item name="drawable/bg_profile_empty">@color/dark_gray</item>
+    <item name="drawable/bg_profile_empty">@drawable/com_twitter_android_bg_profile_empty</item>
+    <item name="drawable/bg_tabbar_tile">@drawable/com_twitter_android_bg_tabbar_tile</item>
+    <item name="drawable/bg_tabbar_tile">@drawable/com_twitter_android_bg_ta</item>
+    <item name="drawable/bg_titlebar_signup_tile">@drawable/com_twitter_android_bg_titlebar_signup_tile</item>
+    <item name="drawable/bg_titlebar_tile">@drawable/com_twitter_android_bg_titlebar_signup_tile</item>
+    <item name="drawable/btn_active_default">@drawable/com_twitter_android_btn_active_default</item>
+    <item name="drawable/btn_active_focused">@drawable/com_twitter_android_btn_active_focused</item>
+    <item name="drawable/btn_active_pressed">@drawable/com_twitter_android_btn_active_pressed</item>
+    <item name="drawable/btn_sign_up_default">@drawable/com_twitter_android_btn_sign_up_default</item>
+    <item name="drawable/btn_sign_up_focused">@drawable/com_twitter_android_btn_sign_up_focused</item>
+    <item name="drawable/btn_sign_up_pressed">@drawable/com_twitter_android_btn_sign_up_pressed</item>
+    <item name="drawable/btn_signup_titlebar_active_default">@drawable/com_twitter_android_btn_signup_titlebar_active_default</item>
+    <item name="drawable/btn_signup_titlebar_active_focused">@drawable/com_twitter_android_btn_signup_titlebar_active_focused</item>
+    <item name="drawable/btn_signup_titlebar_active_pressed">@drawable/com_twitter_android_btn_signup_titlebar_active_pressed</item>
+    <item name="drawable/btn_titlebar_default">@drawable/com_twitter_android_btn_titlebar_default</item>
+    <item name="drawable/btn_titlebar_focused">@drawable/com_twitter_android_btn_titlebar_focused</item>
+    <item name="drawable/btn_titlebar_pressed">@drawable/com_twitter_android_btn_titlebar_pressed</item>
+    <item name="drawable/ic_activity_follow_default">@drawable/com_twitter_android_ic_activity_follow_default</item>
+    <item name="drawable/ic_activity_follow">@drawable/com_twitter_android_ic_activity_follow</item>
+    <item name="drawable/ic_chevron_default">@drawable/com_twitter_android_ic_chevron_default</item>
+    <item name="drawable/ic_chevron_disabled">@drawable/com_twitter_android_ic_chevron_disabled</item>
+    <item name="drawable/ic_chevron_logged_out">@drawable/com_twitter_android_ic_chevron_logged_out</item>
+    <item name="drawable/ic_chevron_pressed">@drawable/com_twitter_android_ic_chevron_pressed</item>
+    <item name="drawable/ic_dialog_camera_active_default">@drawable/com_twitter_android_ic_dialog_camera_active_default</item>
+    <item name="drawable/ic_dialog_camera_active_pressed">@drawable/com_twitter_android_ic_dialog_camera_active_pressed</item>
+    <item name="drawable/ic_dialog_geo_active_default">@drawable/com_twitter_android_ic_dialog_geo_active_default</item>
+    <item name="drawable/ic_dialog_geo_active_pressed">@drawable/com_twitter_android_ic_dialog_geo_active_pressed</item>
+    <item name="drawable/ic_dialog_hash_active_default">@drawable/com_twitter_android_ic_dialog_hash_active_default</item>
+    <item name="drawable/ic_dialog_hash_active_pressed">@drawable/com_twitter_android_ic_dialog_hash_active_pressed</item>
+    <item name="drawable/ic_dialog_photo_active_default">@drawable/com_twitter_android_ic_dialog_photo_active_default</item>
+    <item name="drawable/ic_dialog_photo_active_pressed">@drawable/com_twitter_android_ic_dialog_photo_active_pressed</item>
+    <item name="drawable/ic_follow_default">@drawable/com_twitter_android_ic_follow_default</item>
+    <item name="drawable/ic_follow_text">@drawable/com_twitter_android_ic_follow_text</item>
+    <item name="drawable/ic_glow">@drawable/com_twitter_android_ic_glow</item>
+    <item name="drawable/ic_launcher_twitter">@drawable/com_twitter_android_ic_launcher_twitter</item>
+    <item name="drawable/ic_mentions_widget">@drawable/com_twitter_android_ic_mentions_widget</item>
+    <item name="drawable/ic_messages_new">@drawable/com_twitter_android_ic_messages_new</item>
+    <item name="drawable/ic_new_indicator_default">@drawable/com_twitter_android_ic_new_indicator_default</item>
+    <item name="drawable/ic_new_messages">@drawable/com_twitter_android_ic_new_messages</item>
+    <item name="drawable/ic_profile_verified">@drawable/com_twitter_android_ic_profile_verified</item>
+    <item name="drawable/ic_reply_widget">@drawable/com_twitter_android_ic_gallery_action_reply_pressed</item>
+    <item name="drawable/ic_tab_connect_selected">@drawable/com_twitter_android_ic_tab_connect_selected</item>
+    <item name="drawable/ic_tab_discover_selected">@drawable/com_twitter_android_ic_tab_discover_selected</item>
+    <item name="drawable/ic_tab_home_selected">@drawable/com_twitter_android_ic_tab_home_selected</item>
+    <item name="drawable/ic_tab_me_selected">@drawable/com_twitter_android_ic_tab_me_selected</item>
+    <item name="drawable/ic_title_logo">@drawable/com_twitter_android_ic_title_logo</item>
+    <item name="drawable/ic_tweets_widget">@drawable/com_twitter_android_ic_tweets_widget</item>
+    <item name="drawable/ic_twitter_logo_small_default">@drawable/com_twitter_android_ic_twitter_logo_small_default</item>
+    <item name="drawable/ic_verified">@drawable/com_twitter_android_ic_verified</item>
+    <item name="drawable/list_row_background">@drawable/com_twitter_android_list_row_background</item>
+    <item name="drawable/twitter_account">@drawable/com_twitter_android_twitter_account</item>
+    <item name="drawable/twitter_account_small">@drawable/com_twitter_android_twitter_account_small</item>
+</resource-redirections>

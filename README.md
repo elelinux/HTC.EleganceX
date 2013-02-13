@@ -1,9 +1,5 @@
-CM10/CM10.1 Theme template
+Theme for CM10/CM10.1/AOKP-Android 4.2.1 HTC.eleganceX
 
-Feel free to use, a good start for new themers 
-
-HTC.EleganceX updated to v1.0.7.5 support for JellyBean, added java support
-
-Enjoy :D
+Version 1.0.7.8
 
 Esa Laukkanen <ele.linux@gmail.com>
