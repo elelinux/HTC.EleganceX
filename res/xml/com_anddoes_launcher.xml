@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
+    <item name="drawable/ic_allapps">@drawable/com_cyanogenmod_trebuchet_ic_allapps</item>
+    <item name="drawable/ic_allapps_pressed">@drawable/com_cyanogenmod_trebuchet_ic_allapps_pressed</item>
+</resource-redirections>

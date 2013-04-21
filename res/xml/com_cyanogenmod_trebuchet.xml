@@ -17,6 +17,7 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
     <item name="drawable/default_widget_preview_holo">@drawable/com_cyanogenmod_trebuchet_default_widget_preview_holo</item>
     <item name="drawable/homescreen_blue_normal_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_normal_holo</item>
     <item name="drawable/homescreen_blue_strong_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_strong_holo</item>

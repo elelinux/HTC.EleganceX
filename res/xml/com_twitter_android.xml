@@ -23,27 +23,47 @@
     <!-- Theme Color -->
     <item name="color/action_bar_background">@color/action_bar_background</item>
     <item name="color/action_bar">@color/action_bar</item>
+    <item name="color/actionbar_pressed_bg">@color/actionbar_pressed_bg</item>
     <item name="color/action_bar_pressed">@color/action_bar_pressed</item>
     <item name="color/at_sign">@color/at_sign</item>
     <item name="color/bg_focused">@color/bg_focused</item>
+    <item name="color/bg_grouped_list">@color/bg_grouped_list</item>
     <item name="color/bg_image">@color/bg_image</item>
     <item name="color/bg_list">@color/bg_list</item>
     <item name="color/bg_player">@color/bg_player</item>
     <item name="color/bg_pressed">@color/bg_pressed</item>
+    <item name="color/btn_active_default_fill">@color/btn_active_default_fill</item>
+    <item name="color/btn_active_default_stroke">@color/btn_active_default_stroke</item>
+    <item name="color/btn_active_disabled_fill">@color/btn_active_disabled_fill</item>
+    <item name="color/btn_active_disabled_stroke">@color/btn_active_disabled_stroke</item>
+    <item name="color/btn_active_pressed_fill">@color/btn_active_pressed_fill</item>
+    <item name="color/btn_active_pressed_stroke">@color/btn_active_pressed_stroke</item>
+    <item name="color/btn_default_fill">@color/btn_default_fill</item>
+    <item name="color/btn_default_stroke">@color/btn_default_stroke</item>
+    <item name="color/btn_disabled_fill">@color/btn_disabled_fill</item>
+    <item name="color/btn_disabled_stroke">@color/btn_disabled_stroke</item>
+    <item name="color/btn_pressed_fill">@color/btn_pressed_fill</item>
+    <item name="color/btn_pressed_stroke">@color/btn_pressed_stroke</item>
     <item name="color/button_text_disabled">@color/button_text_disabled</item>
-    <item name="color/card_stroke">@color/card_stroke</item>
+    <item name="color/card_element_pressed">@color/card_element_pressed</item>
+    <item name="color/card_image_placeholder">@color/card_image_placeholder</item>
     <item name="color/clear">@color/clear</item>
+    <item name="color/discover_sub_nav_pressed">@color/discover_sub_nav_pressed</item>
     <item name="color/divider_dark">@color/divider_dark</item>
     <item name="color/dot">@color/dot</item>
     <item name="color/event_divider">@color/event_divider</item>
     <item name="color/event_divider_reflection">@color/event_divider_reflection</item>
     <item name="color/event_header_background">@color/event_header_background</item>
+    <item name="color/grouped_row_view_stroke">@color/grouped_row_view_stroke</item>
     <item name="color/image_overlay">@color/image_overlay</item>
     <item name="color/link_color">@color/link_color</item>
+    <item name="color/link_selected_color">@color/link_selected_color</item>
     <item name="color/list_divider_color">@color/list_divider_color</item>
-    <item name="color/mentioned">@color/pink</item>
+    <item name="color/mentioned">@color/mentioned</item>
     <item name="color/negative_color">@color/negative_color</item>
+    <item name="color/no_profile_photo">@color/no_profile_photo</item>
     <item name="color/notification">@color/notification</item>
+    <item name="color/pager_scroll_bar">@color/pager_scroll_bar</item>
     <item name="color/positive_color">@color/positive_color</item>
     <item name="color/primary_text">@color/primary_text</item>
     <item name="color/secondary_text">@color/secondary_text</item>
@@ -55,7 +75,8 @@
     <item name="color/solid_white">@color/solid_white</item>
     <item name="color/timestamp_text">@color/timestamp_text</item>
     <item name="color/title_shadow_color">@color/title_shadow_color</item>
-    <item name="color/translucent_black">@color/translucent_black</item> 
+    <item name="color/translucent_black">@color/translucent_black</item>
+
     <!-- Color's in /Color -->
     <item name="color/btn_titlebar_text">@color/com_twitter_android_btn_titlebar_text</item>
     <item name="color/button_text">@color/com_twitter_android_button_text</item>
@@ -79,6 +100,7 @@
     <item name="drawable/bg_card_notch_default">@color/transparent</item>
     <item name="drawable/bg_dialog">@drawable/com_twitter_android_bg_dialog</item>
     <item name="drawable/bg_dialog_textarea">@drawable/com_twitter_android_dialog_bg</item>
+    <item name="drawable/bg_title_tile">@drawable/com_twitter_android_bg_title_tile</item>
     <item name="drawable/bg_gap">@drawable/com_twitter_android_bg_gap</item>
     <item name="drawable/bg_profile_empty">@color/dark_gray</item>
     <item name="drawable/bg_profile_empty">@drawable/com_twitter_android_bg_profile_empty</item>
@@ -126,6 +148,7 @@
     <item name="drawable/ic_tab_discover_selected">@drawable/com_twitter_android_ic_tab_discover_selected</item>
     <item name="drawable/ic_tab_home_selected">@drawable/com_twitter_android_ic_tab_home_selected</item>
     <item name="drawable/ic_tab_me_selected">@drawable/com_twitter_android_ic_tab_me_selected</item>
+    <item name="drawable/ic_tab_new_dot">@drawable/com_twitter_android_ic_tab_new_dot</item>
     <item name="drawable/ic_title_logo">@drawable/com_twitter_android_ic_title_logo</item>
     <item name="drawable/ic_tweets_widget">@drawable/com_twitter_android_ic_tweets_widget</item>
     <item name="drawable/ic_twitter_logo_small_default">@drawable/com_twitter_android_ic_twitter_logo_small_default</item>

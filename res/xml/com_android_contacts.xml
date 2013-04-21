@@ -16,15 +16,82 @@
  # limitations under the License.
  -->
 
-<resource-redirections>
-    <!-- Contacts Drawable's -->
-    <item name="drawable/dialpad_background">@drawable/dialpad_background</item>
-    <item name="drawable/dialpad_background_texture">@drawable/dialpad_background_texture</item> 
+<resource-redirections> 
+    <!-- Colors -->
+    <item name="color/account_container">@color/con_account_container</item>
+    <item name="color/action_bar_button_text_color">@color/con_action_bar_button_text_color</item>
+    <item name="color/background_primary">@color/con_background_primary</item>
+    <item name="color/background_social_updates">@color/con_background_social_updates</item>
+    <item name="color/black_text">@color/con_black_text</item>
+    <item name="color/call_detail_background">@color/con_call_detail_background</item>
+    <item name="color/call_detail_blank_background">@color/con_call_detail_blank_background</item>
+    <item name="color/call_detail_photo_bg">@color/con_call_detail_photo_bg</item>
+    <item name="color/call_detail_separator">@color/con_call_detail_separator</item>
+    <item name="color/call_log_divider">@color/con_call_log_divider</item>
+    <item name="color/call_log_header_color">@color/con_call_log_header_color</item>
+    <item name="color/call_log_missed_call_highlight_color">@color/con_call_log_missed_call_highlight_color</item>
+    <item name="color/call_log_primary_background_color">@color/con_call_log_primary_background_color</item>
+    <item name="color/call_log_primary_text_color">@color/con_call_log_primary_text_color</item>
+    <item name="color/call_log_secondary_background_color">@color/con_call_log_secondary_background_color</item>
+    <item name="color/call_log_secondary_text_color">@color/con_call_log_secondary_text_color</item>
+    <item name="color/call_log_tab_divider">@color/con_call_log_tab_divider</item>
+    <item name="color/call_log_voicemail_highlight_color">@color/con_call_log_voicemail_highlight_color</item> 
+    <item name="color/call_log_voicemail_status_action_text_color">@color/con_call_log_voicemail_status_action_text_color</item>
+    <item name="color/call_log_voicemail_status_background_color">@color/con_call_log_voicemail_status_background_color</item>
+    <item name="color/call_log_voicemail_status_text_color">@color/con_call_log_voicemail_status_text_color</item>
+    <item name="color/contact_count_text_color">@color/con_contact_count_text_color</item>
+    <item name="color/contact_detail_fragment">@color/con_contact_detail_fragment</item>
+    <item name="color/contact_tile_name_text">@color/con_contact_tile_name_text</item>
+    <item name="color/detail_tab_carousel_tab_label_Background_color">@color/con_detail_tab_carousel_tab_label_Background_color</item>
+    <item name="color/detail_tab_carousel_tab_label_color">@color/con_detail_tab_carousel_tab_label_color</item>
+    <item name="color/detail_update_tab_text_color">@color/con_detail_update_tab_text_color</item>
+    <item name="color/dialpad_switch_bg">@color/con_dialpad_switch_bg</item>
+    <item name="color/dialtacts_secondary_text_color">@color/con_dialtacts_secondary_text_color</item>
+    <item name="color/people_app_theme_color">@color/con_people_app_theme_color</item> 
+    <item name="color/people_contact_tile_status_color">@color/con_people_contact_tile_status_color</item>
+    <item name="color/photo_backdrop">@color/con_photo_backdrop</item>
+    <item name="color/photo_container">@color/con_photo_container</item>
+    <item name="color/primary_text_color">@color/primary_text_color</item>
+    <item name="color/quickcontact_list_background">@color/con_quickcontact_list_background</item>
+    <item name="color/quickcontact_list_background">@color/con_textColorIconOverlayShadow</item>
+    <item name="color/quickcontact_list_divider">@color/con_quickcontact_list_divider</item>
+    <item name="color/quickcontact_tab_indicator">@color/con_quickcontact_tab_indicator</item> 
+    <item name="color/secondary_text_color">@color/secondary_text_color</item>
+    <item name="color/section_header_text_color">@color/con_section_header_text_color</item>
+    <item name="color/social_widget_bg">@color/con_social_widget_bg</item>
+    <item name="color/textColorIconOverlay">@color/con_textColorIconOverlay</item>
+    <item name="color/textColorIconOverlayShadow">@color/con_shortcut_overlay_text_background</item>
+    <item name="color/white_text">@color/con_white_text</item>
 
-    <item name="color/call_log_voicemail_highlight_color">@color/holo_blue_bright</item>
-    <item name="color/people_app_theme_color">@color/holo_blue_bright</item>
-    <item name="color/quickcontact_tab_indicator">@color/holo_blue_bright</item>
+    <!-- Style -->
+    <item name="style/BackgroundOnlyTheme">@style/BackgroundOnlyTheme</item>
+    <item name="style/CallDetailActivityTheme1">@style/CallDetailActivityTheme1</item>
+    <item name="style/ConfirmAddDetailDialogTheme">@style/ConfirmAddDetailDialogThemee</item>
+    <item name="style/ContactEditorAccountsChangedActivityTheme">@style/ContactEditorAccountsChangedActivityTheme</item>
+    <item name="style/ContactListFilterTheme">@style/ContactListFilterTheme</item>
+    <item name="style/ContactListSeparatorTextViewStyle">@style/ContactListSeparatorTextViewStyle</item>
+    <item name="style/ContactsActionBarDropDownStyle">@style/ContactsActionBarDropDownStyle</item>
+    <item name="style/ContactsActionBarStyle">@style/ContactsActionBarStyle</item>
+    <item name="style/ContactsActionBarTabView">@style/ContactsActionBarTabView</item>
+    <item name="style/ContactsActionBarTheme">@style/ContactsActionBarTheme</item>
+    <item name="style/ContactsPreferencesTheme">@style/ContactsPreferencesTheme</item>
+    <item name="style/CustomContactListFilterView">@style/CustomContactListFilterView</item>
+    <item name="style/DetailActivityTheme">@style/DetailActivityTheme</item>
+    <item name="style/DialtactsActionBarStyle">@style/DialtactsActionBarStyle</item>
+    <item name="style/DialtactsTheme1">@style/DialtactsTheme1</item>
+    <item name="style/EditorActivityTheme">@style/EditorActivityTheme</item>
+    <item name="style/ListViewDropdownStyle">@style/ListViewDropdownStyle</item>
+    <item name="style/ListViewStyle">@style/ListViewStyle</item>
+    <item name="style/NonPhoneActivityTheme">@style/NonPhoneActivityTheme</item>
+    <item name="style/NonPhoneDialogTheme">@style/NonPhoneDialogTheme</item>
+    <item name="style/PeopleNavigationDropDownHeaderTextAppearance">@style/PeopleNavigationDropDownHeaderTextAppearance</item>
+    <item name="style/PeopleNavigationDropDownTextAppearance">@style/PeopleNavigationDropDownTextAppearance</item>
+    <item name="style/PeopleTheme1">@style/PeopleTheme1</item>
+    <item name="style/QuickContactListBottomStyle">@style/QuickContactListBottomStyle</item>
+    <item name="style/Theme.PhotoSelector">@style/Theme.PhotoSelector</item>
+    <item name="style/Theme.QuickContact">@style/Theme.QuickContact</item>
 
+    <!-- Drawable -->
     <item name="drawable/ab_bottom_opaque_dark_holo">@drawable/com_android_contacts_ab_bottom_opaque_dark_holo</item>
     <item name="drawable/ab_solid_custom_blue_inverse_holo">@drawable/com_android_contacts_ab_solid_custom_blue_inverse_holo</item>
     <item name="drawable/ab_stacked_opaque_dark_holo">@drawable/com_android_contacts_ab_stacked_opaque_dark_holo</item>
@@ -44,7 +111,9 @@
     <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_contacts_btn_dial_textfield_pressed</item>
     <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_contacts_btn_dial_textfield_selected</item>
     <item name="drawable/btn_star_off_normal_holo_dark">@drawable/com_android_contacts_btn_star_off_normal_holo_dark</item>
+    <item name="drawable/btn_star_off_normal_holo_light">@drawable/com_android_contacts_btn_star_off_normal_holo_light</item>
     <item name="drawable/btn_star_on_normal_holo_dark">@drawable/com_android_contacts_btn_star_on_normal_holo_dark</item>
+    <item name="drawable/btn_star_on_normal_holo_light">@drawable/com_android_contacts_btn_star_on_normal_holo_light</item>
     <item name="drawable/contacts_widget_preview">@drawable/com_android_contacts_contacts_widget_preview</item>
     <item name="drawable/dial_background_texture">@drawable/com_android_contacts_dial_background_texture</item>
     <item name="drawable/dial_num_0_blk">@drawable/com_android_contacts_dial_num_0_blk</item>
@@ -70,6 +139,7 @@
     <item name="drawable/dial_num_pound_wht">@drawable/com_android_contacts_dial_num_pound_wht</item>
     <item name="drawable/dial_num_star_blk">@drawable/com_android_contacts_dial_num_star_blk</item>
     <item name="drawable/dial_num_star_wht">@drawable/com_android_contacts_dial_num_star_wht</item>
+    <item name="drawable/dial_num_wht">@drawable/com_android_contacts_dial_num_wht</item>
     <item name="drawable/ic_ab_dialer_holo_dark">@drawable/com_android_contacts_ic_ab_dialer_holo_dark</item>
     <item name="drawable/ic_ab_favourites_holo_dark">@drawable/com_android_contacts_ic_ab_favourites_holo_dark</item>
     <item name="drawable/ic_ab_history_holo_dark">@drawable/com_android_contacts_ic_ab_history_holo_dark</item>
@@ -111,6 +181,7 @@
     <item name="drawable/ic_menu_display_all_holo_light">@drawable/com_android_contacts_ic_menu_display_all_holo_light</item>
     <item name="drawable/ic_menu_done_holo_dark">@drawable/com_android_contacts_ic_menu_done_holo_dark</item>
     <item name="drawable/ic_menu_expander_maximized_holo_light">@drawable/com_android_contacts_ic_menu_expander_maximized_holo_light</item>
+    <item name="drawable/ic_menu_expander_minimized_holo_light">@drawable/com_android_contacts_ic_menu_expander_minimized_holo_light</item>
     <item name="drawable/ic_menu_import_export_holo_light">@drawable/com_android_contacts_ic_menu_import_export_holo_light</item>
     <item name="drawable/ic_menu_mark">@drawable/com_android_contacts_ic_menu_mark</item>
     <item name="drawable/ic_menu_merge_holo_light">@drawable/com_android_contacts_ic_menu_merge_holo_light</item>
@@ -153,6 +224,10 @@
     <item name="drawable/panel_favorites_holo_light">@drawable/com_android_contacts_panel_favorites_holo_light</item>
     <item name="drawable/panel_message">@drawable/com_android_contacts_panel_message</item>
     <item name="drawable/quickcon_background_texture">@drawable/com_android_contacts_quickcon_background_texture</item>
+    <item name="drawable/quickcontact_badge_overlay_normal_light">@drawable/com_android_contacts_quickcontact_badge_overlay_normal_light</item>
+    <item name="drawable/quickcontact_badge_overlay_pressed_light">@drawable/com_android_contacts_quickcontact_badge_overlay_pressed_light</item>
+    <item name="drawable/spinner_default_holo_dark">@drawable/com_android_contacts_spinner_default_holo_dark</item>
+    <item name="drawable/sym_action_audiochat_holo_light">@drawable/com_android_contacts_sym_action_audiochat_holo_light</item>
     <item name="drawable/sym_action_videochat_holo_light">@drawable/com_android_contacts_sym_action_videochat_holo_light</item>
     <item name="drawable/tab_focused_bottom">@drawable/com_android_contacts_tab_focused_bottom</item>
     <item name="drawable/tab_focused">@drawable/com_android_contacts_tab_focused</item>
@@ -169,9 +244,9 @@
     <item name="drawable/tab_unselected_focused_holo">@drawable/com_android_contacts_tab_unselected_focused_holo</item>
     <item name="drawable/tab_unselected_holo">@drawable/com_android_contacts_tab_unselected_holo</item>
     <item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
+    <item name="drawable/unknown_source">@drawable/com_android_contacts_unknown_source</item>
     <item name="mipmap/ic_launcher_contacts">@drawable/com_android_contacts_ic_launcher_contacts</item>
+    <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
     <item name="mipmap/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
-    <item name="mipmap/ic_launcher_shortcut_contact">@mipmap/com_android_contacts_ic_launcher_shortcut_contact</item>
-    <item name="mipmap/ic_launcher_shortcut_directdial">@mipmap/com_android_contacts_ic_launcher_shortcut_directdial</item>
-    <item name="mipmap/ic_launcher_shortcut_directmessage">@mipmap/com_android_contacts_ic_launcher_shortcut_directmessage</item>
+    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
 </resource-redirections>

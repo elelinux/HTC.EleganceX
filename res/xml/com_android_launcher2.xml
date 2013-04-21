@@ -17,6 +17,33 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
+    <item name="drawable/default_widget_preview_holo">@drawable/com_cyanogenmod_trebuchet_default_widget_preview_holo</item>
+    <item name="drawable/homescreen_blue_normal_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_normal_holo</item>
+    <item name="drawable/homescreen_blue_strong_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_strong_holo</item>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/com_cyanogenmod_trebuchet_hotseat_scrubber_holo</item>
     <item name="drawable/ic_allapps">@drawable/com_cyanogenmod_trebuchet_ic_allapps</item>
     <item name="drawable/ic_allapps_pressed">@drawable/com_cyanogenmod_trebuchet_ic_allapps_pressed</item>
+    <item name="drawable/ic_home_search_normal_holo">@drawable/com_cyanogenmod_trebuchet_ic_home_search_normal_holo</item>
+    <item name="drawable/ic_launcher_info_active_holo">@drawable/com_cyanogenmod_trebuchet_ic_launcher_info_active_holo</item>
+    <item name="drawable/overscroll_glow_left">@drawable/com_cyanogenmod_trebuchet_overscroll_glow_left</item>
+    <item name="drawable/overscroll_glow_right">@drawable/com_cyanogenmod_trebuchet_overscroll_glow_right</item>
+    <item name="drawable/paged_view_indicator">@drawable/com_cyanogenmod_trebuchet_paged_view_indicator</item>
+    <item name="drawable/page_hover_left_holo">@drawable/com_cyanogenmod_trebuchet_page_hover_left_holo</item>
+    <item name="drawable/page_hover_right_holo">@drawable/com_cyanogenmod_trebuchet_page_hover_right_holo</item>
+    <item name="drawable/portal_ring_outer_holo">@drawable/com_cyanogenmod_trebuchet_portal_ring_outer_holo</item>
+    <item name="drawable/tab_selected_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_focused_holo</item>
+    <item name="drawable/tab_selected_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_holo</item>
+    <item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_focused_holo</item>
+    <item name="drawable/tab_selected_pressed_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_holo</item>
+    <item name="drawable/tab_unselected_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_focused_holo</item>
+    <item name="drawable/tab_unselected_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_holo</item>
+    <item name="drawable/tab_unselected_pressed_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_pressed_focused_holo</item>
+    <item name="drawable/tab_unselected_pressed_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_pressed_holo</item>
+    <item name="drawable/widget_resize_frame_holo">@drawable/com_cyanogenmod_trebuchet_widget_resize_frame_holo</item>
+    <item name="drawable/widget_resize_frame_holo">@drawable/com_cyanogenmod_trebuchet_widget_resize_frame_holo</item>
+    <item name="drawable/widget_resize_handle_bottom">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_bottom</item>
+    <item name="drawable/widget_resize_handle_left">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_left</item>
+    <item name="drawable/widget_resize_handle_right">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_right</item>
+    <item name="drawable/widget_resize_handle_top">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_top</item>
 </resource-redirections>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <!-- link images from trebuchet -->
+    <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
+    <item name="drawable/default_widget_preview_holo">@drawable/com_cyanogenmod_trebuchet_default_widget_preview_holo</item>
+    <item name="drawable/homescreen_blue_normal_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_normal_holo</item>
+    <item name="drawable/homescreen_blue_strong_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_strong_holo</item>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/com_cyanogenmod_trebuchet_hotseat_scrubber_holo</item>
+    <item name="drawable/ic_allapps">@drawable/com_cyanogenmod_trebuchet_ic_allapps</item>
+    <item name="drawable/ic_allapps_pressed">@drawable/com_cyanogenmod_trebuchet_ic_allapps_pressed</item>
+    <item name="drawable/ic_home_search_normal_holo">@drawable/com_cyanogenmod_trebuchet_ic_home_search_normal_holo</item>
+    <item name="drawable/ic_launcher_info_active_holo">@drawable/com_cyanogenmod_trebuchet_ic_launcher_info_active_holo</item>
+    <item name="drawable/overscroll_glow_left">@drawable/com_cyanogenmod_trebuchet_overscroll_glow_left</item>
+    <item name="drawable/overscroll_glow_right">@drawable/com_cyanogenmod_trebuchet_overscroll_glow_right</item>
+    <item name="drawable/paged_view_indicator">@drawable/com_cyanogenmod_trebuchet_paged_view_indicator</item>
+    <item name="drawable/page_hover_left_holo">@drawable/com_cyanogenmod_trebuchet_page_hover_left_holo</item>
+    <item name="drawable/page_hover_right_holo">@drawable/com_cyanogenmod_trebuchet_page_hover_right_holo</item>
+    <item name="drawable/portal_ring_outer_holo">@drawable/com_cyanogenmod_trebuchet_portal_ring_outer_holo</item>
+    <item name="drawable/tab_selected_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_focused_holo</item>
+    <item name="drawable/tab_selected_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_holo</item>
+    <item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_focused_holo</item>
+    <item name="drawable/tab_selected_pressed_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_holo</item>
+    <item name="drawable/tab_unselected_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_focused_holo</item>
+    <item name="drawable/tab_unselected_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_holo</item>
+    <item name="drawable/tab_unselected_pressed_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_pressed_focused_holo</item>
+    <item name="drawable/tab_unselected_pressed_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_pressed_holo</item>
+    <item name="drawable/widget_resize_frame_holo">@drawable/com_cyanogenmod_trebuchet_widget_resize_frame_holo</item>
+    <item name="drawable/widget_resize_frame_holo">@drawable/com_cyanogenmod_trebuchet_widget_resize_frame_holo</item>
+    <item name="drawable/widget_resize_handle_bottom">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_bottom</item>
+    <item name="drawable/widget_resize_handle_left">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_left</item>
+    <item name="drawable/widget_resize_handle_right">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_right</item>
+    <item name="drawable/widget_resize_handle_top">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_top</item>
+    <!-- link images from hololauncher HD -->
+    <item name="drawable/browser">@drawable/com_mobint_hololauncher_hd</item>
+    <item name="drawable/calculator">@drawable/com_mobint_hololauncher_hd_browser</item>
+    <item name="drawable/calculator">@drawable/com_mobint_hololauncher_hd_calculator</item>
+    <item name="drawable/calendar">@drawable/com_mobint_hololauncher_hd_calendar</item>
+    <item name="drawable/camera">@drawable/com_mobint_hololauncher_hd_camera</item>
+    <item name="drawable/clock">@drawable/com_mobint_hololauncher_hd_clock</item>
+    <item name="drawable/contacts">@drawable/com_mobint_hololauncher_hd_contacts</item>
+    <item name="drawable/email">@drawable/com_mobint_hololauncher_hd_email</item>
+    <item name="drawable/flying_icon_bg_pressed">@drawable/com_mobint_hololauncher_hd_flying_icon_bg_pressed</item>
+    <item name="drawable/focused_bg">@drawable/com_mobint_hololauncher_hd_focused_bg</item>
+    <item name="drawable/gallery">@drawable/com_mobint_hololauncher_hd_gallery</item>
+    <item name="drawable/gardening_crosshair">@drawable/com_mobint_hololauncher_hd_gardening_crosshair</item>
+    <item name="drawable/grid_focused">@drawable/com_mobint_hololauncher_hd_grid_focused</item>
+    <item name="drawable/grid_pressed">@drawable/com_mobint_hololauncher_hd_grid_pressed</item>
+    <item name="drawable/grid_selected">@drawable/com_mobint_hololauncher_hd_grid_selected</item>
+    <item name="drawable/home_button">@drawable/com_mobint_hololauncher_hd_home_button</item>
+    <item name="drawable/ic_lock">@drawable/com_mobint_hololauncher_hd_ic_lock</item>
+    <item name="drawable/ic_menu_home_default">@drawable/com_mobint_hololauncher_hd_ic_menu_home_default</item>
+    <item name="drawable/ic_notifications">@drawable/com_mobint_hololauncher_hd_ic_notifications</item>
+    <item name="drawable/ic_previews">@drawable/com_mobint_hololauncher_hd_ic_previews</item>
+    <item name="drawable/ic_recentapp">@drawable/com_mobint_hololauncher_hd_ic_recentapp</item>
+    <item name="drawable/ic_settings">@drawable/com_mobint_hololauncher_hd_ic_settings</item>
+    <item name="drawable/ic_showmenu">@drawable/com_mobint_hololauncher_hd_ic_showmenu</item>
+    <item name="drawable/ic_toggle_dock">@drawable/com_mobint_hololauncher_hd_ic_toggle_dock</item>
+    <item name="drawable/ic_toggle_statusbar">@drawable/com_mobint_hololauncher_hd_ic_toggle_statusbar</item>
+    <item name="drawable/messaging">@drawable/com_mobint_hololauncher_hd_messaging</item>
+    <item name="drawable/phone">@drawable/com_mobint_hololauncher_hd_phone</item>
+    <item name="drawable/popup_option_selected">@drawable/com_mobint_hololauncher_hd_popup_option_selected</item>
+    <item name="drawable/portal_ring_rest">@drawable/com_mobint_hololauncher_hd_portal_ring_rest</item>
+    <item name="drawable/settings">@drawable/com_mobint_hololauncher_hd_settings</item>
+</resource-redirections>

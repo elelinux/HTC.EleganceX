@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/framework_res_list_activated_holo" android:state_activated="true" />
+    <item android:drawable="@drawable/com_android_contacts_list_background_holo" />
+</selector>

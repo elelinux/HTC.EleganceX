@@ -26,6 +26,7 @@
     <item name="drawable/ic_rom_control_led">@drawable/com_aokp_romcontrol_ic_rom_control_led</item>
     <item name="drawable/ic_rom_control_lockscreens">@drawable/com_aokp_romcontrol_ic_rom_control_lockscreens</item>
     <item name="drawable/ic_rom_control_navigation_bar">@drawable/com_aokp_romcontrol_ic_rom_control_navigation_bar</item>
+    <item name="drawable/ic_rom_control_navigation_ring">@drawable/com_aokp_romcontrol_ic_rom_control_navigation_ring</item>
     <item name="drawable/ic_rom_control_performance">@drawable/com_aokp_romcontrol_ic_rom_control_performance</item>
     <item name="drawable/ic_rom_control_power_menu">@drawable/com_aokp_romcontrol_ic_rom_control_power_menu</item>
     <item name="drawable/ic_rom_control_powersaver">@drawable/com_aokp_romcontrol_ic_rom_control_powersaver</item>
