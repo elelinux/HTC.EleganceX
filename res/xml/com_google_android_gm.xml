@@ -17,6 +17,19 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/gradient_bg_gmail_widget_holo">@drawable/com_google_android_gm_gradient_bg_gmail_widget_holo</item>
+    <item name="drawable/gradient_bg_widget_holo">@drawable/com_google_android_gm_gradient_bg_widget_holo</item>
+    <item name="drawable/header_bg_gmail_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
+    <item name="drawable/header_bg_widget_holo">@drawable/com_google_android_gm_header_bg_widget_holo</item>
+    <item name="drawable/header_convo_view_sender_bg_holo">@drawable/com_google_android_gm_header_convo_view_sender_bg_holo</item>
+    <item name="drawable/ic_menu_compose_normal_holo_light">@drawable/com_google_android_gm_ic_menu_compose_normal_holo_light</item>
+    <item name="drawable/list_activated_holo">@drawable/com_google_android_gm_list_activated_holo</item>
+    <item name="drawable/list_div_top_btm_widget_holo">@drawable/com_google_android_gm_list_div_top_btm_widget_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/com_google_android_gm_list_focused_holo</item>
+    <item name="drawable/list_pressed_holo">@drawable/com_google_android_gm_list_pressed_holo</item>
+    <item name="drawable/list_read_holo">@drawable/com_google_android_gm_list_read_holo</item>
+    <item name="drawable/list_selected_holo">@drawable/com_google_android_gm_list_selected_holo</item>
+    <item name="drawable/list_unread_holo">@drawable/com_google_android_gm_list_unread_holo</item>
     <item name="drawable/stat_notify_email">@drawable/com_google_android_gm_stat_notify_email</item>
     <item name="mipmap/ic_launcher_mail">@mipmap/com_google_android_gm_ic_launcher_mail</item>
     <item name="mipmap/ic_launcher_shortcut_gmail">@mipmap/com_google_android_gm_ic_launcher_shortcut_gmail</item>

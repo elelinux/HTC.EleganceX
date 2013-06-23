@@ -128,42 +128,6 @@
     </style>
     <!-- Systemui End -->
 
-    <!-- Twitter -->
-    <style name="InsetText.CharCount" parent="@style/InsetText">
-        <item name="android:textSize">14.0sp</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/lightest_gray</item>
-        <item name="android:singleLine">true</item>
-        <item name="android:shadowColor">@color/bg_focused</item>
-    </style>
-    <style name="InsetText">
-        <item name="android:textColor">@color/lightest_gray</item>
-        <item name="android:shadowColor">@color/bg_focused</item>
-        <item name="android:shadowDy">1.0</item>
-        <item name="android:shadowRadius">0.5</item>
-    </style>
-    <style name="ProfileText">
-        <item name="android:textSize">14.0sp</item>
-        <item name="android:textColor">@color/lightest_gray</item>
-        <item name="android:ellipsize">end</item>
-        <item name="android:background">@null</item>
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:singleLine">true</item>
-        <item name="android:shadowColor">@color/black</item>
-        <item name="android:shadowDy">1.0</item>
-        <item name="android:shadowRadius">0.5</item>
-    </style>
-    <style name="TitleText">
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/holo_blue_bright</item>
-        <item name="android:ellipsize">end</item>
-        <item name="android:singleLine">true</item>
-        <item name="android:shadowColor">@color/med_gray</item>
-        <item name="android:shadowDy">-1.0</item>
-        <item name="android:shadowRadius">0.5</item>
-    </style>
-    <!-- Twitter end -->
     <!-- Contacts -->
     <style name="DialtactsTheme1" parent="@android:style/Theme.Holo">
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
@@ -317,4 +281,42 @@
         <item name="android:textSize">18.0sp</item>
         <item name="android:textColor">#cdffffff</item>
     </style>
+    <!-- Contacts end -->
+
+    <!-- Twitter -->
+    <style name="InsetText.CharCount" parent="@style/InsetText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/lightest_gray</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/bg_focused</item>
+    </style>
+    <style name="InsetText">
+        <item name="android:textColor">@color/lightest_gray</item>
+        <item name="android:shadowColor">@color/bg_focused</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="ProfileText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/lightest_gray</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="TitleText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/holo_blue_bright</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/med_gray</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <!-- Twitter end -->
 </resources>

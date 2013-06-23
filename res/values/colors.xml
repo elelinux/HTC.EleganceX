@@ -114,6 +114,16 @@
     <color name="transparent">#00000000</color>
     <color name="grey_light">#ffdbd7d2</color>
 
+    <!-- Calculator -->
+    <color name="magic_flame">#ff000000</color>
+    <color name="button_text">#ff000000</color>
+    <color name="button_hint_text">#474747</color>
+    <color name="pressed_color">#ffaadd00</color>
+    <color name="history_input">#E6E6E6</color>
+    <color name="history_result">#999999</color>
+    <color name="cal_background">#ff404040</color>
+    <color name="graph_color">#31B6E7</color>
+
     <!-- Contacts -->
     <color name="con_quickcontact_list_divider">#ffaadd00</color>
     <color name="con_quickcontact_list_background">#ff000000</color>
@@ -123,6 +133,12 @@
     <color name="con_background_primary">#ff000000</color>
     <color name="con_background_social_updates">#ff000000</color>
     <color name="con_account_container">#00000000</color>
+
+    <color name="con_call_detail_separator">#ffaadd00</color>
+    <color name="con_call_log_header_color">#ffaadd00</color>
+    <color name="con_call_log_voicemail_highlight_color">#ffaadd00</color>
+    <color name="con_call_log_voicemail_status_action_text_color">#ffaadd00</color>
+    <color name="con_call_stats_incoming">#ffaadd00</color>
 
     <!-- Extra -->
     <color name="lightest_gray">#ffededed</color>
@@ -167,7 +183,8 @@
     <!-- Twitter -->
 <!--    <color name="action_bar_background">#ffffffff</color>-->
     <color name="action_bar_background">#ff000000</color>
-    <color name="action_bar">#fff8f8f8</color>
+<!--    <color name="action_bar">#fff8f8f8</color>-->
+    <color name="action_bar">#ff000000</color>
 <!--    <color name="actionbar_pressed_bg">#ff3d8aae</color>-->
     <color name="actionbar_pressed_bg">#ffaadd00</color>
     <color name="action_bar_pressed">#ffd0d0d0</color>
@@ -203,7 +220,8 @@
     <color name="dot">#ffcfcfcf</color>
     <color name="event_divider">#ffbbbbbb</color>
     <color name="event_divider_reflection">#fff6f6f6</color>
-    <color name="event_header_background">#ffcccccc</color>
+<!--    <color name="event_header_background">#ffcccccc</color>-->
+    <color name="event_header_background">#ff000000</color>
     <color name="grouped_row_view_stroke">#ffdddddd</color>
     <color name="image_overlay">#22000000</color>
     <color name="link_color">#ff2477b3</color>
@@ -220,8 +238,8 @@
     <color name="positive_color">#ff6cac50</color>
 <!--    <color name="primary_text">#ff222222</color>
     <color name="secondary_text">#ff888888</color>-->
-    <color name="primary_text">#ffededed</color>
-    <color name="secondary_text">#ffbfbfbf</color>
+    <color name="primary_text">#ff7a7a7a</color>
+    <color name="secondary_text">#ff7a7a7a</color>
     <color name="section_shadow_color">#ff888888</color>
     <color name="signup_error">#ffff0000</color>
     <color name="soft_black">#ff333333</color>

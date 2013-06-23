@@ -48,6 +48,7 @@
     <item name="drawable/weather2_18">@drawable/com_cyanogenmod_lockclock_weather2_18</item>
     <item name="drawable/weather2_19">@drawable/com_cyanogenmod_lockclock_weather2_19</item>
     <item name="drawable/weather_21">@drawable/com_cyanogenmod_lockclock_weather_21</item>
+    <item name="drawable/weather2_0">@drawable/com_cyanogenmod_lockclock_weather2_0</item>
     <item name="drawable/weather2_1">@drawable/com_cyanogenmod_lockclock_weather2_1</item>
     <item name="drawable/weather2_21">@drawable/com_cyanogenmod_lockclock_weather2_21</item>
     <item name="drawable/weather2_22">@drawable/com_cyanogenmod_lockclock_weather2_22</item>
@@ -119,5 +120,8 @@
     <item name="drawable/weather_8">@drawable/com_cyanogenmod_lockclock_weather_8</item> 
     <item name="drawable/weather_9">@drawable/com_cyanogenmod_lockclock_weather_9</item>
     <item name="drawable/weather_na">@drawable/com_cyanogenmod_lockclock_weather_na</item>
-    <item name="drawable/weather_weather_preferences">@drawable/com_cyanogenmod_lockclock_weather_weather_preferences</item> 
+    <item name="drawable/clock_preferences">@drawable/com_cyanogenmod_lockclock_clock_preferences</item> 
+    <item name="drawable/calendar_preferences">@drawable/com_cyanogenmod_lockclock_calendar_preferences</item> 
+    <item name="drawable/ic_lock_idle_calendar_preferences">@drawable/com_cyanogenmod_lockclock_ic_lock_idle_calendar_preferences</item> 
+    <item name="drawable/weather_preferences">@drawable/com_cyanogenmod_lockclock_weather_preferences</item> 
 </resource-redirections>

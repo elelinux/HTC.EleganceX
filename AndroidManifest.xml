@@ -19,8 +19,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.HTC.EleganceX"
-    android:versionCode="7"
-    android:versionName="1.0.8.1"
+    android:versionCode="9"
+    android:versionName="1.0.8.3"
     android:installLocation="internalOnly"
     android:hasCode="false">
 

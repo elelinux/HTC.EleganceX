@@ -17,5 +17,21 @@
  -->
 
 <resource-redirections>
+    <!-- Color -->
+    <item  name="color/magic_flame">@color/magic_flame</item>
+    <item  name="color/button_text">@color/button_text</item>
+    <item  name="color/button_hint_text">@color/button_hint_text</item>
+    <item  name="color/pressed_color">@color/pressed_color</item>
+    <item  name="color/history_input">@color/history_input</item>
+    <item  name="color/history_result">@color/history_result</item>
+    <item  name="color/background">@color/cal_background</item>
+    <item  name="color/graph_color">@color/graph_color</item>
+
+    <!-- Drawable -->
+    <item name="drawable/btn_keyboard_key_dark_normal_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_normal_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_pressed_holo</item>
+    <item name="drawable/btn_keyboard_key_light_normal_holo">@drawable/com_android_calculator2_btn_keyboard_key_light_normal_holo</item>
+    <item name="drawable/btn_keyboard_key_light_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_light_pressed_holo</item>
+
     <item name="mipmap/ic_launcher_calculator">@drawable/ic_launcher_calculator</item>
 </resource-redirections>

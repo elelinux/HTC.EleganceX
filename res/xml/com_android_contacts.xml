@@ -28,6 +28,7 @@
     <item name="color/call_detail_photo_bg">@color/con_call_detail_photo_bg</item>
     <item name="color/call_detail_separator">@color/con_call_detail_separator</item>
     <item name="color/call_log_divider">@color/con_call_log_divider</item>
+    <item name="color/call_stats_incoming">@color/con_call_stats_incoming</item>
     <item name="color/call_log_header_color">@color/con_call_log_header_color</item>
     <item name="color/call_log_missed_call_highlight_color">@color/con_call_log_missed_call_highlight_color</item>
     <item name="color/call_log_primary_background_color">@color/con_call_log_primary_background_color</item>

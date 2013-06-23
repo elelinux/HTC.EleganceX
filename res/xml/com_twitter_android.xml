@@ -84,33 +84,48 @@
     <item name="color/follow_btn_text">@color/com_twitter_android_follow_btn_text</item>
     <item name="color/list_item_secondary_text">@color/com_twitter_android_list_item_secondary_text</item>
     <item name="color/tab_item_title">@color/com_twitter_android_tab_item_title</item>
+    <item name="color/bg_media_tweet_preview">@color/com_twitter_android_bg_media_tweet_preview</item>
+    <item name="color/action_item_color">@color/com_twitter_android_action_item_color</item>
 
     <!-- Theme style -->
     <item name="style/InsetText.CharCount">@style/InsetText.CharCount</item>
     <item name="style/ProfileText">@style/ProfileText</item>
     <item name="style/TitleText">@style/TitleText</item>
 
-    <!-- Theme drawable -->
+    <!-- Theme drawable xml -->
+    <item name="drawable/list_row_background">@drawable/com_twitter_android_list_row_background</item>
+
+    <!-- Drawable -->
     <item name="drawable/appwidget_bg">@drawable/com_twitter_android_appwidget_bg</item>
     <item name="drawable/appwidget_bg_focused">@drawable/com_twitter_android_appwidget_bg_focused</item>
     <item name="drawable/appwidget_bg_pressed">@drawable/com_twitter_android_appwidget_bg_pressed</item>
     <item name="drawable/appwidget_small_bg_default">@drawable/com_twitter_android_appwidget_small_bg_default</item>
     <item name="drawable/appwidget_small_bg_focused">@drawable/com_twitter_android_appwidget_small_bg_focused</item>
     <item name="drawable/appwidget_small_bg_pressed">@drawable/com_twitter_android_appwidget_small_bg_pressed</item>
-    <item name="drawable/bg_card_notch_default">@color/transparent</item>
+    <item name="drawable/bg_card_notch_default">@drawable/com_twitter_android_bg_card_notch_default</item>
+    <item name="drawable/bg_card_notch_pressed">@drawable/com_twitter_android_bg_card_notch_pressed</item>
     <item name="drawable/bg_dialog">@drawable/com_twitter_android_bg_dialog</item>
-    <item name="drawable/bg_dialog_textarea">@drawable/com_twitter_android_dialog_bg</item>
-    <item name="drawable/bg_title_tile">@drawable/com_twitter_android_bg_title_tile</item>
+    <item name="drawable/bg_dialog_textarea">@drawable/com_twitter_android_bg_dialog_textarea</item>
+    <item name="drawable/bg_error">@drawable/com_twitter_android_bg_error</item>
+    <item name="drawable/bg_gap_bottom">@drawable/com_twitter_android_bg_gap_bottom</item>
     <item name="drawable/bg_gap">@drawable/com_twitter_android_bg_gap</item>
+    <item name="drawable/bg_gap_top">@drawable/com_twitter_android_bg_gap_top</item>
     <item name="drawable/bg_profile_empty">@color/dark_gray</item>
     <item name="drawable/bg_profile_empty">@drawable/com_twitter_android_bg_profile_empty</item>
     <item name="drawable/bg_tabbar_tile">@drawable/com_twitter_android_bg_tabbar_tile</item>
     <item name="drawable/bg_tabbar_tile">@drawable/com_twitter_android_bg_ta</item>
     <item name="drawable/bg_titlebar_signup_tile">@drawable/com_twitter_android_bg_titlebar_signup_tile</item>
     <item name="drawable/bg_titlebar_tile">@drawable/com_twitter_android_bg_titlebar_signup_tile</item>
+    <item name="drawable/bg_title_tile">@drawable/com_twitter_android_bg_title_tile</item>
+    <item name="drawable/bg_tweet_placeholder_tile">@drawable/com_twitter_android_bg_tweet_placeholder_tile</item>
     <item name="drawable/btn_active_default">@drawable/com_twitter_android_btn_active_default</item>
     <item name="drawable/btn_active_focused">@drawable/com_twitter_android_btn_active_focused</item>
     <item name="drawable/btn_active_pressed">@drawable/com_twitter_android_btn_active_pressed</item>
+
+    <item name="drawable/btn_segmented_default">@drawable/com_twitter_android_btn_segmented_default</item>
+    <item name="drawable/btn_segmented_pressed">@drawable/com_twitter_android_btn_segmented_pressed</item>
+    <item name="drawable/btn_segmented_selected">@drawable/com_twitter_android_btn_segmented_selected</item>
+
     <item name="drawable/btn_sign_up_default">@drawable/com_twitter_android_btn_sign_up_default</item>
     <item name="drawable/btn_sign_up_focused">@drawable/com_twitter_android_btn_sign_up_focused</item>
     <item name="drawable/btn_sign_up_pressed">@drawable/com_twitter_android_btn_sign_up_pressed</item>
@@ -156,4 +171,5 @@
     <item name="drawable/list_row_background">@drawable/com_twitter_android_list_row_background</item>
     <item name="drawable/twitter_account">@drawable/com_twitter_android_twitter_account</item>
     <item name="drawable/twitter_account_small">@drawable/com_twitter_android_twitter_account_small</item>
+    <item name="drawable/tool_bar_background">@drawable/com_twitter_android_tool_bar_background</item>
 </resource-redirections>
